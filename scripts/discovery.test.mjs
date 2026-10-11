@@ -2,6 +2,7 @@ import assert from 'node:assert/strict';
 import test from 'node:test';
 import { readFileSync } from 'node:fs';
 import { dailyProject, drawProject, eligibleProjects, localDay, nextLocalMidnightDelay, nextUtcMidnightDelay, rarity, utcDay } from '../src/lib/discovery.mjs';
+import { normalizeLicenseFacts } from '../src/lib/catalog-contract.mjs';
 
 const project = (id, overrides = {}) => ({ id, stars: 30, license: 'MIT', licenseStatus: 'declared', ...overrides });
 const ids = (projects) => projects.map(({ id }) => id);
@@ -133,7 +134,8 @@ test('real catalog discovery does not mutate metadata or recommend quarantined r
   for (let day = 0; day < 30; day += 1) {
     const selected = dailyProject(catalog, localDay(new Date(2026, 8, 19 + day)));
     assert.ok(selected.stars >= 20 && selected.stars <= 50);
-    assert.ok(['declared', 'confirmed'].includes(selected.licenseStatus));
+    const facts = normalizeLicenseFacts(selected.license, selected.licenseStatus);
+    assert.ok(facts.status === 'identified' || ['declared', 'confirmed'].includes(selected.licenseStatus));
     assert.notEqual(selected.catalogStatus, 'review-pending');
   }
   assert.equal(JSON.stringify(catalog), before);

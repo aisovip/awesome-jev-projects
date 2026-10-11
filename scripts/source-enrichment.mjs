@@ -214,49 +214,43 @@ export function createSummaryEnricher({
   timeoutMs = 20000,
 } = {}) {
   let circuit = null;
-  const isDeepSeek = Boolean(
-    (token && token === process.env.DEEPSEEK_API_KEY) ||
-      process.env.DEEPSEEK_API_KEY ||
-      source === "deepseek" ||
-      endpoint?.includes("deepseek.com") ||
-      model?.includes("deepseek") ||
-      (token && token.startsWith("sk-") && !token.startsWith("sk-or-") && !token.startsWith("ghp_") && !token.startsWith("github_pat_"))
-  );
   const isMuse = Boolean(
-    !isDeepSeek && (
-      (token && token === process.env.MUSE_API_KEY) ||
-        process.env.MUSE_API_KEY ||
-        source === "muse-spark" ||
-        endpoint?.includes("meta.ai") ||
-        endpoint?.includes("openrouter.ai") ||
-        model?.includes("muse") ||
-        token?.startsWith("muse-")
+    source === "muse-spark" ||
+      endpoint?.includes("meta.ai") ||
+      endpoint?.includes("openrouter.ai") ||
+      model?.includes("muse") ||
+      token?.startsWith("muse-") ||
+      token?.startsWith("sk-or-") ||
+      (token && token === process.env.MUSE_API_KEY)
+  );
+  const isDeepSeek = Boolean(
+    !isMuse && (
+      source === "deepseek" ||
+        endpoint?.includes("deepseek.com") ||
+        model?.includes("deepseek") ||
+        (token && token === process.env.DEEPSEEK_API_KEY) ||
+        (token && token.startsWith("sk-") && !token.startsWith("sk-or-") && !token.startsWith("ghp_") && !token.startsWith("github_pat_")) ||
+        (!token && !source && !endpoint && !model && process.env.DEEPSEEK_API_KEY)
     )
   );
   const resolvedEndpoint =
     endpoint ||
-    process.env.DEEPSEEK_ENDPOINT ||
-    process.env.MUSE_ENDPOINT ||
-    process.env.MODELS_URL ||
     (isDeepSeek
-      ? "https://api.deepseek.com/chat/completions"
+      ? (process.env.DEEPSEEK_ENDPOINT || "https://api.deepseek.com/chat/completions")
       : isMuse
-        ? token?.startsWith("sk-or-")
+        ? (process.env.MUSE_ENDPOINT || (token?.startsWith("sk-or-")
           ? "https://openrouter.ai/api/v1/chat/completions"
-          : "https://api.meta.ai/v1/chat/completions"
-        : MODELS_URL);
+          : "https://api.meta.ai/v1/chat/completions"))
+        : (process.env.MODELS_URL || MODELS_URL));
   const resolvedModel =
     model ||
-    process.env.DEEPSEEK_MODEL ||
-    process.env.MUSE_MODEL ||
-    process.env.MODELS_MODEL ||
     (isDeepSeek
-      ? "deepseek-flash"
+      ? (process.env.DEEPSEEK_MODEL || "deepseek-flash")
       : isMuse
-        ? token?.startsWith("sk-or-")
+        ? (process.env.MUSE_MODEL || (token?.startsWith("sk-or-")
           ? "meta/muse-spark-1.3-contributor"
-          : "muse-spark-1.3-contributor"
-        : "gpt-4o-mini");
+          : "muse-spark-1.3-contributor"))
+        : (process.env.MODELS_MODEL || "gpt-4o-mini"));
   const modelSource = source || (isDeepSeek ? "deepseek" : isMuse ? "muse-spark" : "github-models");
   return async function enrich({
     repo,

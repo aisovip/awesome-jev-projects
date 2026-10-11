@@ -320,10 +320,13 @@ export function refreshMetadata(
   // Pinned seeds retain every editorial and non-time field, including their
   // fixed source SHA, license and forks. Only stars/timestamps/status change.
   if (!project.pinned) {
+    const licenseFacts = licenseFactsFromRepo(meta);
+    const licenseStatus = project.licenseStatus ?? (licenseFacts.status === "identified" ? "declared" : licenseFacts.status === "custom" ? "custom" : "unconfirmed");
     Object.assign(refreshed, {
       forks: meta.forks_count,
       openIssues: meta.open_issues_count,
-      license: licenseFactsFromRepo(meta),
+      license: licenseFacts,
+      licenseStatus,
       headSha: commits[0]?.sha ?? null,
       createdAt: meta.created_at,
       avatarUrl: meta.owner?.avatar_url,
@@ -366,6 +369,7 @@ async function projectFromMaterialDecision({ api, decision, inspection, started 
     forks: repo.forks_count,
     openIssues: repo.open_issues_count,
     license: licenseFactsFromRepo(repo),
+    licenseStatus: licenseFactsFromRepo(repo).status === "identified" ? "declared" : licenseFactsFromRepo(repo).status === "custom" ? "custom" : "unconfirmed",
     createdAt: repo.created_at,
     lastCommitAt: commits[0]?.commit.committer.date ?? null,
     headSha: sha,

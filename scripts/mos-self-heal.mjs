@@ -143,14 +143,23 @@ export async function consultMosForRepair({
   ...failure
 }) {
   const fallback = heuristicDiagnosis(failure);
-  if (!token || fallback.actions.length === 0) return fallback;
-  const isDeepSeek = Boolean(
-    endpoint?.includes("deepseek.com") ||
-    model?.includes("deepseek") ||
-    process.env.DEEPSEEK_API_KEY ||
-    (token && token.startsWith("sk-") && !token.startsWith("sk-or-"))
+  const isMuse = Boolean(
+    endpoint?.includes("meta.ai") ||
+    endpoint?.includes("openrouter.ai") ||
+    model?.includes("muse") ||
+    token?.startsWith("muse-") ||
+    token?.startsWith("sk-or-")
   );
-  const openrouter = endpoint ? endpoint === "https://openrouter.ai/api/v1/chat/completions" : token.startsWith("sk-or-");
+  const isDeepSeek = Boolean(
+    !isMuse && (
+      endpoint?.includes("deepseek.com") ||
+      model?.includes("deepseek") ||
+      (token && token.startsWith("sk-") && !token.startsWith("sk-or-")) ||
+      (!token && process.env.DEEPSEEK_API_KEY) ||
+      (token && token === process.env.DEEPSEEK_API_KEY)
+    )
+  );
+  const openrouter = endpoint ? endpoint === "https://openrouter.ai/api/v1/chat/completions" : Boolean(token?.startsWith("sk-or-"));
   const url = endpoint || (isDeepSeek ? "https://api.deepseek.com/chat/completions" : openrouter ? "https://openrouter.ai/api/v1/chat/completions" : "https://api.meta.ai/v1/chat/completions");
   const expectedModel = isDeepSeek ? (model || "deepseek-flash") : (openrouter ? "meta/muse-spark-1.3-contributor" : "muse-spark-1.3-contributor");
   // Do not send a credential to an arbitrary configured URL or silently switch
