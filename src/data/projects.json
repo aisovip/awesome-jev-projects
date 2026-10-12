@@ -63259,14 +63259,19 @@
         "source": "readme"
       }
     },
-    "stars": 64,
+    "stars": 66,
     "forks": 11,
     "openIssues": 1,
-    "license": "MIT",
+    "license": {
+      "status": "identified",
+      "spdx": "MIT",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
     "createdAt": "2026-09-18T09:18:35Z",
     "lastCommitAt": "2026-09-27T12:29:28Z",
     "headSha": "a2b0dd3cac3ad3a35b3b82c96d00790881da1dcd",
-    "metadataFetchedAt": "2026-10-02T22:38:03.564Z",
+    "metadataFetchedAt": "2026-10-12T05:19:32.409Z",
     "metadataStatus": "ok",
     "avatarUrl": "https://avatars.githubusercontent.com/u/291447?v=4",
     "verificationStatus": "integration-detected",
@@ -63290,10 +63295,11 @@
       ]
     },
     "sourceHash": "623ea6922ab0cff0efb111e870c0a05a36dac8c451c17d9cff6045ad5276184f",
-    "updatedAt": "2026-10-02T22:04:42Z",
+    "updatedAt": "2026-10-07T12:06:29Z",
     "pushedAt": "2026-09-27T12:29:30Z",
-    "lastSyncedAt": "2026-10-02T22:38:03.564Z",
-    "archived": false
+    "lastSyncedAt": "2026-10-12T05:19:32.409Z",
+    "archived": false,
+    "licenseStatus": "declared"
   },
   {
     "id": "danielnc:jev-browse",
@@ -63335,12 +63341,17 @@
     },
     "stars": 8,
     "forks": 1,
-    "openIssues": 0,
-    "license": "MIT",
+    "openIssues": 1,
+    "license": {
+      "status": "identified",
+      "spdx": "MIT",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
     "createdAt": "2026-09-24T19:40:42Z",
     "lastCommitAt": "2026-09-27T13:13:31Z",
     "headSha": "935c69053c53ec66d737fc3dec6c67dfbfd8904f",
-    "metadataFetchedAt": "2026-10-02T22:38:06.581Z",
+    "metadataFetchedAt": "2026-10-12T05:19:35.419Z",
     "metadataStatus": "ok",
     "avatarUrl": "https://avatars.githubusercontent.com/u/428351?v=4",
     "verificationStatus": "integration-detected",
@@ -63365,9 +63376,10 @@
     },
     "sourceHash": "e822aac268d08969a75f64a5c243d825342cb4123099bacad0b47fdf6ec61081",
     "updatedAt": "2026-09-30T23:39:58Z",
-    "pushedAt": "2026-09-27T13:13:35Z",
-    "lastSyncedAt": "2026-10-02T22:38:06.581Z",
-    "archived": false
+    "pushedAt": "2026-10-08T05:54:47Z",
+    "lastSyncedAt": "2026-10-12T05:19:35.419Z",
+    "archived": false,
+    "licenseStatus": "declared"
   },
   {
     "id": "theadaply:jev-apply",
@@ -63407,14 +63419,19 @@
         "source": "readme"
       }
     },
-    "stars": 9,
+    "stars": 13,
     "forks": 4,
     "openIssues": 0,
-    "license": "MIT",
+    "license": {
+      "status": "identified",
+      "spdx": "MIT",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
     "createdAt": "2026-09-22T17:55:50Z",
     "lastCommitAt": "2026-09-28T17:29:32Z",
     "headSha": "7b4e63d278fde1d427a6d41125e3e0c1621b0451",
-    "metadataFetchedAt": "2026-10-02T22:38:09.577Z",
+    "metadataFetchedAt": "2026-10-12T05:19:38.420Z",
     "metadataStatus": "ok",
     "avatarUrl": "https://avatars.githubusercontent.com/u/297577903?v=4",
     "verificationStatus": "integration-detected",
@@ -63438,10 +63455,11 @@
       ]
     },
     "sourceHash": "b155662d00747c059cdf2c8bb8210b03732cece14fee4cf419a342731161aafd",
-    "updatedAt": "2026-09-30T06:47:08Z",
+    "updatedAt": "2026-10-06T19:13:35Z",
     "pushedAt": "2026-09-28T17:29:32Z",
-    "lastSyncedAt": "2026-10-02T22:38:09.577Z",
-    "archived": false
+    "lastSyncedAt": "2026-10-12T05:19:38.420Z",
+    "archived": false,
+    "licenseStatus": "declared"
   },
   {
     "id": "omnijev:onejev",
@@ -63481,14 +63499,19 @@
         "source": "repo-description"
       }
     },
-    "stars": 110,
-    "forks": 12,
+    "stars": 159,
+    "forks": 17,
     "openIssues": 0,
-    "license": "Apache-2.0",
+    "license": {
+      "status": "identified",
+      "spdx": "Apache-2.0",
+      "name": "Apache License 2.0",
+      "url": "https://api.github.com/licenses/apache-2.0"
+    },
     "createdAt": "2026-09-27T14:27:14Z",
-    "lastCommitAt": "2026-09-30T19:19:30Z",
-    "headSha": "81ce62f1597c91e46767d4d02d6ac2e18534fe94",
-    "metadataFetchedAt": "2026-10-02T22:38:12.528Z",
+    "lastCommitAt": "2026-10-11T10:52:03Z",
+    "headSha": "474b50cabb325504dc0a4fb7622bd5a6f289c15d",
+    "metadataFetchedAt": "2026-10-12T05:19:41.324Z",
     "metadataStatus": "ok",
     "avatarUrl": "https://avatars.githubusercontent.com/u/330584757?v=4",
     "verificationStatus": "integration-detected",
@@ -63512,10 +63535,11 @@
       ]
     },
     "sourceHash": "560ca00f7ecffee72e6490afdd69a34cf4f55a6e1765a0493d4beebf8b6b4278",
-    "updatedAt": "2026-10-02T18:45:16Z",
-    "pushedAt": "2026-09-30T19:19:33Z",
-    "lastSyncedAt": "2026-10-02T22:38:12.528Z",
-    "archived": false
+    "updatedAt": "2026-10-12T02:07:27Z",
+    "pushedAt": "2026-10-11T10:52:04Z",
+    "lastSyncedAt": "2026-10-12T05:19:41.324Z",
+    "archived": false,
+    "licenseStatus": "declared"
   },
   {
     "id": "ickma2311:jev-baselines-eval",
@@ -63555,14 +63579,19 @@
         "source": "readme"
       }
     },
-    "stars": 5,
+    "stars": 6,
     "forks": 0,
     "openIssues": 0,
-    "license": "MIT",
+    "license": {
+      "status": "identified",
+      "spdx": "MIT",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
     "createdAt": "2026-09-18T22:57:35Z",
     "lastCommitAt": "2026-09-25T21:28:02Z",
     "headSha": "3b828cb68992c00835b3f126a3d13534da875277",
-    "metadataFetchedAt": "2026-10-02T22:38:15.554Z",
+    "metadataFetchedAt": "2026-10-12T05:19:44.387Z",
     "metadataStatus": "ok",
     "avatarUrl": "https://avatars.githubusercontent.com/u/155027315?v=4",
     "verificationStatus": "integration-detected",
@@ -63586,10 +63615,11 @@
       ]
     },
     "sourceHash": "7ae5c31db9cece01b15528f9508dda12fce30e98888eb191ed5fb181106edf70",
-    "updatedAt": "2026-09-29T20:50:52Z",
+    "updatedAt": "2026-10-09T23:02:32Z",
     "pushedAt": "2026-09-25T21:28:04Z",
-    "lastSyncedAt": "2026-10-02T22:38:15.554Z",
-    "archived": false
+    "lastSyncedAt": "2026-10-12T05:19:44.387Z",
+    "archived": false,
+    "licenseStatus": "declared"
   },
   {
     "id": "darwintechlab:openjev",
@@ -63629,14 +63659,19 @@
         "source": "repo-description"
       }
     },
-    "stars": 9,
+    "stars": 10,
     "forks": 0,
     "openIssues": 0,
-    "license": "MIT",
+    "license": {
+      "status": "identified",
+      "spdx": "MIT",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
     "createdAt": "2026-09-24T04:08:31Z",
     "lastCommitAt": "2026-09-25T05:56:14Z",
     "headSha": "01b26242e59feb171f6fb5ae7faa8a7a54771c04",
-    "metadataFetchedAt": "2026-10-02T22:38:18.528Z",
+    "metadataFetchedAt": "2026-10-12T05:19:47.376Z",
     "metadataStatus": "ok",
     "avatarUrl": "https://avatars.githubusercontent.com/u/312180708?v=4",
     "verificationStatus": "integration-detected",
@@ -63660,10 +63695,11 @@
       ]
     },
     "sourceHash": "ddd543cd57e7d2b6f25d13a93dff36d0c8fe925186fd30c057c738b53360083e",
-    "updatedAt": "2026-10-02T20:00:33Z",
+    "updatedAt": "2026-10-05T14:45:23Z",
     "pushedAt": "2026-09-25T05:56:17Z",
-    "lastSyncedAt": "2026-10-02T22:38:18.528Z",
-    "archived": false
+    "lastSyncedAt": "2026-10-12T05:19:47.376Z",
+    "archived": false,
+    "licenseStatus": "declared"
   },
   {
     "id": "kiler398:jev-demo",
@@ -63703,14 +63739,17 @@
         "source": "rules"
       }
     },
-    "stars": 4,
+    "stars": 5,
     "forks": 3,
     "openIssues": 0,
-    "license": null,
+    "license": {
+      "status": "undeclared",
+      "spdx": null
+    },
     "createdAt": "2026-09-26T08:37:02Z",
     "lastCommitAt": "2026-09-26T08:45:28Z",
     "headSha": "e4ebfad8f8864b56c1a17d5363f904d5b130d327",
-    "metadataFetchedAt": "2026-10-02T22:38:21.566Z",
+    "metadataFetchedAt": "2026-10-12T05:19:50.389Z",
     "metadataStatus": "ok",
     "avatarUrl": "https://avatars.githubusercontent.com/u/4311153?v=4",
     "verificationStatus": "integration-detected",
@@ -63734,10 +63773,11 @@
       ]
     },
     "sourceHash": "c82feac725221dcc3fd484843c517ad89c2695b080803a37b2dbc3234feaecc1",
-    "updatedAt": "2026-09-28T02:56:54Z",
+    "updatedAt": "2026-10-05T07:21:53Z",
     "pushedAt": "2026-09-26T08:54:29Z",
-    "lastSyncedAt": "2026-10-02T22:38:21.566Z",
-    "archived": false
+    "lastSyncedAt": "2026-10-12T05:19:50.389Z",
+    "archived": false,
+    "licenseStatus": "unconfirmed"
   },
   {
     "id": "aifabrice:jev-rag",
@@ -63773,14 +63813,19 @@
         "source": "repo-description"
       }
     },
-    "stars": 8,
-    "forks": 1,
+    "stars": 10,
+    "forks": 2,
     "openIssues": 3,
-    "license": "MIT",
+    "license": {
+      "status": "identified",
+      "spdx": "MIT",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
     "createdAt": "2026-09-26T01:47:17Z",
-    "lastCommitAt": "2026-10-02T14:16:03Z",
-    "headSha": "b33a073668b2d02e15c89a308e1d9d09419ac02e",
-    "metadataFetchedAt": "2026-10-02T22:38:24.528Z",
+    "lastCommitAt": "2026-10-11T23:08:05Z",
+    "headSha": "424001cc0acaa8fc267d99e3fb806f37c2f6519d",
+    "metadataFetchedAt": "2026-10-12T05:19:53.363Z",
     "metadataStatus": "ok",
     "avatarUrl": "https://avatars.githubusercontent.com/u/11978979?v=4",
     "verificationStatus": "integration-detected",
@@ -63804,10 +63849,11 @@
       ]
     },
     "sourceHash": "6591b05f21d0554cc96b2cac956055f1583db806eafc110f499ffdd54a2594ea",
-    "updatedAt": "2026-10-02T20:01:18Z",
-    "pushedAt": "2026-10-02T14:16:06Z",
-    "lastSyncedAt": "2026-10-02T22:38:24.528Z",
-    "archived": false
+    "updatedAt": "2026-10-11T23:08:11Z",
+    "pushedAt": "2026-10-11T23:08:07Z",
+    "lastSyncedAt": "2026-10-12T05:19:53.363Z",
+    "archived": false,
+    "licenseStatus": "declared"
   },
   {
     "id": "astonycat:jev-tab-grouper",
@@ -63843,14 +63889,19 @@
         "source": "repo-description"
       }
     },
-    "stars": 3,
+    "stars": 4,
     "forks": 0,
     "openIssues": 0,
-    "license": "MIT",
+    "license": {
+      "status": "identified",
+      "spdx": "MIT",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
     "createdAt": "2026-09-20T04:29:39Z",
     "lastCommitAt": "2026-09-27T13:32:18Z",
     "headSha": "fbdadbe5d6b9a13c2d7b1457e59c752135b72a7b",
-    "metadataFetchedAt": "2026-10-02T22:38:27.535Z",
+    "metadataFetchedAt": "2026-10-12T05:19:56.429Z",
     "metadataStatus": "ok",
     "avatarUrl": "https://avatars.githubusercontent.com/u/108043909?v=4",
     "verificationStatus": "integration-detected",
@@ -63874,10 +63925,11 @@
       ]
     },
     "sourceHash": "04a547b058861b112b362ff2a41bb12ab6c2bbd84e359dfeb56ad2d04a77b885",
-    "updatedAt": "2026-09-27T13:32:24Z",
+    "updatedAt": "2026-10-05T09:31:08Z",
     "pushedAt": "2026-09-27T13:32:20Z",
-    "lastSyncedAt": "2026-10-02T22:38:27.535Z",
-    "archived": false
+    "lastSyncedAt": "2026-10-12T05:19:56.429Z",
+    "archived": false,
+    "licenseStatus": "declared"
   },
   {
     "id": "hazlema:jev-riffs",
@@ -63920,11 +63972,16 @@
     "stars": 3,
     "forks": 0,
     "openIssues": 0,
-    "license": "MIT",
+    "license": {
+      "status": "identified",
+      "spdx": "MIT",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
     "createdAt": "2026-09-25T05:54:49Z",
     "lastCommitAt": "2026-09-25T18:29:57Z",
     "headSha": "b36cb3aa0b1513f8f8f0365303e419a3035317e6",
-    "metadataFetchedAt": "2026-10-02T22:38:30.542Z",
+    "metadataFetchedAt": "2026-10-12T05:19:59.378Z",
     "metadataStatus": "ok",
     "avatarUrl": "https://avatars.githubusercontent.com/u/203324?v=4",
     "verificationStatus": "integration-detected",
@@ -63950,8 +64007,9 @@
     "sourceHash": "ed8404f3e67408deaeb837a1e2c7e67d36eefb6023872d17e24fc2d012f77704",
     "updatedAt": "2026-09-26T08:07:36Z",
     "pushedAt": "2026-09-25T18:29:58Z",
-    "lastSyncedAt": "2026-10-02T22:38:30.542Z",
-    "archived": false
+    "lastSyncedAt": "2026-10-12T05:19:59.378Z",
+    "archived": false,
+    "licenseStatus": "declared"
   },
   {
     "id": "ztrrtuo:jev-phonecontrol",
@@ -63990,11 +64048,15 @@
     "stars": 4,
     "forks": 2,
     "openIssues": 0,
-    "license": null,
+    "license": {
+      "status": "custom",
+      "spdx": null,
+      "name": "Other"
+    },
     "createdAt": "2026-09-26T09:27:38Z",
     "lastCommitAt": "2026-09-26T11:21:44Z",
     "headSha": "d6a1a9e726f79cd7bccf19907505c7de0f2edca4",
-    "metadataFetchedAt": "2026-10-02T22:38:33.581Z",
+    "metadataFetchedAt": "2026-10-12T05:20:02.437Z",
     "metadataStatus": "ok",
     "avatarUrl": "https://avatars.githubusercontent.com/u/226675387?v=4",
     "verificationStatus": "integration-detected",
@@ -64020,8 +64082,9 @@
     "sourceHash": "b2723bb35068e560c2aafd31fe5c79ecaec850763e0bd536fa29b910fb84a61b",
     "updatedAt": "2026-09-30T20:46:32Z",
     "pushedAt": "2026-09-26T11:21:55Z",
-    "lastSyncedAt": "2026-10-02T22:38:33.581Z",
-    "archived": false
+    "lastSyncedAt": "2026-10-12T05:20:02.437Z",
+    "archived": false,
+    "licenseStatus": "custom"
   },
   {
     "id": "tomerglick57:jevstiller",
@@ -64061,14 +64124,19 @@
         "source": "repo-description"
       }
     },
-    "stars": 57,
-    "forks": 7,
-    "openIssues": 1,
-    "license": "Apache-2.0",
+    "stars": 66,
+    "forks": 10,
+    "openIssues": 4,
+    "license": {
+      "status": "identified",
+      "spdx": "Apache-2.0",
+      "name": "Apache License 2.0",
+      "url": "https://api.github.com/licenses/apache-2.0"
+    },
     "createdAt": "2026-09-21T11:33:55Z",
-    "lastCommitAt": "2026-09-29T21:01:05Z",
-    "headSha": "9db3cfd814eaec47061897e368a668c61e6db61b",
-    "metadataFetchedAt": "2026-10-02T22:38:36.545Z",
+    "lastCommitAt": "2026-10-10T17:56:04Z",
+    "headSha": "3c3cfc42ea3e615821d490a6ffe543552f15e881",
+    "metadataFetchedAt": "2026-10-12T05:20:05.335Z",
     "metadataStatus": "ok",
     "avatarUrl": "https://avatars.githubusercontent.com/u/18414077?v=4",
     "verificationStatus": "integration-detected",
@@ -64092,10 +64160,11 @@
       ]
     },
     "sourceHash": "20a1d6cdb760c0988e3aa134fed8c6dced16760e9e554baa98afd84aa62720e1",
-    "updatedAt": "2026-10-02T19:22:50Z",
-    "pushedAt": "2026-10-01T15:13:13Z",
-    "lastSyncedAt": "2026-10-02T22:38:36.545Z",
-    "archived": false
+    "updatedAt": "2026-10-11T14:22:04Z",
+    "pushedAt": "2026-10-10T17:57:29Z",
+    "lastSyncedAt": "2026-10-12T05:20:05.335Z",
+    "archived": false,
+    "licenseStatus": "declared"
   },
   {
     "id": "oranquelui:astra-jev-harness",
@@ -64139,11 +64208,16 @@
     "stars": 3,
     "forks": 0,
     "openIssues": 0,
-    "license": "MIT",
+    "license": {
+      "status": "identified",
+      "spdx": "MIT",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
     "createdAt": "2026-09-22T13:53:36Z",
     "lastCommitAt": "2026-10-01T05:01:17Z",
     "headSha": "ef0c186f398e38312e9ab45e0b42b29f5ac5864c",
-    "metadataFetchedAt": "2026-10-02T22:38:39.537Z",
+    "metadataFetchedAt": "2026-10-12T05:20:08.356Z",
     "metadataStatus": "ok",
     "avatarUrl": "https://avatars.githubusercontent.com/u/156574031?v=4",
     "verificationStatus": "integration-detected",
@@ -64169,8 +64243,9 @@
     "sourceHash": "35a335a09d2f8751015485565bc543ee1c366d5c9597f631b2a8a46339559cfa",
     "updatedAt": "2026-10-01T05:03:41Z",
     "pushedAt": "2026-10-01T05:04:04Z",
-    "lastSyncedAt": "2026-10-02T22:38:39.537Z",
-    "archived": false
+    "lastSyncedAt": "2026-10-12T05:20:08.356Z",
+    "archived": false,
+    "licenseStatus": "declared"
   },
   {
     "id": "fox-islam:jevlint",
@@ -64213,11 +64288,16 @@
     "stars": 2,
     "forks": 0,
     "openIssues": 0,
-    "license": "MIT",
+    "license": {
+      "status": "identified",
+      "spdx": "MIT",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
     "createdAt": "2026-09-22T21:44:50Z",
     "lastCommitAt": "2026-09-25T20:28:43Z",
     "headSha": "582c0b8be072fb0d14fcaa5bd72b278205543ed7",
-    "metadataFetchedAt": "2026-10-02T22:38:42.559Z",
+    "metadataFetchedAt": "2026-10-12T05:20:11.408Z",
     "metadataStatus": "ok",
     "avatarUrl": "https://avatars.githubusercontent.com/u/28842757?v=4",
     "verificationStatus": "integration-detected",
@@ -64243,8 +64323,9 @@
     "sourceHash": "f16eafc704ae526d39f8f1eebf9651c44eb68d079426213a57aa7687a4a51282",
     "updatedAt": "2026-09-25T22:31:51Z",
     "pushedAt": "2026-09-25T20:29:00Z",
-    "lastSyncedAt": "2026-10-02T22:38:42.559Z",
-    "archived": false
+    "lastSyncedAt": "2026-10-12T05:20:11.408Z",
+    "archived": false,
+    "licenseStatus": "declared"
   },
   {
     "id": "dogmatiic:hermes-jev",
@@ -64287,11 +64368,14 @@
     "stars": 3,
     "forks": 2,
     "openIssues": 4,
-    "license": null,
+    "license": {
+      "status": "undeclared",
+      "spdx": null
+    },
     "createdAt": "2026-09-18T01:33:27Z",
     "lastCommitAt": "2026-09-25T18:13:16Z",
     "headSha": "5dddbeaac5be08281e6c3b372eeaba3639971f0a",
-    "metadataFetchedAt": "2026-10-02T22:38:45.532Z",
+    "metadataFetchedAt": "2026-10-12T05:20:14.342Z",
     "metadataStatus": "ok",
     "avatarUrl": "https://avatars.githubusercontent.com/u/205724395?v=4",
     "verificationStatus": "integration-detected",
@@ -64317,8 +64401,9 @@
     "sourceHash": "212096376974a686f66580375c8a90c22dab8db55db09329c0cb98c2d8064055",
     "updatedAt": "2026-09-29T04:34:17Z",
     "pushedAt": "2026-09-25T18:13:17Z",
-    "lastSyncedAt": "2026-10-02T22:38:45.532Z",
-    "archived": false
+    "lastSyncedAt": "2026-10-12T05:20:14.342Z",
+    "archived": false,
+    "licenseStatus": "unconfirmed"
   },
   {
     "id": "nemalabs:voicevox-jev-proxy",
@@ -64362,11 +64447,16 @@
     "stars": 2,
     "forks": 0,
     "openIssues": 0,
-    "license": "MIT",
+    "license": {
+      "status": "identified",
+      "spdx": "MIT",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
     "createdAt": "2026-09-25T15:44:01Z",
     "lastCommitAt": "2026-09-25T16:17:48Z",
     "headSha": "16c9aebaf64fb09fc465dc7a3023d028849985a5",
-    "metadataFetchedAt": "2026-10-02T22:38:48.595Z",
+    "metadataFetchedAt": "2026-10-12T05:20:17.423Z",
     "metadataStatus": "ok",
     "avatarUrl": "https://avatars.githubusercontent.com/u/183044424?v=4",
     "verificationStatus": "integration-detected",
@@ -64392,8 +64482,9 @@
     "sourceHash": "35f83ac5c580ead5b720831f70b77f8b798498c5b813c2615bbd08d7eaa12e0a",
     "updatedAt": "2026-09-25T17:00:54Z",
     "pushedAt": "2026-09-25T16:19:06Z",
-    "lastSyncedAt": "2026-10-02T22:38:48.595Z",
-    "archived": false
+    "lastSyncedAt": "2026-10-12T05:20:17.423Z",
+    "archived": false,
+    "licenseStatus": "declared"
   },
   {
     "id": "gauravkhuraana:jev-qa-demos",
@@ -64434,13 +64525,16 @@
       }
     },
     "stars": 3,
-    "forks": 2,
+    "forks": 3,
     "openIssues": 0,
-    "license": null,
+    "license": {
+      "status": "undeclared",
+      "spdx": null
+    },
     "createdAt": "2026-09-25T11:24:35Z",
     "lastCommitAt": "2026-10-01T04:46:52Z",
     "headSha": "f8c313213eb3480e0271d93b7cceb944ebcb1e7b",
-    "metadataFetchedAt": "2026-10-02T22:38:51.624Z",
+    "metadataFetchedAt": "2026-10-12T05:20:20.410Z",
     "metadataStatus": "ok",
     "avatarUrl": "https://avatars.githubusercontent.com/u/15048211?v=4",
     "verificationStatus": "integration-detected",
@@ -64466,8 +64560,9 @@
     "sourceHash": "0244016b075973627328a8735298b3bded0375d4d77b6c9160d9446d40db0a24",
     "updatedAt": "2026-10-01T04:47:02Z",
     "pushedAt": "2026-10-01T04:46:58Z",
-    "lastSyncedAt": "2026-10-02T22:38:51.624Z",
-    "archived": false
+    "lastSyncedAt": "2026-10-12T05:20:20.410Z",
+    "archived": false,
+    "licenseStatus": "unconfirmed"
   },
   {
     "id": "silvariasereneblossom:jeverifier",
@@ -64510,11 +64605,16 @@
     "stars": 2,
     "forks": 1,
     "openIssues": 0,
-    "license": "MIT",
+    "license": {
+      "status": "identified",
+      "spdx": "MIT",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
     "createdAt": "2026-09-25T01:31:19Z",
     "lastCommitAt": "2026-09-25T10:55:01Z",
     "headSha": "43c91063d18dcecb5fdeb64f24c52d2d7220f9c1",
-    "metadataFetchedAt": "2026-10-02T22:38:54.586Z",
+    "metadataFetchedAt": "2026-10-12T05:20:23.374Z",
     "metadataStatus": "ok",
     "avatarUrl": "https://avatars.githubusercontent.com/u/126612801?v=4",
     "verificationStatus": "integration-detected",
@@ -64540,8 +64640,9 @@
     "sourceHash": "0551bce06a1b2007ce67667dde1099c2892da648d12721a13cbe9d7f2f7e3d5b",
     "updatedAt": "2026-09-25T13:13:59Z",
     "pushedAt": "2026-09-25T10:55:02Z",
-    "lastSyncedAt": "2026-10-02T22:38:54.586Z",
-    "archived": false
+    "lastSyncedAt": "2026-10-12T05:20:23.374Z",
+    "archived": false,
+    "licenseStatus": "declared"
   },
   {
     "id": "halfspin-qc:jev-reviews",
@@ -64584,11 +64685,14 @@
     "stars": 2,
     "forks": 0,
     "openIssues": 0,
-    "license": null,
+    "license": {
+      "status": "undeclared",
+      "spdx": null
+    },
     "createdAt": "2026-09-22T05:11:33Z",
     "lastCommitAt": "2026-09-22T08:09:31Z",
     "headSha": "5d072a723099da25c7b30c768dbd4cda454922e9",
-    "metadataFetchedAt": "2026-10-02T22:38:57.551Z",
+    "metadataFetchedAt": "2026-10-12T05:20:26.379Z",
     "metadataStatus": "ok",
     "avatarUrl": "https://avatars.githubusercontent.com/u/70982212?v=4",
     "verificationStatus": "integration-detected",
@@ -64614,8 +64718,9 @@
     "sourceHash": "4e432a151a3f16718134582329878134153f7d00c7f3d39f19deac70de3be20f",
     "updatedAt": "2026-09-24T04:09:41Z",
     "pushedAt": "2026-09-22T08:09:35Z",
-    "lastSyncedAt": "2026-10-02T22:38:57.551Z",
-    "archived": false
+    "lastSyncedAt": "2026-10-12T05:20:26.379Z",
+    "archived": false,
+    "licenseStatus": "unconfirmed"
   },
   {
     "id": "codaaiteam:jev-mcp",
@@ -64655,14 +64760,19 @@
         "source": "repo-description"
       }
     },
-    "stars": 2,
+    "stars": 3,
     "forks": 1,
     "openIssues": 0,
-    "license": "MIT",
+    "license": {
+      "status": "identified",
+      "spdx": "MIT",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
     "createdAt": "2026-09-19T02:47:22Z",
     "lastCommitAt": "2026-09-22T03:26:00Z",
     "headSha": "6cfb78daa00d405b76f8fee221b559cbb73563a8",
-    "metadataFetchedAt": "2026-10-02T22:39:00.582Z",
+    "metadataFetchedAt": "2026-10-12T05:20:29.395Z",
     "metadataStatus": "ok",
     "avatarUrl": "https://avatars.githubusercontent.com/u/163482360?v=4",
     "verificationStatus": "integration-detected",
@@ -64686,10 +64796,11 @@
       ]
     },
     "sourceHash": "aa62ba54ba972130c37b6e7bb00abf2fccf7a79306ec4e10e257b507aefbde61",
-    "updatedAt": "2026-09-26T06:34:42Z",
+    "updatedAt": "2026-10-10T03:20:08Z",
     "pushedAt": "2026-09-22T03:37:27Z",
-    "lastSyncedAt": "2026-10-02T22:39:00.582Z",
-    "archived": false
+    "lastSyncedAt": "2026-10-12T05:20:29.395Z",
+    "archived": false,
+    "licenseStatus": "declared"
   },
   {
     "id": "olivier-motium:jev-doom",
@@ -64732,11 +64843,16 @@
     "stars": 2,
     "forks": 1,
     "openIssues": 0,
-    "license": "MIT",
+    "license": {
+      "status": "identified",
+      "spdx": "MIT",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
     "createdAt": "2026-09-21T12:32:58Z",
     "lastCommitAt": "2026-09-21T12:32:50Z",
     "headSha": "13589d2b97d18940423933262834aa3e376ffcdc",
-    "metadataFetchedAt": "2026-10-02T22:39:03.568Z",
+    "metadataFetchedAt": "2026-10-12T05:20:32.508Z",
     "metadataStatus": "ok",
     "avatarUrl": "https://avatars.githubusercontent.com/u/243932812?v=4",
     "verificationStatus": "integration-detected",
@@ -64762,8 +64878,9 @@
     "sourceHash": "267a479537bed7dfa54f1aeb70a62edeff4cc6abdd0bf91de5401f3d9752c54d",
     "updatedAt": "2026-09-25T05:01:58Z",
     "pushedAt": "2026-09-21T12:33:03Z",
-    "lastSyncedAt": "2026-10-02T22:39:03.568Z",
-    "archived": false
+    "lastSyncedAt": "2026-10-12T05:20:32.508Z",
+    "archived": false,
+    "licenseStatus": "declared"
   },
   {
     "id": "krw82:jev-playwright-mcp",
@@ -64803,14 +64920,19 @@
         "source": "repo-description"
       }
     },
-    "stars": 1,
+    "stars": 2,
     "forks": 1,
     "openIssues": 1,
-    "license": "MIT",
+    "license": {
+      "status": "identified",
+      "spdx": "MIT",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
     "createdAt": "2026-09-17T09:18:13Z",
     "lastCommitAt": "2026-09-17T09:18:13Z",
     "headSha": "db7762fd2ef66af7b38362c98982692bc81f57b7",
-    "metadataFetchedAt": "2026-10-02T22:39:06.576Z",
+    "metadataFetchedAt": "2026-10-12T05:20:35.369Z",
     "metadataStatus": "ok",
     "avatarUrl": "https://avatars.githubusercontent.com/u/86577565?v=4",
     "verificationStatus": "integration-detected",
@@ -64834,10 +64956,11 @@
       ]
     },
     "sourceHash": "ef82e13af0570474dc2570a7078dde4c49f9f5d99f24aa2fa55560d1f671c61e",
-    "updatedAt": "2026-09-30T12:37:53Z",
+    "updatedAt": "2026-10-05T21:17:58Z",
     "pushedAt": "2026-09-17T09:18:17Z",
-    "lastSyncedAt": "2026-10-02T22:39:06.576Z",
-    "archived": false
+    "lastSyncedAt": "2026-10-12T05:20:35.369Z",
+    "archived": false,
+    "licenseStatus": "declared"
   },
   {
     "id": "vbs2004:jev-windows-agent",
@@ -64877,14 +65000,19 @@
         "source": "repo-description"
       }
     },
-    "stars": 5,
+    "stars": 6,
     "forks": 0,
     "openIssues": 0,
-    "license": "MIT",
+    "license": {
+      "status": "identified",
+      "spdx": "MIT",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
     "createdAt": "2026-09-26T09:05:42Z",
     "lastCommitAt": "2026-09-27T10:28:59Z",
     "headSha": "fe81adfe2cf274a68192f18e11723f61f0a8c55d",
-    "metadataFetchedAt": "2026-10-02T22:39:09.560Z",
+    "metadataFetchedAt": "2026-10-12T05:20:38.385Z",
     "metadataStatus": "ok",
     "avatarUrl": "https://avatars.githubusercontent.com/u/66900514?v=4",
     "verificationStatus": "integration-detected",
@@ -64908,10 +65036,11 @@
       ]
     },
     "sourceHash": "9c695fef14b8f4a3a5782d4245c27232cdccda17fc1ebce030c1d369bfa44820",
-    "updatedAt": "2026-10-02T04:32:36Z",
+    "updatedAt": "2026-10-11T05:58:20Z",
     "pushedAt": "2026-09-27T10:35:47Z",
-    "lastSyncedAt": "2026-10-02T22:39:09.560Z",
-    "archived": false
+    "lastSyncedAt": "2026-10-12T05:20:38.385Z",
+    "archived": false,
+    "licenseStatus": "declared"
   },
   {
     "id": "lazniak:jevskill",
@@ -64954,11 +65083,16 @@
     "stars": 3,
     "forks": 1,
     "openIssues": 2,
-    "license": "MIT",
+    "license": {
+      "status": "identified",
+      "spdx": "MIT",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
     "createdAt": "2026-09-20T09:09:26Z",
     "lastCommitAt": "2026-09-30T02:15:18Z",
     "headSha": "923e521b0521061637bbc486d9f9c2a3683e0374",
-    "metadataFetchedAt": "2026-10-02T22:39:12.543Z",
+    "metadataFetchedAt": "2026-10-12T05:20:41.342Z",
     "metadataStatus": "ok",
     "avatarUrl": "https://avatars.githubusercontent.com/u/37815923?v=4",
     "verificationStatus": "integration-detected",
@@ -64983,9 +65117,10 @@
     },
     "sourceHash": "ddcd1052586fb34de9ff8362a00c72f51bf11b823c65a2f95c3bacd01384d197",
     "updatedAt": "2026-10-02T04:29:50Z",
-    "pushedAt": "2026-09-30T02:15:22Z",
-    "lastSyncedAt": "2026-10-02T22:39:12.543Z",
-    "archived": false
+    "pushedAt": "2026-10-07T02:05:49Z",
+    "lastSyncedAt": "2026-10-12T05:20:41.342Z",
+    "archived": false,
+    "licenseStatus": "declared"
   },
   {
     "id": "wustep:jev-playground",
@@ -65028,11 +65163,14 @@
     "stars": 2,
     "forks": 1,
     "openIssues": 2,
-    "license": null,
+    "license": {
+      "status": "undeclared",
+      "spdx": null
+    },
     "createdAt": "2026-09-17T09:16:46Z",
-    "lastCommitAt": "2026-09-26T06:44:55Z",
-    "headSha": "4f38b140e91f68da1288fbc91f867bf4a29f478f",
-    "metadataFetchedAt": "2026-10-02T22:39:15.623Z",
+    "lastCommitAt": "2026-10-04T02:33:22Z",
+    "headSha": "1b12fdb3fbf47cb89ba8ceb72b23578dee8e1fe3",
+    "metadataFetchedAt": "2026-10-12T05:20:44.395Z",
     "metadataStatus": "ok",
     "avatarUrl": "https://avatars.githubusercontent.com/u/6259534?v=4",
     "verificationStatus": "integration-detected",
@@ -65056,10 +65194,11 @@
       ]
     },
     "sourceHash": "027fd94eefed19d2b0099eb0e816c26527976b38c4af31c56f3e91d202079f23",
-    "updatedAt": "2026-09-30T15:52:10Z",
-    "pushedAt": "2026-09-26T06:44:56Z",
-    "lastSyncedAt": "2026-10-02T22:39:15.623Z",
-    "archived": false
+    "updatedAt": "2026-10-04T02:33:26Z",
+    "pushedAt": "2026-10-04T02:33:22Z",
+    "lastSyncedAt": "2026-10-12T05:20:44.395Z",
+    "archived": false,
+    "licenseStatus": "unconfirmed"
   },
   {
     "id": "flam1ngfir3ball:jev-claude-router",
@@ -65102,11 +65241,16 @@
     "stars": 2,
     "forks": 0,
     "openIssues": 0,
-    "license": "MIT",
+    "license": {
+      "status": "identified",
+      "spdx": "MIT",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
     "createdAt": "2026-09-22T23:20:52Z",
     "lastCommitAt": "2026-09-29T10:52:55Z",
     "headSha": "70e07f0173fdbabceaba81d0a09692d7fec97b1d",
-    "metadataFetchedAt": "2026-10-02T22:39:18.634Z",
+    "metadataFetchedAt": "2026-10-12T05:20:47.464Z",
     "metadataStatus": "ok",
     "avatarUrl": "https://avatars.githubusercontent.com/u/55162562?v=4",
     "verificationStatus": "integration-detected",
@@ -65132,8 +65276,9 @@
     "sourceHash": "537dff9f85190280f1178c2308b7269b3a61fb84725f56697ee0f6162b34d6a7",
     "updatedAt": "2026-09-29T10:53:25Z",
     "pushedAt": "2026-09-29T11:01:59Z",
-    "lastSyncedAt": "2026-10-02T22:39:18.634Z",
-    "archived": false
+    "lastSyncedAt": "2026-10-12T05:20:47.464Z",
+    "archived": false,
+    "licenseStatus": "declared"
   },
   {
     "id": "aarzhaev:jevtok-ts",
@@ -65173,14 +65318,19 @@
         "source": "readme"
       }
     },
-    "stars": 2,
+    "stars": 3,
     "forks": 0,
     "openIssues": 0,
-    "license": "MIT",
+    "license": {
+      "status": "identified",
+      "spdx": "MIT",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
     "createdAt": "2026-09-27T16:23:03Z",
     "lastCommitAt": "2026-09-29T04:53:59Z",
     "headSha": "c1d87c92d7176018da6c27b4b887fc0dfc32500a",
-    "metadataFetchedAt": "2026-10-02T22:39:21.603Z",
+    "metadataFetchedAt": "2026-10-12T05:20:50.430Z",
     "metadataStatus": "ok",
     "avatarUrl": "https://avatars.githubusercontent.com/u/3007166?v=4",
     "verificationStatus": "integration-detected",
@@ -65204,10 +65354,11 @@
       ]
     },
     "sourceHash": "dac9385bbc4b5647f689ac99c7bcdd997de5cf0b9f07f94e1e4462e83fb5934a",
-    "updatedAt": "2026-09-29T11:44:18Z",
+    "updatedAt": "2026-10-09T05:08:07Z",
     "pushedAt": "2026-09-29T04:54:03Z",
-    "lastSyncedAt": "2026-10-02T22:39:21.603Z",
-    "archived": false
+    "lastSyncedAt": "2026-10-12T05:20:50.430Z",
+    "archived": false,
+    "licenseStatus": "declared"
   },
   {
     "id": "dzhng:jevgrep",
@@ -65230,14 +65381,19 @@
     "claimStatus": "优先保留投稿者与仓库原文，缺失语言自动补充；自动检查仅确认 Jev 集成证据，未经本站运行或性能复测。",
     "claimStatusEn": "Author and repository text is preserved where clear; missing languages are enriched automatically. Checks establish source-level Jev integration, not runtime, safety, or performance validation.",
     "plainSummaryEn": "Find code by asking what it does. A CLI for coding agents that uses Jev to discover relevant files and source context with exact excerpts and line numbers.",
-    "stars": 2062,
-    "forks": 133,
-    "openIssues": 24,
-    "license": "MIT",
+    "stars": 2610,
+    "forks": 191,
+    "openIssues": 29,
+    "license": {
+      "status": "identified",
+      "spdx": "MIT",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
     "createdAt": "2026-09-26T04:06:56Z",
     "lastCommitAt": "2026-10-02T19:02:25Z",
     "headSha": "703aba1a36a3b854be405244ea748f607cd630c0",
-    "metadataFetchedAt": "2026-10-02T22:39:24.536Z",
+    "metadataFetchedAt": "2026-10-12T05:20:53.375Z",
     "metadataStatus": "ok",
     "avatarUrl": "https://avatars.githubusercontent.com/u/1329503?v=4",
     "verificationStatus": "integration-detected",
@@ -65296,10 +65452,11 @@
         }
       ]
     },
-    "updatedAt": "2026-10-02T22:37:44Z",
+    "updatedAt": "2026-10-12T05:14:05Z",
     "pushedAt": "2026-10-02T19:02:26Z",
-    "lastSyncedAt": "2026-10-02T22:39:24.536Z",
-    "archived": false
+    "lastSyncedAt": "2026-10-12T05:20:53.375Z",
+    "archived": false,
+    "licenseStatus": "declared"
   },
   {
     "id": "wxk-ai:jev-opus",
@@ -65321,14 +65478,19 @@
     "claimStatus": "优先保留投稿者与仓库原文，缺失语言自动补充；自动检查仅确认 Jev 集成证据，未经本站运行或性能复测。",
     "claimStatusEn": "Author and repository text is preserved where clear; missing languages are enriched automatically. Checks establish source-level Jev integration, not runtime, safety, or performance validation.",
     "plainSummaryEn": "Claude Opus 5.5 with the effort level re-decided every step by the TypeSafe Jev reflex — without breaking the prompt cache. CLI + Claude Code plugin.",
-    "stars": 5,
-    "forks": 0,
-    "openIssues": 0,
-    "license": "MIT",
+    "stars": 14,
+    "forks": 2,
+    "openIssues": 1,
+    "license": {
+      "status": "identified",
+      "spdx": "MIT",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
     "createdAt": "2026-09-23T15:22:32Z",
-    "lastCommitAt": "2026-09-30T04:54:00Z",
-    "headSha": "6b6b0f8c7b574d4da0ec21cba565f8ed6a19e591",
-    "metadataFetchedAt": "2026-10-02T22:39:27.552Z",
+    "lastCommitAt": "2026-10-10T14:34:01Z",
+    "headSha": "e8197b43d07ee54647bcdb3e6724305f546246cb",
+    "metadataFetchedAt": "2026-10-12T05:20:56.350Z",
     "metadataStatus": "ok",
     "avatarUrl": "https://avatars.githubusercontent.com/u/145734418?v=4",
     "verificationStatus": "integration-detected",
@@ -65366,10 +65528,11 @@
       "issueBodySha256": "4ad6a9cf8fc1e521afaf2503523eac54a897dec49da6c9a4018184d895653254",
       "issueUrl": "https://github.com/logicrw/awesome-jev-projects/issues/97"
     },
-    "updatedAt": "2026-09-30T04:54:08Z",
-    "pushedAt": "2026-09-30T04:54:09Z",
-    "lastSyncedAt": "2026-10-02T22:39:27.552Z",
-    "archived": false
+    "updatedAt": "2026-10-12T03:10:23Z",
+    "pushedAt": "2026-10-10T14:34:07Z",
+    "lastSyncedAt": "2026-10-12T05:20:56.350Z",
+    "archived": false,
+    "licenseStatus": "declared"
   },
   {
     "id": "ali-master:usejev",
@@ -65409,14 +65572,17 @@
         "source": "repo-description"
       }
     },
-    "stars": 12,
+    "stars": 13,
     "forks": 1,
     "openIssues": 0,
-    "license": null,
+    "license": {
+      "status": "undeclared",
+      "spdx": null
+    },
     "createdAt": "2026-09-23T11:20:40Z",
-    "lastCommitAt": "2026-09-30T12:40:17Z",
-    "headSha": "89e6b80fcc5e18bbf690c0af38b9e0c054d4ec3d",
-    "metadataFetchedAt": "2026-10-02T22:39:30.612Z",
+    "lastCommitAt": "2026-10-04T11:16:14Z",
+    "headSha": "8d1d022a012cd0c81c2516cf4085be3811118340",
+    "metadataFetchedAt": "2026-10-12T05:20:59.409Z",
     "metadataStatus": "ok",
     "avatarUrl": "https://avatars.githubusercontent.com/u/9049092?v=4",
     "verificationStatus": "integration-detected",
@@ -65440,10 +65606,11 @@
       ]
     },
     "sourceHash": "0320beb001f5f4d3aecb3440ed2e513d10e6b23bcaebb53586c7753d4b39383c",
-    "updatedAt": "2026-10-01T21:02:32Z",
-    "pushedAt": "2026-09-30T12:40:23Z",
-    "lastSyncedAt": "2026-10-02T22:39:30.612Z",
-    "archived": false
+    "updatedAt": "2026-10-08T21:47:16Z",
+    "pushedAt": "2026-10-04T11:16:53Z",
+    "lastSyncedAt": "2026-10-12T05:20:59.409Z",
+    "archived": false,
+    "licenseStatus": "unconfirmed"
   },
   {
     "id": "0xshikhar:jev-fuse",
@@ -65486,11 +65653,16 @@
     "stars": 2,
     "forks": 0,
     "openIssues": 0,
-    "license": "Apache-2.0",
+    "license": {
+      "status": "identified",
+      "spdx": "Apache-2.0",
+      "name": "Apache License 2.0",
+      "url": "https://api.github.com/licenses/apache-2.0"
+    },
     "createdAt": "2026-09-23T19:15:31Z",
     "lastCommitAt": "2026-09-24T17:48:59Z",
     "headSha": "ec9f266897385ec02b7bae8abd1708f532df383a",
-    "metadataFetchedAt": "2026-10-02T22:39:33.576Z",
+    "metadataFetchedAt": "2026-10-12T05:21:02.378Z",
     "metadataStatus": "ok",
     "avatarUrl": "https://avatars.githubusercontent.com/u/64684053?v=4",
     "verificationStatus": "integration-detected",
@@ -65516,8 +65688,9 @@
     "sourceHash": "cfaff18a92a40e37ceddf4850c5492828674ff5ef68ca036b8f0ed7b16806921",
     "updatedAt": "2026-10-01T17:21:03Z",
     "pushedAt": "2026-09-24T21:49:19Z",
-    "lastSyncedAt": "2026-10-02T22:39:33.576Z",
-    "archived": false
+    "lastSyncedAt": "2026-10-12T05:21:02.378Z",
+    "archived": false,
+    "licenseStatus": "declared"
   },
   {
     "id": "jkudish:jev-agent-tools",
@@ -65558,13 +65731,18 @@
       }
     },
     "stars": 6,
-    "forks": 1,
-    "openIssues": 0,
-    "license": "MIT",
+    "forks": 3,
+    "openIssues": 3,
+    "license": {
+      "status": "identified",
+      "spdx": "MIT",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
     "createdAt": "2026-09-23T22:58:14Z",
-    "lastCommitAt": "2026-10-02T15:02:24Z",
-    "headSha": "b6d6488f5bd90fb6419e58817650c3ef8331e896",
-    "metadataFetchedAt": "2026-10-02T22:39:36.566Z",
+    "lastCommitAt": "2026-10-06T03:46:23Z",
+    "headSha": "8a237b9edaa6daa2125b60668faea60d356cfed7",
+    "metadataFetchedAt": "2026-10-12T05:21:05.450Z",
     "metadataStatus": "ok",
     "avatarUrl": "https://avatars.githubusercontent.com/u/260253?v=4",
     "verificationStatus": "integration-detected",
@@ -65588,10 +65766,11 @@
       ]
     },
     "sourceHash": "3f8ec9479ad40da62626bae2d03545cec974f5a8b6066a0fc3c2fda47903a253",
-    "updatedAt": "2026-10-02T20:01:05Z",
-    "pushedAt": "2026-10-02T20:01:00Z",
-    "lastSyncedAt": "2026-10-02T22:39:36.566Z",
-    "archived": false
+    "updatedAt": "2026-10-06T03:46:33Z",
+    "pushedAt": "2026-10-07T13:16:00Z",
+    "lastSyncedAt": "2026-10-12T05:21:05.450Z",
+    "archived": false,
+    "licenseStatus": "declared"
   },
   {
     "id": "samplebias:jev_onco_statistical_hierarchy",
@@ -65632,13 +65811,18 @@
       }
     },
     "stars": 4,
-    "forks": 1,
+    "forks": 2,
     "openIssues": 1,
-    "license": "MIT",
+    "license": {
+      "status": "identified",
+      "spdx": "MIT",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
     "createdAt": "2026-09-21T22:10:19Z",
     "lastCommitAt": "2026-09-27T16:22:29Z",
     "headSha": "f601ad1c143e24f423a63b2d3821cd6da0d8e316",
-    "metadataFetchedAt": "2026-10-02T22:39:39.580Z",
+    "metadataFetchedAt": "2026-10-12T05:21:08.404Z",
     "metadataStatus": "ok",
     "avatarUrl": "https://avatars.githubusercontent.com/u/156245185?v=4",
     "verificationStatus": "integration-detected",
@@ -65664,8 +65848,9 @@
     "sourceHash": "59486d061d69155d5e8d1840eba5737c7d42ed7c45abc157a488c80bed7f3ebf",
     "updatedAt": "2026-09-28T22:05:41Z",
     "pushedAt": "2026-09-27T16:22:41Z",
-    "lastSyncedAt": "2026-10-02T22:39:39.580Z",
-    "archived": false
+    "lastSyncedAt": "2026-10-12T05:21:08.404Z",
+    "archived": false,
+    "licenseStatus": "declared"
   },
   {
     "id": "armanjr:jev-persian-benchmark",
@@ -65708,11 +65893,14 @@
     "stars": 3,
     "forks": 0,
     "openIssues": 0,
-    "license": null,
+    "license": {
+      "status": "undeclared",
+      "spdx": null
+    },
     "createdAt": "2026-09-22T04:00:06Z",
     "lastCommitAt": "2026-09-28T23:13:33Z",
     "headSha": "db7d5de6afe8b4bfa972913cd0d7a505076a493e",
-    "metadataFetchedAt": "2026-10-02T22:39:42.564Z",
+    "metadataFetchedAt": "2026-10-12T05:21:11.497Z",
     "metadataStatus": "ok",
     "avatarUrl": "https://avatars.githubusercontent.com/u/26391821?v=4",
     "verificationStatus": "integration-detected",
@@ -65738,8 +65926,9 @@
     "sourceHash": "4e6772a5de8edb939ea7965e5cbc9ea29d95693418e21f096be7ff19066aa6a9",
     "updatedAt": "2026-09-28T23:13:37Z",
     "pushedAt": "2026-09-28T23:13:33Z",
-    "lastSyncedAt": "2026-10-02T22:39:42.564Z",
-    "archived": false
+    "lastSyncedAt": "2026-10-12T05:21:11.497Z",
+    "archived": false,
+    "licenseStatus": "unconfirmed"
   },
   {
     "id": "shakibuzzaman3104:claude-jev-funnel",
@@ -65782,11 +65971,16 @@
     "stars": 2,
     "forks": 0,
     "openIssues": 0,
-    "license": "Apache-2.0",
+    "license": {
+      "status": "identified",
+      "spdx": "Apache-2.0",
+      "name": "Apache License 2.0",
+      "url": "https://api.github.com/licenses/apache-2.0"
+    },
     "createdAt": "2026-09-24T08:22:18Z",
     "lastCommitAt": "2026-09-25T12:18:05Z",
     "headSha": "b028492a5755d518d203ed6d3af04eaf6749551c",
-    "metadataFetchedAt": "2026-10-02T22:39:45.659Z",
+    "metadataFetchedAt": "2026-10-12T05:21:14.519Z",
     "metadataStatus": "ok",
     "avatarUrl": "https://avatars.githubusercontent.com/u/26091237?v=4",
     "verificationStatus": "integration-detected",
@@ -65812,8 +66006,9 @@
     "sourceHash": "8d20eea62e3537a38e9d5c01bcac0ae6d640aae221906bbf15bdd627a082b595",
     "updatedAt": "2026-09-28T05:42:09Z",
     "pushedAt": "2026-09-25T12:18:22Z",
-    "lastSyncedAt": "2026-10-02T22:39:45.659Z",
-    "archived": false
+    "lastSyncedAt": "2026-10-12T05:21:14.519Z",
+    "archived": false,
+    "licenseStatus": "declared"
   },
   {
     "id": "rajmeet:jev-phone",
@@ -65861,7 +66056,7 @@
     "lastCommitAt": "2026-09-24T18:43:31Z",
     "headSha": "d0d67424ca004ae128f14bdb91a55b3420317e95",
     "metadataFetchedAt": "2026-10-02T22:39:48.604Z",
-    "metadataStatus": "ok",
+    "metadataStatus": "unavailable",
     "avatarUrl": "https://avatars.githubusercontent.com/u/44134824?v=4",
     "verificationStatus": "integration-detected",
     "runtimeVerified": false,
@@ -65887,7 +66082,8 @@
     "updatedAt": "2026-09-30T11:43:34Z",
     "pushedAt": "2026-09-24T18:43:32Z",
     "lastSyncedAt": "2026-10-02T22:39:48.604Z",
-    "archived": false
+    "archived": false,
+    "metadataError": "GitHub 404: Not Found"
   },
   {
     "id": "dirien:jev-router",
@@ -65927,14 +66123,19 @@
         "source": "repo-description"
       }
     },
-    "stars": 8,
-    "forks": 1,
-    "openIssues": 6,
-    "license": "Apache-2.0",
+    "stars": 14,
+    "forks": 2,
+    "openIssues": 12,
+    "license": {
+      "status": "identified",
+      "spdx": "Apache-2.0",
+      "name": "Apache License 2.0",
+      "url": "https://api.github.com/licenses/apache-2.0"
+    },
     "createdAt": "2026-09-24T14:25:41Z",
     "lastCommitAt": "2026-09-25T18:37:09Z",
     "headSha": "f9093109b369b9d01e6b06d1a2da8f3d4652b173",
-    "metadataFetchedAt": "2026-10-02T22:39:51.541Z",
+    "metadataFetchedAt": "2026-10-12T05:21:18.812Z",
     "metadataStatus": "ok",
     "avatarUrl": "https://avatars.githubusercontent.com/u/38325136?v=4",
     "verificationStatus": "integration-detected",
@@ -65958,10 +66159,11 @@
       ]
     },
     "sourceHash": "0cf7ada0080386c097023d9f5380b2e62ebf56564d13778c6377dd6988bde03c",
-    "updatedAt": "2026-10-01T03:45:13Z",
-    "pushedAt": "2026-10-01T14:32:01Z",
-    "lastSyncedAt": "2026-10-02T22:39:51.541Z",
-    "archived": false
+    "updatedAt": "2026-10-08T11:43:51Z",
+    "pushedAt": "2026-10-08T14:25:38Z",
+    "lastSyncedAt": "2026-10-12T05:21:18.812Z",
+    "archived": false,
+    "licenseStatus": "declared"
   },
   {
     "id": "ourines:hermes-jev",
@@ -65997,14 +66199,19 @@
         "source": "repo-description"
       }
     },
-    "stars": 2,
+    "stars": 3,
     "forks": 2,
     "openIssues": 0,
-    "license": "MIT",
+    "license": {
+      "status": "identified",
+      "spdx": "MIT",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
     "createdAt": "2026-09-18T07:33:59Z",
     "lastCommitAt": "2026-09-29T15:06:47Z",
     "headSha": "cdf59e46270d3b33618d3b275c5c2fb76f594a19",
-    "metadataFetchedAt": "2026-10-02T22:39:54.552Z",
+    "metadataFetchedAt": "2026-10-12T05:21:21.876Z",
     "metadataStatus": "ok",
     "avatarUrl": "https://avatars.githubusercontent.com/u/15307679?v=4",
     "verificationStatus": "integration-detected",
@@ -66028,10 +66235,11 @@
       ]
     },
     "sourceHash": "a37c1bd30839f76bee0fecd8b9b042a98cc3576e1186c8dc6f18d23c13ed8ea3",
-    "updatedAt": "2026-09-29T15:08:32Z",
+    "updatedAt": "2026-10-11T21:05:53Z",
     "pushedAt": "2026-09-29T15:44:12Z",
-    "lastSyncedAt": "2026-10-02T22:39:54.552Z",
-    "archived": false
+    "lastSyncedAt": "2026-10-12T05:21:21.876Z",
+    "archived": false,
+    "licenseStatus": "declared"
   },
   {
     "id": "anilsenay:jev",
@@ -66074,11 +66282,16 @@
     "stars": 1,
     "forks": 0,
     "openIssues": 0,
-    "license": "MIT",
+    "license": {
+      "status": "identified",
+      "spdx": "MIT",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
     "createdAt": "2026-09-17T04:11:48Z",
     "lastCommitAt": "2026-09-17T05:14:05Z",
     "headSha": "01f6f9aa267de9b4da74dddbb6f26727b443c99b",
-    "metadataFetchedAt": "2026-10-02T22:39:57.633Z",
+    "metadataFetchedAt": "2026-10-12T05:21:24.970Z",
     "metadataStatus": "ok",
     "avatarUrl": "https://avatars.githubusercontent.com/u/1047345?v=4",
     "verificationStatus": "integration-detected",
@@ -66104,8 +66317,9 @@
     "sourceHash": "f81f8c08b95c4f8d1900e77ed1dcd5e8e61de1c2904a8a658ca2560357536731",
     "updatedAt": "2026-09-30T12:37:47Z",
     "pushedAt": "2026-09-17T05:14:07Z",
-    "lastSyncedAt": "2026-10-02T22:39:57.633Z",
-    "archived": false
+    "lastSyncedAt": "2026-10-12T05:21:24.970Z",
+    "archived": false,
+    "licenseStatus": "declared"
   },
   {
     "id": "viniciusfinger:jev-intent-classification",
@@ -66148,11 +66362,14 @@
     "stars": 1,
     "forks": 0,
     "openIssues": 0,
-    "license": null,
+    "license": {
+      "status": "undeclared",
+      "spdx": null
+    },
     "createdAt": "2026-09-26T22:48:11Z",
-    "lastCommitAt": "2026-09-27T00:27:37Z",
-    "headSha": "793bf69abea93457b18b0e52a1eb6a0236f03714",
-    "metadataFetchedAt": "2026-10-02T22:40:00.624Z",
+    "lastCommitAt": "2026-10-09T14:30:59Z",
+    "headSha": "9a2838c6aadc6313866238d9acd69c4c5a4b64f7",
+    "metadataFetchedAt": "2026-10-12T05:21:28.068Z",
     "metadataStatus": "ok",
     "avatarUrl": "https://avatars.githubusercontent.com/u/51798742?v=4",
     "verificationStatus": "integration-detected",
@@ -66176,10 +66393,11 @@
       ]
     },
     "sourceHash": "af7c340f9490ec00d3cb4820d901c6302b105e1d3148290105ffa8c264fe8059",
-    "updatedAt": "2026-09-27T00:27:46Z",
-    "pushedAt": "2026-09-27T00:27:43Z",
-    "lastSyncedAt": "2026-10-02T22:40:00.624Z",
-    "archived": false
+    "updatedAt": "2026-10-09T14:31:21Z",
+    "pushedAt": "2026-10-09T14:31:16Z",
+    "lastSyncedAt": "2026-10-12T05:21:28.068Z",
+    "archived": false,
+    "licenseStatus": "unconfirmed"
   },
   {
     "id": "creativoma:here-we-go-jev",
@@ -66223,11 +66441,16 @@
     "stars": 1,
     "forks": 0,
     "openIssues": 0,
-    "license": "MIT",
+    "license": {
+      "status": "identified",
+      "spdx": "MIT",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
     "createdAt": "2026-09-26T21:43:55Z",
     "lastCommitAt": "2026-09-26T22:22:54Z",
     "headSha": "c14d9c01dcb4392b5097c46f0bbfa9aaeee72ce3",
-    "metadataFetchedAt": "2026-10-02T22:40:03.600Z",
+    "metadataFetchedAt": "2026-10-12T05:21:30.966Z",
     "metadataStatus": "ok",
     "avatarUrl": "https://avatars.githubusercontent.com/u/66380259?v=4",
     "verificationStatus": "integration-detected",
@@ -66253,8 +66476,9 @@
     "sourceHash": "af976833d323dc479cf10680ce6fce13661a83f55e43722752ba2c6c7f62284b",
     "updatedAt": "2026-09-26T22:25:10Z",
     "pushedAt": "2026-09-26T22:23:01Z",
-    "lastSyncedAt": "2026-10-02T22:40:03.600Z",
-    "archived": false
+    "lastSyncedAt": "2026-10-12T05:21:30.966Z",
+    "archived": false,
+    "licenseStatus": "declared"
   },
   {
     "id": "dansidanutz:fake-real-jev",
@@ -66297,11 +66521,16 @@
     "stars": 1,
     "forks": 0,
     "openIssues": 0,
-    "license": "MIT",
+    "license": {
+      "status": "identified",
+      "spdx": "MIT",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
     "createdAt": "2026-09-26T18:04:50Z",
     "lastCommitAt": "2026-09-26T18:36:12Z",
     "headSha": "19c8f469766fd081ee1df222b534937dcb4cfb62",
-    "metadataFetchedAt": "2026-10-02T22:40:06.657Z",
+    "metadataFetchedAt": "2026-10-12T05:21:33.966Z",
     "metadataStatus": "ok",
     "avatarUrl": "https://avatars.githubusercontent.com/u/76887748?v=4",
     "verificationStatus": "integration-detected",
@@ -66327,8 +66556,9 @@
     "sourceHash": "d1cde3ee7899e8d56c9ca8da1bc65ec16b728e29251f0427ef7b84d9d3aac6ca",
     "updatedAt": "2026-09-27T23:24:44Z",
     "pushedAt": "2026-09-26T18:36:13Z",
-    "lastSyncedAt": "2026-10-02T22:40:06.657Z",
-    "archived": false
+    "lastSyncedAt": "2026-10-12T05:21:33.966Z",
+    "archived": false,
+    "licenseStatus": "declared"
   },
   {
     "id": "dsaad68:fuzzy-jev",
@@ -66371,11 +66601,16 @@
     "stars": 1,
     "forks": 0,
     "openIssues": 0,
-    "license": "MIT",
+    "license": {
+      "status": "identified",
+      "spdx": "MIT",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
     "createdAt": "2026-09-22T18:41:41Z",
     "lastCommitAt": "2026-10-01T21:39:32Z",
     "headSha": "6e55c5b8ed527e934efb0b51d322805ae7be2aa2",
-    "metadataFetchedAt": "2026-10-02T22:40:09.593Z",
+    "metadataFetchedAt": "2026-10-12T05:21:36.924Z",
     "metadataStatus": "ok",
     "avatarUrl": "https://avatars.githubusercontent.com/u/6844325?v=4",
     "verificationStatus": "integration-detected",
@@ -66401,8 +66636,9 @@
     "sourceHash": "164ef5fcff839a7044abbbad2c5bd9b273eb97b81800bce9ddf12c295739fbb1",
     "updatedAt": "2026-10-01T21:39:37Z",
     "pushedAt": "2026-10-01T21:51:46Z",
-    "lastSyncedAt": "2026-10-02T22:40:09.593Z",
-    "archived": false
+    "lastSyncedAt": "2026-10-12T05:21:36.924Z",
+    "archived": false,
+    "licenseStatus": "declared"
   },
   {
     "id": "huzeyfe07:jev-route",
@@ -66445,11 +66681,16 @@
     "stars": 1,
     "forks": 0,
     "openIssues": 0,
-    "license": "MIT",
+    "license": {
+      "status": "identified",
+      "spdx": "MIT",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
     "createdAt": "2026-09-25T12:06:17Z",
     "lastCommitAt": "2026-09-26T13:18:10Z",
     "headSha": "4730aeebe08e87d3a1b2899fd0e95d229b0c4adf",
-    "metadataFetchedAt": "2026-10-02T22:40:12.575Z",
+    "metadataFetchedAt": "2026-10-12T05:21:39.928Z",
     "metadataStatus": "ok",
     "avatarUrl": "https://avatars.githubusercontent.com/u/214366641?v=4",
     "verificationStatus": "integration-detected",
@@ -66475,8 +66716,9 @@
     "sourceHash": "2c1810835963716569f827c8b519ea0047051d25eca12a1cec594c378deb4fea",
     "updatedAt": "2026-09-26T13:19:34Z",
     "pushedAt": "2026-09-26T13:19:31Z",
-    "lastSyncedAt": "2026-10-02T22:40:12.575Z",
-    "archived": false
+    "lastSyncedAt": "2026-10-12T05:21:39.928Z",
+    "archived": false,
+    "licenseStatus": "declared"
   },
   {
     "id": "shyamsridhar123:judgejev",
@@ -66519,11 +66761,16 @@
     "stars": 1,
     "forks": 0,
     "openIssues": 0,
-    "license": "MIT",
+    "license": {
+      "status": "identified",
+      "spdx": "MIT",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
     "createdAt": "2026-09-26T11:31:08Z",
     "lastCommitAt": "2026-09-26T12:23:44Z",
     "headSha": "fb001ba87fc7b1db6f7f08d672c4889bba766a54",
-    "metadataFetchedAt": "2026-10-02T22:40:15.596Z",
+    "metadataFetchedAt": "2026-10-12T05:21:42.928Z",
     "metadataStatus": "ok",
     "avatarUrl": "https://avatars.githubusercontent.com/u/117464342?v=4",
     "verificationStatus": "integration-detected",
@@ -66549,8 +66796,9 @@
     "sourceHash": "b151a266a337f4c8380b1642b2d3570b0936d4ccc6dd0d5a0984b42250e50754",
     "updatedAt": "2026-09-26T22:28:02Z",
     "pushedAt": "2026-09-26T12:23:47Z",
-    "lastSyncedAt": "2026-10-02T22:40:15.596Z",
-    "archived": false
+    "lastSyncedAt": "2026-10-12T05:21:42.928Z",
+    "archived": false,
+    "licenseStatus": "declared"
   },
   {
     "id": "kachar:jev-tool-search",
@@ -66590,14 +66838,19 @@
         "source": "repo-description"
       }
     },
-    "stars": 1,
+    "stars": 2,
     "forks": 0,
     "openIssues": 0,
-    "license": "MIT",
+    "license": {
+      "status": "identified",
+      "spdx": "MIT",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
     "createdAt": "2026-09-26T08:06:05Z",
     "lastCommitAt": "2026-09-26T09:14:40Z",
     "headSha": "a23f61bb02ddd9381a22166db2986c6ffe0b3675",
-    "metadataFetchedAt": "2026-10-02T22:40:18.559Z",
+    "metadataFetchedAt": "2026-10-12T05:21:45.879Z",
     "metadataStatus": "ok",
     "avatarUrl": "https://avatars.githubusercontent.com/u/893608?v=4",
     "verificationStatus": "integration-detected",
@@ -66621,10 +66874,11 @@
       ]
     },
     "sourceHash": "baba98a675823fa08d189445487b73b21d90b7f7bf2e2fa2fdf648d7d0d09a0e",
-    "updatedAt": "2026-09-26T09:14:46Z",
+    "updatedAt": "2026-10-09T06:32:15Z",
     "pushedAt": "2026-09-26T09:14:42Z",
-    "lastSyncedAt": "2026-10-02T22:40:18.559Z",
-    "archived": false
+    "lastSyncedAt": "2026-10-12T05:21:45.879Z",
+    "archived": false,
+    "licenseStatus": "declared"
   },
   {
     "id": "russfranky:jev-crawlers",
@@ -66667,11 +66921,16 @@
     "stars": 1,
     "forks": 1,
     "openIssues": 1,
-    "license": "MIT",
+    "license": {
+      "status": "identified",
+      "spdx": "MIT",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
     "createdAt": "2026-09-19T17:59:02Z",
-    "lastCommitAt": "2026-09-26T02:27:01Z",
-    "headSha": "4475d6bd157ef2a6d2645e1491ee8eaa968189da",
-    "metadataFetchedAt": "2026-10-02T22:40:24.986Z",
+    "lastCommitAt": "2026-10-07T17:01:13Z",
+    "headSha": "f1cefc1471c7e7492de480b792279f8ee8995e7e",
+    "metadataFetchedAt": "2026-10-12T05:21:51.907Z",
     "metadataStatus": "ok",
     "avatarUrl": "https://avatars.githubusercontent.com/u/132274943?v=4",
     "verificationStatus": "integration-detected",
@@ -66695,10 +66954,11 @@
       ]
     },
     "sourceHash": "7466690252e312848b584a52c07042f362fa0ac98c73e18faecaa2922ed2da8c",
-    "updatedAt": "2026-10-01T15:58:53Z",
-    "pushedAt": "2026-09-26T02:27:03Z",
-    "lastSyncedAt": "2026-10-02T22:40:24.986Z",
-    "archived": false
+    "updatedAt": "2026-10-07T17:03:02Z",
+    "pushedAt": "2026-10-07T17:01:17Z",
+    "lastSyncedAt": "2026-10-12T05:21:51.907Z",
+    "archived": false,
+    "licenseStatus": "declared"
   },
   {
     "id": "coasty-ai:jevcode",
@@ -66741,11 +67001,16 @@
     "stars": 2,
     "forks": 0,
     "openIssues": 1,
-    "license": "MIT",
+    "license": {
+      "status": "identified",
+      "spdx": "MIT",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
     "createdAt": "2026-09-22T21:52:54Z",
     "lastCommitAt": "2026-09-26T02:02:08Z",
     "headSha": "53fcb218b05bae3fc11a5eac132b304482b4fbce",
-    "metadataFetchedAt": "2026-10-02T22:40:27.590Z",
+    "metadataFetchedAt": "2026-10-12T05:21:54.900Z",
     "metadataStatus": "ok",
     "avatarUrl": "https://avatars.githubusercontent.com/u/182054327?v=4",
     "verificationStatus": "integration-detected",
@@ -66770,9 +67035,10 @@
     },
     "sourceHash": "923091c9c6c827cbe8e88987db3a2c7ce057999995927e15654b559e6a289222",
     "updatedAt": "2026-10-02T13:45:31Z",
-    "pushedAt": "2026-09-28T11:43:22Z",
-    "lastSyncedAt": "2026-10-02T22:40:27.590Z",
-    "archived": false
+    "pushedAt": "2026-10-05T12:18:34Z",
+    "lastSyncedAt": "2026-10-12T05:21:54.900Z",
+    "archived": false,
+    "licenseStatus": "declared"
   },
   {
     "id": "lookski:openjev",
@@ -66808,14 +67074,19 @@
         "source": "repo-description"
       }
     },
-    "stars": 3,
-    "forks": 1,
-    "openIssues": 0,
-    "license": "MIT",
+    "stars": 5,
+    "forks": 2,
+    "openIssues": 1,
+    "license": {
+      "status": "identified",
+      "spdx": "MIT",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
     "createdAt": "2026-09-22T11:06:37Z",
     "lastCommitAt": "2026-10-02T17:24:12Z",
     "headSha": "49eb1382c88024e0f2550005264c13847d6ec167",
-    "metadataFetchedAt": "2026-10-02T22:40:30.533Z",
+    "metadataFetchedAt": "2026-10-12T05:21:57.860Z",
     "metadataStatus": "ok",
     "avatarUrl": "https://avatars.githubusercontent.com/u/97419683?v=4",
     "verificationStatus": "integration-detected",
@@ -66839,10 +67110,11 @@
       ]
     },
     "sourceHash": "1b5a45d0561b5d8f9e95648a73d5aad7e5506dc7070368aeddee4f7964285179",
-    "updatedAt": "2026-10-02T17:24:30Z",
+    "updatedAt": "2026-10-11T18:56:15Z",
     "pushedAt": "2026-10-02T17:24:25Z",
-    "lastSyncedAt": "2026-10-02T22:40:30.533Z",
-    "archived": false
+    "lastSyncedAt": "2026-10-12T05:21:57.860Z",
+    "archived": false,
+    "licenseStatus": "declared"
   },
   {
     "id": "laihenyi:pi-jev-browser",
@@ -66880,13 +67152,18 @@
       }
     },
     "stars": 1,
-    "forks": 1,
+    "forks": 2,
     "openIssues": 0,
-    "license": "Apache-2.0",
+    "license": {
+      "status": "identified",
+      "spdx": "Apache-2.0",
+      "name": "Apache License 2.0",
+      "url": "https://api.github.com/licenses/apache-2.0"
+    },
     "createdAt": "2026-09-19T13:09:21Z",
     "lastCommitAt": "2026-09-25T07:23:07Z",
     "headSha": "206a351831d82580a78ac4635aabcc33bc7134c9",
-    "metadataFetchedAt": "2026-10-02T22:40:33.578Z",
+    "metadataFetchedAt": "2026-10-12T05:22:00.905Z",
     "metadataStatus": "ok",
     "avatarUrl": "https://avatars.githubusercontent.com/u/491662?v=4",
     "verificationStatus": "integration-detected",
@@ -66912,8 +67189,9 @@
     "sourceHash": "86cee9c4a0d1acea32caddbf4921d2068ef40702c4c2fe298205bd108bc6732a",
     "updatedAt": "2026-09-26T03:20:27Z",
     "pushedAt": "2026-09-25T07:23:09Z",
-    "lastSyncedAt": "2026-10-02T22:40:33.578Z",
-    "archived": false
+    "lastSyncedAt": "2026-10-12T05:22:00.905Z",
+    "archived": false,
+    "licenseStatus": "declared"
   },
   {
     "id": "nanami-0713:jev-resume-screening",
@@ -66956,11 +67234,14 @@
     "stars": 1,
     "forks": 0,
     "openIssues": 1,
-    "license": null,
+    "license": {
+      "status": "undeclared",
+      "spdx": null
+    },
     "createdAt": "2026-09-19T15:06:57Z",
     "lastCommitAt": "2026-09-25T06:06:34Z",
     "headSha": "c07d5cb2874d77ba7a33953ad9e24f1617938a6b",
-    "metadataFetchedAt": "2026-10-02T22:40:37.624Z",
+    "metadataFetchedAt": "2026-10-12T05:22:03.932Z",
     "metadataStatus": "ok",
     "avatarUrl": "https://avatars.githubusercontent.com/u/312767031?v=4",
     "verificationStatus": "integration-detected",
@@ -66986,8 +67267,9 @@
     "sourceHash": "c1babd116ddbf9aea660a551050d83bf17091c6b4a81197aae3fe47d89457650",
     "updatedAt": "2026-09-25T06:06:41Z",
     "pushedAt": "2026-09-25T06:06:38Z",
-    "lastSyncedAt": "2026-10-02T22:40:37.624Z",
-    "archived": false
+    "lastSyncedAt": "2026-10-12T05:22:03.932Z",
+    "archived": false,
+    "licenseStatus": "unconfirmed"
   },
   {
     "id": "thneoly:r2r-jev",
@@ -67030,11 +67312,16 @@
     "stars": 1,
     "forks": 1,
     "openIssues": 1,
-    "license": "Apache-2.0",
+    "license": {
+      "status": "identified",
+      "spdx": "Apache-2.0",
+      "name": "Apache License 2.0",
+      "url": "https://api.github.com/licenses/apache-2.0"
+    },
     "createdAt": "2026-09-21T13:28:25Z",
     "lastCommitAt": "2026-09-25T03:37:15Z",
     "headSha": "a1390683f590243e4ba0be26a3b4cf41329f3cb4",
-    "metadataFetchedAt": "2026-10-02T22:40:39.668Z",
+    "metadataFetchedAt": "2026-10-12T05:22:06.985Z",
     "metadataStatus": "ok",
     "avatarUrl": "https://avatars.githubusercontent.com/u/23535249?v=4",
     "verificationStatus": "integration-detected",
@@ -67060,8 +67347,9 @@
     "sourceHash": "7a4171b5a502828abff39da068fd038abe14cadf05b9fb4d96f64b84e39e8c07",
     "updatedAt": "2026-09-25T03:37:20Z",
     "pushedAt": "2026-09-25T03:37:15Z",
-    "lastSyncedAt": "2026-10-02T22:40:39.668Z",
-    "archived": false
+    "lastSyncedAt": "2026-10-12T05:22:06.985Z",
+    "archived": false,
+    "licenseStatus": "declared"
   },
   {
     "id": "punkcanyang:hermes-jev-router",
@@ -67100,11 +67388,16 @@
     "stars": 1,
     "forks": 0,
     "openIssues": 0,
-    "license": "MIT",
+    "license": {
+      "status": "identified",
+      "spdx": "MIT",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
     "createdAt": "2026-09-25T00:46:14Z",
-    "lastCommitAt": "2026-09-25T03:05:22Z",
-    "headSha": "41fd1091d9c92159319f9e5ba3d7df2e53d79b81",
-    "metadataFetchedAt": "2026-10-02T22:40:42.626Z",
+    "lastCommitAt": "2026-10-10T09:14:28Z",
+    "headSha": "94ff1cb103c9c7e2773bdd87c02d425d1b367be8",
+    "metadataFetchedAt": "2026-10-12T05:22:09.914Z",
     "metadataStatus": "ok",
     "avatarUrl": "https://avatars.githubusercontent.com/u/36871858?v=4",
     "verificationStatus": "integration-detected",
@@ -67128,10 +67421,11 @@
       ]
     },
     "sourceHash": "706e11ec765781927eb41f5c2b48c33b13e7a0647e9501a7c116e87307349574",
-    "updatedAt": "2026-09-25T08:08:18Z",
-    "pushedAt": "2026-09-25T03:05:23Z",
-    "lastSyncedAt": "2026-10-02T22:40:42.626Z",
-    "archived": false
+    "updatedAt": "2026-10-10T09:14:33Z",
+    "pushedAt": "2026-10-10T09:14:29Z",
+    "lastSyncedAt": "2026-10-12T05:22:09.914Z",
+    "archived": false,
+    "licenseStatus": "declared"
   },
   {
     "id": "cgbarlow:jev-test",
@@ -67174,11 +67468,14 @@
     "stars": 1,
     "forks": 0,
     "openIssues": 0,
-    "license": null,
+    "license": {
+      "status": "undeclared",
+      "spdx": null
+    },
     "createdAt": "2026-09-24T17:53:52Z",
     "lastCommitAt": "2026-09-30T02:18:36Z",
     "headSha": "22dc2705fa85e357ec2f32b04e9aab64349b0037",
-    "metadataFetchedAt": "2026-10-02T22:40:45.556Z",
+    "metadataFetchedAt": "2026-10-12T05:22:12.990Z",
     "metadataStatus": "ok",
     "avatarUrl": "https://avatars.githubusercontent.com/u/959402?v=4",
     "verificationStatus": "integration-detected",
@@ -67204,8 +67501,9 @@
     "sourceHash": "87de302fe7f8ad6546b81fdd291066802856319f43cde504fed1987b304989cc",
     "updatedAt": "2026-09-30T02:18:41Z",
     "pushedAt": "2026-09-30T02:18:36Z",
-    "lastSyncedAt": "2026-10-02T22:40:45.556Z",
-    "archived": false
+    "lastSyncedAt": "2026-10-12T05:22:12.990Z",
+    "archived": false,
+    "licenseStatus": "unconfirmed"
   },
   {
     "id": "promtengineer:jev-harness",
@@ -67245,14 +67543,19 @@
         "source": "repo-description"
       }
     },
-    "stars": 7,
+    "stars": 9,
     "forks": 5,
     "openIssues": 0,
-    "license": "MIT",
+    "license": {
+      "status": "identified",
+      "spdx": "MIT",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
     "createdAt": "2026-09-24T22:00:35Z",
     "lastCommitAt": "2026-09-24T01:04:12Z",
     "headSha": "9bd4f670a2866498aa570e4ce4654997b3dce190",
-    "metadataFetchedAt": "2026-10-02T22:40:48.658Z",
+    "metadataFetchedAt": "2026-10-12T05:22:15.856Z",
     "metadataStatus": "ok",
     "avatarUrl": "https://avatars.githubusercontent.com/u/134474669?v=4",
     "verificationStatus": "integration-detected",
@@ -67276,10 +67579,11 @@
       ]
     },
     "sourceHash": "513ae6388d446ac785e4bd4c3895de68845c215c51d9a3cc6aa670c4a99acbb9",
-    "updatedAt": "2026-10-02T11:33:36Z",
+    "updatedAt": "2026-10-10T13:31:03Z",
     "pushedAt": "2026-09-24T22:00:50Z",
-    "lastSyncedAt": "2026-10-02T22:40:48.658Z",
-    "archived": false
+    "lastSyncedAt": "2026-10-12T05:22:15.856Z",
+    "archived": false,
+    "licenseStatus": "declared"
   },
   {
     "id": "cmaintz:jev-triage",
@@ -67322,12 +67626,17 @@
     },
     "stars": 1,
     "forks": 1,
-    "openIssues": 0,
-    "license": "MIT",
+    "openIssues": 1,
+    "license": {
+      "status": "identified",
+      "spdx": "MIT",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
     "createdAt": "2026-09-22T11:05:13Z",
-    "lastCommitAt": "2026-09-30T13:43:34Z",
-    "headSha": "0080249b1e1fc7fa549ee002bf605dc421d0d089",
-    "metadataFetchedAt": "2026-10-02T22:40:51.569Z",
+    "lastCommitAt": "2026-10-11T11:46:54Z",
+    "headSha": "71e0d1290e23a7162dcba6546f5396adb86b33bf",
+    "metadataFetchedAt": "2026-10-12T05:22:18.954Z",
     "metadataStatus": "ok",
     "avatarUrl": "https://avatars.githubusercontent.com/u/150426711?v=4",
     "verificationStatus": "integration-detected",
@@ -67351,10 +67660,11 @@
       ]
     },
     "sourceHash": "9c9a4f55988cfd83af3a0f7c69d2002cea49ce47e80152f55c360b65112c0582",
-    "updatedAt": "2026-09-30T13:45:53Z",
-    "pushedAt": "2026-09-30T17:23:23Z",
-    "lastSyncedAt": "2026-10-02T22:40:51.569Z",
-    "archived": false
+    "updatedAt": "2026-10-11T11:46:59Z",
+    "pushedAt": "2026-10-11T11:47:24Z",
+    "lastSyncedAt": "2026-10-12T05:22:18.954Z",
+    "archived": false,
+    "licenseStatus": "declared"
   },
   {
     "id": "x0ef:jev_projects",
@@ -67398,11 +67708,16 @@
     "stars": 1,
     "forks": 0,
     "openIssues": 0,
-    "license": "MIT",
+    "license": {
+      "status": "identified",
+      "spdx": "MIT",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
     "createdAt": "2026-09-19T00:06:21Z",
     "lastCommitAt": "2026-09-24T18:40:46Z",
     "headSha": "0b1773d9851afeb79ec463bd555027456e2eb07e",
-    "metadataFetchedAt": "2026-10-02T22:40:54.553Z",
+    "metadataFetchedAt": "2026-10-12T05:22:21.954Z",
     "metadataStatus": "ok",
     "avatarUrl": "https://avatars.githubusercontent.com/u/126020981?v=4",
     "verificationStatus": "integration-detected",
@@ -67428,8 +67743,9 @@
     "sourceHash": "6f5b86a627e58c5d812121516f669a38b91df0df50413eb81880d043ddef170e",
     "updatedAt": "2026-09-24T18:40:57Z",
     "pushedAt": "2026-09-24T18:40:53Z",
-    "lastSyncedAt": "2026-10-02T22:40:54.553Z",
-    "archived": false
+    "lastSyncedAt": "2026-10-12T05:22:21.954Z",
+    "archived": false,
+    "licenseStatus": "declared"
   },
   {
     "id": "sable-inc:jev-linter-action",
@@ -67472,11 +67788,16 @@
     "stars": 1,
     "forks": 0,
     "openIssues": 0,
-    "license": "MIT",
+    "license": {
+      "status": "identified",
+      "spdx": "MIT",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
     "createdAt": "2026-09-21T00:02:01Z",
     "lastCommitAt": "2026-10-02T08:06:09Z",
     "headSha": "2eccdf38121148e58e75fe5055cc1c76037b8ac6",
-    "metadataFetchedAt": "2026-10-02T22:40:57.576Z",
+    "metadataFetchedAt": "2026-10-12T05:22:24.964Z",
     "metadataStatus": "ok",
     "avatarUrl": "https://avatars.githubusercontent.com/u/201372619?v=4",
     "verificationStatus": "integration-detected",
@@ -67502,8 +67823,9 @@
     "sourceHash": "67907549eb56ba9418308ce61b65f0ed78891d4609030533861f7dc8de468cdd",
     "updatedAt": "2026-10-02T08:06:15Z",
     "pushedAt": "2026-10-02T08:06:09Z",
-    "lastSyncedAt": "2026-10-02T22:40:57.576Z",
-    "archived": false
+    "lastSyncedAt": "2026-10-12T05:22:24.964Z",
+    "archived": false,
+    "licenseStatus": "declared"
   },
   {
     "id": "0xjba:jev-swap",
@@ -67543,14 +67865,19 @@
         "source": "repo-description"
       }
     },
-    "stars": 1,
+    "stars": 2,
     "forks": 0,
     "openIssues": 0,
-    "license": "MIT",
+    "license": {
+      "status": "identified",
+      "spdx": "MIT",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
     "createdAt": "2026-09-24T08:31:03Z",
-    "lastCommitAt": "2026-09-24T17:22:06Z",
-    "headSha": "c6b82425c57a211b22e63e432e6b2959470b3c71",
-    "metadataFetchedAt": "2026-10-02T22:41:00.681Z",
+    "lastCommitAt": "2026-10-05T19:01:38Z",
+    "headSha": "85b9ad5cb85aea1f3eeed63359bc93b082a14be4",
+    "metadataFetchedAt": "2026-10-12T05:22:27.938Z",
     "metadataStatus": "ok",
     "avatarUrl": "https://avatars.githubusercontent.com/u/38902140?v=4",
     "verificationStatus": "integration-detected",
@@ -67574,10 +67901,11 @@
       ]
     },
     "sourceHash": "35a5d48b970ce65f48d15562c4a5775129d1ec59a3458ae756099ebeecef6608",
-    "updatedAt": "2026-09-25T13:59:59Z",
-    "pushedAt": "2026-09-24T17:22:07Z",
-    "lastSyncedAt": "2026-10-02T22:41:00.681Z",
-    "archived": false
+    "updatedAt": "2026-10-05T19:01:43Z",
+    "pushedAt": "2026-10-05T19:01:39Z",
+    "lastSyncedAt": "2026-10-12T05:22:27.938Z",
+    "archived": false,
+    "licenseStatus": "declared"
   },
   {
     "id": "0xzee:jev-stock-decision-maker",
@@ -67620,11 +67948,14 @@
     "stars": 1,
     "forks": 0,
     "openIssues": 0,
-    "license": null,
+    "license": {
+      "status": "undeclared",
+      "spdx": null
+    },
     "createdAt": "2026-09-21T11:55:08Z",
     "lastCommitAt": "2026-09-21T12:21:43Z",
     "headSha": "6d53aeaabecf85dab8d4a50869b9d8b741076b1a",
-    "metadataFetchedAt": "2026-10-02T22:41:03.586Z",
+    "metadataFetchedAt": "2026-10-12T05:22:30.974Z",
     "metadataStatus": "ok",
     "avatarUrl": "https://avatars.githubusercontent.com/u/91375714?v=4",
     "verificationStatus": "integration-detected",
@@ -67650,8 +67981,9 @@
     "sourceHash": "93bbd0e81f0b1717de2915873bb3a94e7ff83eb3c7decaaeea50d9ac48eba85c",
     "updatedAt": "2026-09-27T08:45:05Z",
     "pushedAt": "2026-09-21T12:21:44Z",
-    "lastSyncedAt": "2026-10-02T22:41:03.586Z",
-    "archived": false
+    "lastSyncedAt": "2026-10-12T05:22:30.974Z",
+    "archived": false,
+    "licenseStatus": "unconfirmed"
   },
   {
     "id": "patryckalves:jev-no-enem",
@@ -67694,11 +68026,14 @@
     "stars": 0,
     "forks": 0,
     "openIssues": 0,
-    "license": null,
+    "license": {
+      "status": "undeclared",
+      "spdx": null
+    },
     "createdAt": "2026-09-21T11:42:34Z",
     "lastCommitAt": "2026-09-21T11:55:02Z",
     "headSha": "7f85f787e3d13ce75da5bbc8d578038af73cc077",
-    "metadataFetchedAt": "2026-10-02T22:41:06.579Z",
+    "metadataFetchedAt": "2026-10-12T05:22:33.927Z",
     "metadataStatus": "ok",
     "avatarUrl": "https://avatars.githubusercontent.com/u/69732424?v=4",
     "verificationStatus": "integration-detected",
@@ -67722,10 +68057,11 @@
       ]
     },
     "sourceHash": "015ce022cd368c735b2c9836daaac99478f4bae9ad7313db61537b16785a167b",
-    "updatedAt": "2026-09-30T12:38:40Z",
+    "updatedAt": "2026-10-04T10:45:36Z",
     "pushedAt": "2026-09-21T11:59:18Z",
-    "lastSyncedAt": "2026-10-02T22:41:06.579Z",
-    "archived": false
+    "lastSyncedAt": "2026-10-12T05:22:33.927Z",
+    "archived": false,
+    "licenseStatus": "unconfirmed"
   },
   {
     "id": "atulify:omp-plugin-jev-router",
@@ -67768,11 +68104,14 @@
     "stars": 1,
     "forks": 0,
     "openIssues": 0,
-    "license": null,
+    "license": {
+      "status": "undeclared",
+      "spdx": null
+    },
     "createdAt": "2026-09-21T03:07:33Z",
     "lastCommitAt": "2026-09-21T03:07:28Z",
     "headSha": "2773d681accb31edfbf35513bd32e89e28f41d5e",
-    "metadataFetchedAt": "2026-10-02T22:41:09.564Z",
+    "metadataFetchedAt": "2026-10-12T05:22:36.871Z",
     "metadataStatus": "ok",
     "avatarUrl": "https://avatars.githubusercontent.com/u/60624758?v=4",
     "verificationStatus": "integration-detected",
@@ -67798,8 +68137,9 @@
     "sourceHash": "d170da8661f54be5b6a45aac94d209b20bf44f4b4ebf803941e058da7a912db5",
     "updatedAt": "2026-09-22T22:05:47Z",
     "pushedAt": "2026-09-21T03:07:37Z",
-    "lastSyncedAt": "2026-10-02T22:41:09.564Z",
-    "archived": false
+    "lastSyncedAt": "2026-10-12T05:22:36.871Z",
+    "archived": false,
+    "licenseStatus": "unconfirmed"
   },
   {
     "id": "ashafizullah:jev-triage",
@@ -67842,11 +68182,16 @@
     "stars": 1,
     "forks": 0,
     "openIssues": 0,
-    "license": "MIT",
+    "license": {
+      "status": "identified",
+      "spdx": "MIT",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
     "createdAt": "2026-09-21T02:35:35Z",
     "lastCommitAt": "2026-09-21T02:36:37Z",
     "headSha": "bdbcdaea7fd70eaddf14a8d8fc2ae546bc4ebb78",
-    "metadataFetchedAt": "2026-10-02T22:41:12.546Z",
+    "metadataFetchedAt": "2026-10-12T05:22:39.922Z",
     "metadataStatus": "ok",
     "avatarUrl": "https://avatars.githubusercontent.com/u/29304713?v=4",
     "verificationStatus": "integration-detected",
@@ -67872,8 +68217,9 @@
     "sourceHash": "d164f1d42ba4639bbd2e4f990716a062409014cc666885066cfc950fcef9afe8",
     "updatedAt": "2026-09-21T13:31:16Z",
     "pushedAt": "2026-09-21T02:36:37Z",
-    "lastSyncedAt": "2026-10-02T22:41:12.546Z",
-    "archived": false
+    "lastSyncedAt": "2026-10-12T05:22:39.922Z",
+    "archived": false,
+    "licenseStatus": "declared"
   },
   {
     "id": "sunyasheng:jevdeepresearch",
@@ -67896,14 +68242,19 @@
     "claimStatus": "优先保留投稿者与仓库原文，缺失语言自动补充；自动检查仅确认 Jev 集成证据，未经本站运行或性能复测。",
     "claimStatusEn": "Author and repository text is preserved where clear; missing languages are enriched automatically. Checks establish source-level Jev integration, not runtime, safety, or performance validation.",
     "plainSummaryEn": "GPT directs the research; Jev uses Choice and Noul to locate evidence across document regions concurrently, and code returns original passages for GPT to verify and continue. The released integration pairs Pi-Serini BM25 search with Jev batches of 20, 40, or 60 documents.",
-    "stars": 1,
-    "forks": 0,
+    "stars": 4,
+    "forks": 1,
     "openIssues": 0,
-    "license": "Apache-2.0",
+    "license": {
+      "status": "identified",
+      "spdx": "Apache-2.0",
+      "name": "Apache License 2.0",
+      "url": "https://api.github.com/licenses/apache-2.0"
+    },
     "createdAt": "2026-09-28T17:48:09Z",
     "lastCommitAt": "2026-09-29T11:28:28Z",
     "headSha": "4fe0ff2e27516a58c35c9cdd4c28e21f1e6e3515",
-    "metadataFetchedAt": "2026-10-02T22:41:15.641Z",
+    "metadataFetchedAt": "2026-10-12T05:22:42.930Z",
     "metadataStatus": "ok",
     "avatarUrl": "https://avatars.githubusercontent.com/u/22748186?v=4",
     "verificationStatus": "integration-detected",
@@ -67941,10 +68292,11 @@
       "issueBodySha256": "bd6d2a69311cea9b6e755111afa24ac1581e6b04c09cbb3063789c9bde9d8bb8",
       "issueUrl": "https://github.com/logicrw/awesome-jev-projects/issues/101"
     },
-    "updatedAt": "2026-09-29T11:28:59Z",
+    "updatedAt": "2026-10-05T05:01:27Z",
     "pushedAt": "2026-09-29T11:28:54Z",
-    "lastSyncedAt": "2026-10-02T22:41:15.641Z",
-    "archived": false
+    "lastSyncedAt": "2026-10-12T05:22:42.930Z",
+    "archived": false,
+    "licenseStatus": "declared"
   },
   {
     "id": "henryklunaris:hey-jev",
@@ -67984,14 +68336,17 @@
         "source": "readme"
       }
     },
-    "stars": 58,
-    "forks": 17,
+    "stars": 111,
+    "forks": 28,
     "openIssues": 2,
-    "license": null,
+    "license": {
+      "status": "undeclared",
+      "spdx": null
+    },
     "createdAt": "2026-09-22T04:33:46Z",
     "lastCommitAt": "2026-09-29T20:26:56Z",
     "headSha": "24e4b378350d999d2b45ff2549ea039c2bc7863d",
-    "metadataFetchedAt": "2026-10-02T22:41:18.567Z",
+    "metadataFetchedAt": "2026-10-12T05:22:45.856Z",
     "metadataStatus": "ok",
     "avatarUrl": "https://avatars.githubusercontent.com/u/178187528?v=4",
     "verificationStatus": "integration-detected",
@@ -68015,10 +68370,11 @@
       ]
     },
     "sourceHash": "42c13344e07855e7dd7bbc07900c2b7fd6da84999afff30600b7b596ab567bb7",
-    "updatedAt": "2026-10-02T21:14:25Z",
+    "updatedAt": "2026-10-12T00:37:57Z",
     "pushedAt": "2026-09-29T20:26:59Z",
-    "lastSyncedAt": "2026-10-02T22:41:18.567Z",
-    "archived": false
+    "lastSyncedAt": "2026-10-12T05:22:45.856Z",
+    "archived": false,
+    "licenseStatus": "unconfirmed"
   },
   {
     "id": "ice-hazymoon:jevlint",
@@ -68058,14 +68414,19 @@
         "source": "repo-description"
       }
     },
-    "stars": 15,
+    "stars": 16,
     "forks": 1,
     "openIssues": 0,
-    "license": "MIT",
+    "license": {
+      "status": "identified",
+      "spdx": "MIT",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
     "createdAt": "2026-09-23T14:26:49Z",
-    "lastCommitAt": "2026-09-24T01:40:05Z",
-    "headSha": "4fc280339ac7e835d2d7413c2588047fb5383084",
-    "metadataFetchedAt": "2026-10-02T22:41:21.578Z",
+    "lastCommitAt": "2026-10-10T11:21:28Z",
+    "headSha": "d090b421950e5253b968c0a809c0832d23580f9c",
+    "metadataFetchedAt": "2026-10-12T05:22:48.904Z",
     "metadataStatus": "ok",
     "avatarUrl": "https://avatars.githubusercontent.com/u/25239977?v=4",
     "verificationStatus": "integration-detected",
@@ -68089,10 +68450,11 @@
       ]
     },
     "sourceHash": "923be450cb90599ac3bea32d8151f3381a5f1ce74656bfb544b4884c974a5e0c",
-    "updatedAt": "2026-09-26T05:51:38Z",
-    "pushedAt": "2026-09-24T06:10:10Z",
-    "lastSyncedAt": "2026-10-02T22:41:21.578Z",
-    "archived": false
+    "updatedAt": "2026-10-10T11:21:33Z",
+    "pushedAt": "2026-10-10T11:21:30Z",
+    "lastSyncedAt": "2026-10-12T05:22:48.904Z",
+    "archived": false,
+    "licenseStatus": "declared"
   },
   {
     "id": "grandamenium:jev-anything",
@@ -68132,14 +68494,19 @@
         "source": "repo-description"
       }
     },
-    "stars": 18,
-    "forks": 0,
+    "stars": 30,
+    "forks": 1,
     "openIssues": 0,
-    "license": "MIT",
+    "license": {
+      "status": "identified",
+      "spdx": "MIT",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
     "createdAt": "2026-09-24T20:26:33Z",
     "lastCommitAt": "2026-09-24T20:26:32Z",
     "headSha": "448461f01a5abb8b7026e2b2c222611ed18d2415",
-    "metadataFetchedAt": "2026-10-02T22:41:24.570Z",
+    "metadataFetchedAt": "2026-10-12T05:22:51.919Z",
     "metadataStatus": "ok",
     "avatarUrl": "https://avatars.githubusercontent.com/u/124735996?v=4",
     "verificationStatus": "integration-detected",
@@ -68163,10 +68530,11 @@
       ]
     },
     "sourceHash": "8f377981da273531cddd5e0ae1b253399fc5ad2382856a651c4f266edc0a0b9f",
-    "updatedAt": "2026-10-01T18:35:31Z",
+    "updatedAt": "2026-10-12T04:16:09Z",
     "pushedAt": "2026-09-24T20:26:37Z",
-    "lastSyncedAt": "2026-10-02T22:41:24.570Z",
-    "archived": false
+    "lastSyncedAt": "2026-10-12T05:22:51.919Z",
+    "archived": false,
+    "licenseStatus": "declared"
   },
   {
     "id": "dark-hxx:jev-safety-gateway",
@@ -68206,14 +68574,19 @@
         "source": "rules"
       }
     },
-    "stars": 13,
+    "stars": 17,
     "forks": 1,
     "openIssues": 0,
-    "license": "AGPL-3.0",
+    "license": {
+      "status": "identified",
+      "spdx": "AGPL-3.0",
+      "name": "GNU Affero General Public License v3.0",
+      "url": "https://api.github.com/licenses/agpl-3.0"
+    },
     "createdAt": "2026-09-24T03:21:43Z",
-    "lastCommitAt": "2026-09-30T13:31:57Z",
-    "headSha": "7763775637c75d555537cec97d14af627421ff28",
-    "metadataFetchedAt": "2026-10-02T22:41:27.602Z",
+    "lastCommitAt": "2026-10-08T02:56:25Z",
+    "headSha": "91d2c4446f4579aa36eb6b0ae5e71b781de1c5d8",
+    "metadataFetchedAt": "2026-10-12T05:22:54.954Z",
     "metadataStatus": "ok",
     "avatarUrl": "https://avatars.githubusercontent.com/u/91944707?v=4",
     "verificationStatus": "integration-detected",
@@ -68237,10 +68610,11 @@
       ]
     },
     "sourceHash": "55941bf6c8ceaa4e69dbdcd93b8ee19352d2d8f143a0177f4e31a4daea639ba6",
-    "updatedAt": "2026-09-30T13:36:50Z",
-    "pushedAt": "2026-09-30T13:34:43Z",
-    "lastSyncedAt": "2026-10-02T22:41:27.602Z",
-    "archived": false
+    "updatedAt": "2026-10-12T02:43:16Z",
+    "pushedAt": "2026-10-08T03:18:07Z",
+    "lastSyncedAt": "2026-10-12T05:22:54.954Z",
+    "archived": false,
+    "licenseStatus": "declared"
   },
   {
     "id": "da-vinci-noob:pi-jev-model-router",
@@ -68281,13 +68655,18 @@
       }
     },
     "stars": 11,
-    "forks": 7,
-    "openIssues": 3,
-    "license": "MIT",
+    "forks": 8,
+    "openIssues": 1,
+    "license": {
+      "status": "identified",
+      "spdx": "MIT",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
     "createdAt": "2026-09-19T03:40:08Z",
-    "lastCommitAt": "2026-09-29T16:23:58Z",
-    "headSha": "f1a6f0381ef10899319542525f4d53c76c368396",
-    "metadataFetchedAt": "2026-10-02T22:41:30.572Z",
+    "lastCommitAt": "2026-10-07T20:47:56Z",
+    "headSha": "b9d39e1d9ab671d87808117691ccc23ce05fcb15",
+    "metadataFetchedAt": "2026-10-12T05:22:57.884Z",
     "metadataStatus": "ok",
     "avatarUrl": "https://avatars.githubusercontent.com/u/67788600?v=4",
     "verificationStatus": "integration-detected",
@@ -68311,10 +68690,11 @@
       ]
     },
     "sourceHash": "95076c30342f6b2541575eaec19ba724dbaa0d3cad7e6cdd14b8c9f78d7f0c7d",
-    "updatedAt": "2026-10-02T17:51:33Z",
-    "pushedAt": "2026-09-29T16:24:11Z",
-    "lastSyncedAt": "2026-10-02T22:41:30.572Z",
-    "archived": false
+    "updatedAt": "2026-10-07T20:48:01Z",
+    "pushedAt": "2026-10-07T20:47:56Z",
+    "lastSyncedAt": "2026-10-12T05:22:57.884Z",
+    "archived": false,
+    "licenseStatus": "declared"
   },
   {
     "id": "parth1811:jevflow",
@@ -68354,14 +68734,19 @@
         "source": "repo-description"
       }
     },
-    "stars": 8,
-    "forks": 0,
-    "openIssues": 0,
-    "license": "MIT",
+    "stars": 9,
+    "forks": 1,
+    "openIssues": 1,
+    "license": {
+      "status": "identified",
+      "spdx": "MIT",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
     "createdAt": "2026-09-24T14:17:06Z",
-    "lastCommitAt": "2026-09-27T22:29:21Z",
-    "headSha": "506ecf583faa3bfe40a8514a49b1dc04b21c221c",
-    "metadataFetchedAt": "2026-10-02T22:41:33.542Z",
+    "lastCommitAt": "2026-10-05T17:53:59Z",
+    "headSha": "dab68722a3f501cc13a7a7380d2cee3cc577c631",
+    "metadataFetchedAt": "2026-10-12T05:23:00.934Z",
     "metadataStatus": "ok",
     "avatarUrl": "https://avatars.githubusercontent.com/u/23277673?v=4",
     "verificationStatus": "integration-detected",
@@ -68385,10 +68770,11 @@
       ]
     },
     "sourceHash": "9a1c9752edc9256b6a03a614f1cd60bbe5f69acbb2477bfe8f0b2c7d11f37ec9",
-    "updatedAt": "2026-10-01T19:16:55Z",
-    "pushedAt": "2026-09-27T22:30:35Z",
-    "lastSyncedAt": "2026-10-02T22:41:33.542Z",
-    "archived": false
+    "updatedAt": "2026-10-09T21:28:41Z",
+    "pushedAt": "2026-10-05T17:56:34Z",
+    "lastSyncedAt": "2026-10-12T05:23:00.934Z",
+    "archived": false,
+    "licenseStatus": "declared"
   },
   {
     "id": "qcjlchina:jev-chat-assistant",
@@ -68431,11 +68817,16 @@
     "stars": 8,
     "forks": 0,
     "openIssues": 0,
-    "license": "MIT",
+    "license": {
+      "status": "identified",
+      "spdx": "MIT",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
     "createdAt": "2026-09-23T05:29:05Z",
-    "lastCommitAt": "2026-10-02T14:20:44Z",
-    "headSha": "6b8d3c11bb8f88bd5bb74b7baa12e47ec282e538",
-    "metadataFetchedAt": "2026-10-02T22:41:36.573Z",
+    "lastCommitAt": "2026-10-10T07:00:48Z",
+    "headSha": "df2f5a47d435a76969da353651a164f4554acaf7",
+    "metadataFetchedAt": "2026-10-12T05:23:03.943Z",
     "metadataStatus": "ok",
     "avatarUrl": "https://avatars.githubusercontent.com/u/319501417?v=4",
     "verificationStatus": "integration-detected",
@@ -68459,10 +68850,11 @@
       ]
     },
     "sourceHash": "259e73380d282e0e71e1b408ed523837d7b06dc320a96bd53e0510eca7be059a",
-    "updatedAt": "2026-10-02T14:20:54Z",
-    "pushedAt": "2026-10-02T14:20:49Z",
-    "lastSyncedAt": "2026-10-02T22:41:36.573Z",
-    "archived": false
+    "updatedAt": "2026-10-10T07:00:57Z",
+    "pushedAt": "2026-10-10T07:00:56Z",
+    "lastSyncedAt": "2026-10-12T05:23:03.943Z",
+    "archived": false,
+    "licenseStatus": "declared"
   },
   {
     "id": "sugarforever:tryjev",
@@ -68502,14 +68894,19 @@
         "source": "readme"
       }
     },
-    "stars": 6,
+    "stars": 7,
     "forks": 5,
     "openIssues": 0,
-    "license": "MIT",
+    "license": {
+      "status": "identified",
+      "spdx": "MIT",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
     "createdAt": "2026-09-19T14:22:57Z",
     "lastCommitAt": "2026-09-25T19:23:59Z",
     "headSha": "52770fc2166b929ede98c6a1599cc03dea33af9c",
-    "metadataFetchedAt": "2026-10-02T22:41:39.559Z",
+    "metadataFetchedAt": "2026-10-12T05:23:06.876Z",
     "metadataStatus": "ok",
     "avatarUrl": "https://avatars.githubusercontent.com/u/404421?v=4",
     "verificationStatus": "integration-detected",
@@ -68533,10 +68930,11 @@
       ]
     },
     "sourceHash": "1a743f1d5dc87fdfc075841e034c0ea4a1ff2378fedf8e59ed515687a8af4062",
-    "updatedAt": "2026-09-28T01:03:41Z",
+    "updatedAt": "2026-10-03T05:24:17Z",
     "pushedAt": "2026-09-25T19:24:01Z",
-    "lastSyncedAt": "2026-10-02T22:41:39.559Z",
-    "archived": false
+    "lastSyncedAt": "2026-10-12T05:23:06.876Z",
+    "archived": false,
+    "licenseStatus": "declared"
   },
   {
     "id": "alexpeclub:jev-model-router-claude-code",
@@ -68579,11 +68977,14 @@
     "stars": 8,
     "forks": 5,
     "openIssues": 1,
-    "license": null,
+    "license": {
+      "status": "undeclared",
+      "spdx": null
+    },
     "createdAt": "2026-09-24T09:12:52Z",
     "lastCommitAt": "2026-09-24T09:17:47Z",
     "headSha": "d118081fce1687d4d593a470357bd93a592063b7",
-    "metadataFetchedAt": "2026-10-02T22:41:42.577Z",
+    "metadataFetchedAt": "2026-10-12T05:23:09.940Z",
     "metadataStatus": "ok",
     "avatarUrl": "https://avatars.githubusercontent.com/u/253069310?v=4",
     "verificationStatus": "integration-detected",
@@ -68609,8 +69010,9 @@
     "sourceHash": "7ae9dabd5b653d39685cab5e8f5ab18c21861d24c559c8815ba4b016444ea5a3",
     "updatedAt": "2026-10-01T11:34:11Z",
     "pushedAt": "2026-09-24T09:17:48Z",
-    "lastSyncedAt": "2026-10-02T22:41:42.577Z",
-    "archived": false
+    "lastSyncedAt": "2026-10-12T05:23:09.940Z",
+    "archived": false,
+    "licenseStatus": "unconfirmed"
   },
   {
     "id": "noetion:dsh-jev",
@@ -68653,11 +69055,16 @@
     "stars": 3,
     "forks": 0,
     "openIssues": 0,
-    "license": "MIT",
+    "license": {
+      "status": "identified",
+      "spdx": "MIT",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
     "createdAt": "2026-09-17T14:49:10Z",
     "lastCommitAt": "2026-09-29T16:50:23Z",
     "headSha": "4c6dd62514e7e961e78aeda861f4f5c01e2b0d07",
-    "metadataFetchedAt": "2026-10-02T22:41:45.600Z",
+    "metadataFetchedAt": "2026-10-12T05:23:12.975Z",
     "metadataStatus": "ok",
     "avatarUrl": "https://avatars.githubusercontent.com/u/294263306?v=4",
     "verificationStatus": "integration-detected",
@@ -68683,8 +69090,9 @@
     "sourceHash": "3338f158a22452c30c2b35fa9659e828a9ee113d8ce9ffbb01b84a106bdc6b68",
     "updatedAt": "2026-09-30T12:38:02Z",
     "pushedAt": "2026-09-29T16:50:23Z",
-    "lastSyncedAt": "2026-10-02T22:41:45.600Z",
-    "archived": false
+    "lastSyncedAt": "2026-10-12T05:23:12.975Z",
+    "archived": false,
+    "licenseStatus": "declared"
   },
   {
     "id": "datagobes:jev-demos",
@@ -68726,12 +69134,17 @@
     },
     "stars": 4,
     "forks": 0,
-    "openIssues": 1,
-    "license": "MIT",
+    "openIssues": 2,
+    "license": {
+      "status": "identified",
+      "spdx": "MIT",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
     "createdAt": "2026-09-24T21:52:13Z",
-    "lastCommitAt": "2026-10-02T16:05:30Z",
-    "headSha": "b1ce4dfc322213882a2f9c8b232cb6fae39b26db",
-    "metadataFetchedAt": "2026-10-02T22:41:48.603Z",
+    "lastCommitAt": "2026-10-08T09:57:30Z",
+    "headSha": "174240b900767215e1a1307d91879b744cdb0285",
+    "metadataFetchedAt": "2026-10-12T05:23:16.016Z",
     "metadataStatus": "ok",
     "avatarUrl": "https://avatars.githubusercontent.com/u/28458645?v=4",
     "verificationStatus": "integration-detected",
@@ -68755,10 +69168,11 @@
       ]
     },
     "sourceHash": "e311597602cbcbd821eb5c4f694a4d3cdedbe0ac0b120f4e656f34bc9ae35241",
-    "updatedAt": "2026-10-02T16:05:43Z",
-    "pushedAt": "2026-10-02T16:08:03Z",
-    "lastSyncedAt": "2026-10-02T22:41:48.603Z",
-    "archived": false
+    "updatedAt": "2026-10-08T09:57:35Z",
+    "pushedAt": "2026-10-08T09:57:30Z",
+    "lastSyncedAt": "2026-10-12T05:23:16.016Z",
+    "archived": false,
+    "licenseStatus": "declared"
   },
   {
     "id": "king4s:jev-ai-skill",
@@ -68801,11 +69215,16 @@
     "stars": 3,
     "forks": 0,
     "openIssues": 0,
-    "license": "MIT",
+    "license": {
+      "status": "identified",
+      "spdx": "MIT",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
     "createdAt": "2026-09-24T12:23:38Z",
     "lastCommitAt": "2026-09-28T18:50:00Z",
     "headSha": "125c1cdfbd136c4fd0a6106dcf973c75c4add47d",
-    "metadataFetchedAt": "2026-10-02T22:41:51.618Z",
+    "metadataFetchedAt": "2026-10-12T05:23:18.887Z",
     "metadataStatus": "ok",
     "avatarUrl": "https://avatars.githubusercontent.com/u/14319716?v=4",
     "verificationStatus": "integration-detected",
@@ -68831,8 +69250,9 @@
     "sourceHash": "34e49b275ba1a8cbbc1a401217462b38283ad2935f8107139611fa363f33775b",
     "updatedAt": "2026-09-28T18:50:05Z",
     "pushedAt": "2026-09-28T18:50:03Z",
-    "lastSyncedAt": "2026-10-02T22:41:51.618Z",
-    "archived": false
+    "lastSyncedAt": "2026-10-12T05:23:18.887Z",
+    "archived": false,
+    "licenseStatus": "declared"
   },
   {
     "id": "brendanh18:jev_fsd",
@@ -68872,14 +69292,19 @@
         "source": "readme"
       }
     },
-    "stars": 4,
+    "stars": 7,
     "forks": 1,
-    "openIssues": 1,
-    "license": "MIT",
+    "openIssues": 0,
+    "license": {
+      "status": "identified",
+      "spdx": "MIT",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
     "createdAt": "2026-09-18T21:34:09Z",
-    "lastCommitAt": "2026-10-01T03:06:38Z",
-    "headSha": "bbc9012331dfb175a555c76c50487467ce93fb40",
-    "metadataFetchedAt": "2026-10-02T22:41:54.594Z",
+    "lastCommitAt": "2026-10-08T00:06:33Z",
+    "headSha": "62fe05046f18c47562b67b2d9d6d7df9f81e205a",
+    "metadataFetchedAt": "2026-10-12T05:23:21.909Z",
     "metadataStatus": "ok",
     "avatarUrl": "https://avatars.githubusercontent.com/u/151875764?v=4",
     "verificationStatus": "integration-detected",
@@ -68903,10 +69328,11 @@
       ]
     },
     "sourceHash": "cd26d3246a398ffe051a64b1907e41375856ea05687ee9f430847310c632f7b7",
-    "updatedAt": "2026-10-01T03:06:44Z",
-    "pushedAt": "2026-10-02T22:34:52Z",
-    "lastSyncedAt": "2026-10-02T22:41:54.594Z",
-    "archived": false
+    "updatedAt": "2026-10-08T00:06:39Z",
+    "pushedAt": "2026-10-08T00:06:35Z",
+    "lastSyncedAt": "2026-10-12T05:23:21.909Z",
+    "archived": false,
+    "licenseStatus": "declared"
   },
   {
     "id": "caiovicentino:jev-risk-check-provider",
@@ -68946,14 +69372,19 @@
         "source": "repo-description"
       }
     },
-    "stars": 9,
+    "stars": 11,
     "forks": 1,
     "openIssues": 0,
-    "license": "MIT",
+    "license": {
+      "status": "identified",
+      "spdx": "MIT",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
     "createdAt": "2026-09-27T21:40:12Z",
-    "lastCommitAt": "2026-10-02T19:57:34Z",
-    "headSha": "34be80ee83d9280f1231ac5dd70e714ec62a870a",
-    "metadataFetchedAt": "2026-10-02T22:41:57.576Z",
+    "lastCommitAt": "2026-10-07T00:32:50Z",
+    "headSha": "db526bc7b40dcf2c924363d100de40651d26f3ea",
+    "metadataFetchedAt": "2026-10-12T05:23:24.879Z",
     "metadataStatus": "ok",
     "avatarUrl": "https://avatars.githubusercontent.com/u/193428813?v=4",
     "verificationStatus": "integration-detected",
@@ -68977,10 +69408,11 @@
       ]
     },
     "sourceHash": "2757dd974c8ecc56c1ac1f557de06088abca964e465118483bd8f3345da61ab2",
-    "updatedAt": "2026-10-02T19:57:39Z",
-    "pushedAt": "2026-10-02T19:57:36Z",
-    "lastSyncedAt": "2026-10-02T22:41:57.576Z",
-    "archived": false
+    "updatedAt": "2026-10-12T00:54:51Z",
+    "pushedAt": "2026-10-11T11:24:53Z",
+    "lastSyncedAt": "2026-10-12T05:23:24.879Z",
+    "archived": false,
+    "licenseStatus": "declared"
   },
   {
     "id": "mingleiw:jev-oncall",
@@ -69020,14 +69452,19 @@
         "source": "repo-description"
       }
     },
-    "stars": 3,
+    "stars": 4,
     "forks": 0,
     "openIssues": 13,
-    "license": "MIT",
+    "license": {
+      "status": "identified",
+      "spdx": "MIT",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
     "createdAt": "2026-09-21T20:20:08Z",
     "lastCommitAt": "2026-09-29T20:27:00Z",
     "headSha": "e6b02aed03976f71b6ef4fe67f3d71247ca512c8",
-    "metadataFetchedAt": "2026-10-02T22:42:00.618Z",
+    "metadataFetchedAt": "2026-10-12T05:23:28.055Z",
     "metadataStatus": "ok",
     "avatarUrl": "https://avatars.githubusercontent.com/u/65087969?v=4",
     "verificationStatus": "integration-detected",
@@ -69051,10 +69488,11 @@
       ]
     },
     "sourceHash": "0bad3f84a9073c26bb6b88d8cd0261e44fa6c4f28d966983ff261fe0a6b21fbb",
-    "updatedAt": "2026-09-30T05:57:45Z",
+    "updatedAt": "2026-10-09T10:26:57Z",
     "pushedAt": "2026-09-29T20:27:01Z",
-    "lastSyncedAt": "2026-10-02T22:42:00.618Z",
-    "archived": false
+    "lastSyncedAt": "2026-10-12T05:23:28.055Z",
+    "archived": false,
+    "licenseStatus": "declared"
   },
   {
     "id": "drpaneas:jev",
@@ -69097,11 +69535,16 @@
     "stars": 2,
     "forks": 0,
     "openIssues": 0,
-    "license": "MIT",
+    "license": {
+      "status": "identified",
+      "spdx": "MIT",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
     "createdAt": "2026-09-27T08:30:30Z",
     "lastCommitAt": "2026-09-27T09:27:24Z",
     "headSha": "d861b9f09608b099aa352ef1fb83a867ee3c0981",
-    "metadataFetchedAt": "2026-10-02T22:42:03.626Z",
+    "metadataFetchedAt": "2026-10-12T05:23:31.019Z",
     "metadataStatus": "ok",
     "avatarUrl": "https://avatars.githubusercontent.com/u/2141732?v=4",
     "verificationStatus": "integration-detected",
@@ -69127,8 +69570,9 @@
     "sourceHash": "48fbce41beec1e8155474179b11d09a6335fe7d7b7aafc5178789bff9aca0bf3",
     "updatedAt": "2026-09-28T15:54:29Z",
     "pushedAt": "2026-09-27T09:27:30Z",
-    "lastSyncedAt": "2026-10-02T22:42:03.626Z",
-    "archived": false
+    "lastSyncedAt": "2026-10-12T05:23:31.019Z",
+    "archived": false,
+    "licenseStatus": "declared"
   },
   {
     "id": "vbs2004:jevcut",
@@ -69171,11 +69615,16 @@
     "stars": 4,
     "forks": 0,
     "openIssues": 0,
-    "license": "MIT",
+    "license": {
+      "status": "identified",
+      "spdx": "MIT",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
     "createdAt": "2026-09-20T08:08:16Z",
     "lastCommitAt": "2026-10-02T07:32:35Z",
     "headSha": "fa716d1021be10d3714783dc65bd506d782a8f3f",
-    "metadataFetchedAt": "2026-10-02T22:42:06.645Z",
+    "metadataFetchedAt": "2026-10-12T05:23:33.989Z",
     "metadataStatus": "ok",
     "avatarUrl": "https://avatars.githubusercontent.com/u/66900514?v=4",
     "verificationStatus": "integration-detected",
@@ -69201,8 +69650,9 @@
     "sourceHash": "42c9de48502a4aea7dc5558e3ccc2b5d905e79fc87d3791638c75ddf23ecbf79",
     "updatedAt": "2026-10-02T07:32:40Z",
     "pushedAt": "2026-10-02T07:32:35Z",
-    "lastSyncedAt": "2026-10-02T22:42:06.645Z",
-    "archived": false
+    "lastSyncedAt": "2026-10-12T05:23:33.989Z",
+    "archived": false,
+    "licenseStatus": "declared"
   },
   {
     "id": "itscloud0:codex-jev-native-router",
@@ -69246,11 +69696,16 @@
     "stars": 2,
     "forks": 0,
     "openIssues": 0,
-    "license": "MIT",
+    "license": {
+      "status": "identified",
+      "spdx": "MIT",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
     "createdAt": "2026-09-23T00:39:02Z",
-    "lastCommitAt": "2026-10-02T20:08:42Z",
-    "headSha": "76b3bfa503438075c3d3f1bc99aed38c5165ed2a",
-    "metadataFetchedAt": "2026-10-02T22:42:12.597Z",
+    "lastCommitAt": "2026-10-10T11:06:59Z",
+    "headSha": "d33fca2bf19917571a085a224c425bfe08545de8",
+    "metadataFetchedAt": "2026-10-12T05:23:39.971Z",
     "metadataStatus": "ok",
     "avatarUrl": "https://avatars.githubusercontent.com/u/89895960?v=4",
     "verificationStatus": "integration-detected",
@@ -69274,10 +69729,11 @@
       ]
     },
     "sourceHash": "c252f51b3e6a41476d0d5c4cda62e80cb8d8c403bfd049e860189d13c92f6437",
-    "updatedAt": "2026-10-02T20:08:47Z",
-    "pushedAt": "2026-10-02T20:08:43Z",
-    "lastSyncedAt": "2026-10-02T22:42:12.597Z",
-    "archived": false
+    "updatedAt": "2026-10-10T11:07:04Z",
+    "pushedAt": "2026-10-10T11:07:00Z",
+    "lastSyncedAt": "2026-10-12T05:23:39.971Z",
+    "archived": false,
+    "licenseStatus": "declared"
   },
   {
     "id": "vishiatchoudhary:tooljev",
@@ -69320,11 +69776,16 @@
     "stars": 3,
     "forks": 0,
     "openIssues": 0,
-    "license": "MIT",
+    "license": {
+      "status": "identified",
+      "spdx": "MIT",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
     "createdAt": "2026-09-28T15:53:25Z",
     "lastCommitAt": "2026-09-28T20:55:43Z",
     "headSha": "bdf72d0cae759b0d128a85489f83d3e88232f29e",
-    "metadataFetchedAt": "2026-10-02T22:42:15.579Z",
+    "metadataFetchedAt": "2026-10-12T05:23:42.888Z",
     "metadataStatus": "ok",
     "avatarUrl": "https://avatars.githubusercontent.com/u/92573834?v=4",
     "verificationStatus": "integration-detected",
@@ -69350,8 +69811,9 @@
     "sourceHash": "a8848eb947cb934d06625b3d7e604cded3bcb6a9fa4d2a82dd33b453415f236d",
     "updatedAt": "2026-09-29T22:33:07Z",
     "pushedAt": "2026-09-28T20:55:44Z",
-    "lastSyncedAt": "2026-10-02T22:42:15.579Z",
-    "archived": false
+    "lastSyncedAt": "2026-10-12T05:23:42.888Z",
+    "archived": false,
+    "licenseStatus": "declared"
   },
   {
     "id": "sedthh:xjevboost",
@@ -69394,11 +69856,16 @@
     "stars": 1,
     "forks": 0,
     "openIssues": 0,
-    "license": "Apache-2.0",
+    "license": {
+      "status": "identified",
+      "spdx": "Apache-2.0",
+      "name": "Apache License 2.0",
+      "url": "https://api.github.com/licenses/apache-2.0"
+    },
     "createdAt": "2026-09-21T19:45:27Z",
     "lastCommitAt": "2026-09-25T19:41:04Z",
     "headSha": "d91797bf5d0b22d50b38e5a127eb212fef332803",
-    "metadataFetchedAt": "2026-10-02T22:42:18.607Z",
+    "metadataFetchedAt": "2026-10-12T05:23:45.980Z",
     "metadataStatus": "ok",
     "avatarUrl": "https://avatars.githubusercontent.com/u/18616343?v=4",
     "verificationStatus": "integration-detected",
@@ -69424,8 +69891,9 @@
     "sourceHash": "22ed40971164e05472e9648aeeffa6e5865f71c362c620fdc68574b9f8a76022",
     "updatedAt": "2026-09-25T19:41:13Z",
     "pushedAt": "2026-09-25T19:41:09Z",
-    "lastSyncedAt": "2026-10-02T22:42:18.607Z",
-    "archived": false
+    "lastSyncedAt": "2026-10-12T05:23:45.980Z",
+    "archived": false,
+    "licenseStatus": "declared"
   },
   {
     "id": "timmikeladze:jevlang",
@@ -69468,11 +69936,16 @@
     "stars": 1,
     "forks": 0,
     "openIssues": 0,
-    "license": "MIT",
+    "license": {
+      "status": "identified",
+      "spdx": "MIT",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
     "createdAt": "2026-09-21T22:23:51Z",
     "lastCommitAt": "2026-09-25T18:13:17Z",
     "headSha": "c485325e1f0bdeac35ace4a7bd30f5982d7e7d04",
-    "metadataFetchedAt": "2026-10-02T22:42:21.575Z",
+    "metadataFetchedAt": "2026-10-12T05:23:48.900Z",
     "metadataStatus": "ok",
     "avatarUrl": "https://avatars.githubusercontent.com/u/702718?v=4",
     "verificationStatus": "integration-detected",
@@ -69498,8 +69971,9 @@
     "sourceHash": "cf570c071de156116f8e7cb0bb03fc588100ea7952350710484744417259422d",
     "updatedAt": "2026-09-25T18:13:23Z",
     "pushedAt": "2026-09-25T18:13:19Z",
-    "lastSyncedAt": "2026-10-02T22:42:21.575Z",
-    "archived": false
+    "lastSyncedAt": "2026-10-12T05:23:48.900Z",
+    "archived": false,
+    "licenseStatus": "declared"
   },
   {
     "id": "romain-jochum:typesafe-jev-decision-studio",
@@ -69542,11 +70016,14 @@
     "stars": 1,
     "forks": 0,
     "openIssues": 0,
-    "license": null,
+    "license": {
+      "status": "undeclared",
+      "spdx": null
+    },
     "createdAt": "2026-09-23T12:04:57Z",
     "lastCommitAt": "2026-09-25T15:03:33Z",
     "headSha": "f134c6b8e841f2b708923ccf47efb141a72bc7b1",
-    "metadataFetchedAt": "2026-10-02T22:42:24.568Z",
+    "metadataFetchedAt": "2026-10-12T05:23:51.991Z",
     "metadataStatus": "ok",
     "avatarUrl": "https://avatars.githubusercontent.com/u/167341360?v=4",
     "verificationStatus": "integration-detected",
@@ -69572,8 +70049,9 @@
     "sourceHash": "28fcdce4cf425aba09666bffec07b6d969be5aa92cea200edfdcff616d932372",
     "updatedAt": "2026-09-28T09:47:19Z",
     "pushedAt": "2026-09-25T15:03:45Z",
-    "lastSyncedAt": "2026-10-02T22:42:24.568Z",
-    "archived": false
+    "lastSyncedAt": "2026-10-12T05:23:51.991Z",
+    "archived": false,
+    "licenseStatus": "unconfirmed"
   },
   {
     "id": "eliot5566:jev-arena",
@@ -69612,11 +70090,16 @@
     "stars": 1,
     "forks": 0,
     "openIssues": 2,
-    "license": "MIT",
+    "license": {
+      "status": "identified",
+      "spdx": "MIT",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
     "createdAt": "2026-09-25T05:26:38Z",
     "lastCommitAt": "2026-09-25T14:22:26Z",
     "headSha": "a9baab73c3628ee8dc08aa6500fe524c7b5ddd67",
-    "metadataFetchedAt": "2026-10-02T22:42:27.587Z",
+    "metadataFetchedAt": "2026-10-12T05:23:54.957Z",
     "metadataStatus": "ok",
     "avatarUrl": "https://avatars.githubusercontent.com/u/121885583?v=4",
     "verificationStatus": "integration-detected",
@@ -69642,8 +70125,9 @@
     "sourceHash": "1ea0586a278e585fde7f8d90e805ba54b3037bd54059a5d8a6dd0152736a4e01",
     "updatedAt": "2026-09-25T14:22:32Z",
     "pushedAt": "2026-09-25T14:22:28Z",
-    "lastSyncedAt": "2026-10-02T22:42:27.587Z",
-    "archived": false
+    "lastSyncedAt": "2026-10-12T05:23:54.957Z",
+    "archived": false,
+    "licenseStatus": "declared"
   },
   {
     "id": "gabazureus:jevextract",
@@ -69686,11 +70170,16 @@
     "stars": 1,
     "forks": 1,
     "openIssues": 0,
-    "license": "MIT",
+    "license": {
+      "status": "identified",
+      "spdx": "MIT",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
     "createdAt": "2026-09-25T12:48:45Z",
     "lastCommitAt": "2026-09-25T13:31:50Z",
     "headSha": "b13a30a4741e75b7c24e65bc8f6b81afee2d2314",
-    "metadataFetchedAt": "2026-10-02T22:42:30.588Z",
+    "metadataFetchedAt": "2026-10-12T05:23:57.987Z",
     "metadataStatus": "ok",
     "avatarUrl": "https://avatars.githubusercontent.com/u/5619673?v=4",
     "verificationStatus": "integration-detected",
@@ -69716,8 +70205,9 @@
     "sourceHash": "96029daf8ed03b2319a5db369204de6f4945da73725ff2804b73290141813536",
     "updatedAt": "2026-09-28T06:36:18Z",
     "pushedAt": "2026-09-25T13:32:56Z",
-    "lastSyncedAt": "2026-10-02T22:42:30.588Z",
-    "archived": false
+    "lastSyncedAt": "2026-10-12T05:23:57.987Z",
+    "archived": false,
+    "licenseStatus": "declared"
   },
   {
     "id": "ohernandezdev:jevmod",
@@ -69760,11 +70250,16 @@
     "stars": 1,
     "forks": 1,
     "openIssues": 0,
-    "license": "MIT",
+    "license": {
+      "status": "identified",
+      "spdx": "MIT",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
     "createdAt": "2026-09-17T14:19:27Z",
     "lastCommitAt": "2026-09-28T23:01:34Z",
     "headSha": "b2ab2e569cf9ae9da7bd8a2852fc4f60754f2383",
-    "metadataFetchedAt": "2026-10-02T22:42:33.583Z",
+    "metadataFetchedAt": "2026-10-12T05:24:00.899Z",
     "metadataStatus": "ok",
     "avatarUrl": "https://avatars.githubusercontent.com/u/271644829?v=4",
     "verificationStatus": "integration-detected",
@@ -69790,8 +70285,9 @@
     "sourceHash": "18531df2118e66a01d6bdab60b095fed5d797c5019ba400d3d1e887061ddae36",
     "updatedAt": "2026-09-28T23:01:40Z",
     "pushedAt": "2026-09-29T10:31:22Z",
-    "lastSyncedAt": "2026-10-02T22:42:33.583Z",
-    "archived": false
+    "lastSyncedAt": "2026-10-12T05:24:00.899Z",
+    "archived": false,
+    "licenseStatus": "declared"
   },
   {
     "id": "marcodicesare-dev:jev-skill",
@@ -69835,11 +70331,16 @@
     "stars": 1,
     "forks": 0,
     "openIssues": 0,
-    "license": "MIT",
+    "license": {
+      "status": "identified",
+      "spdx": "MIT",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
     "createdAt": "2026-09-28T12:03:59Z",
     "lastCommitAt": "2026-09-29T11:44:55Z",
     "headSha": "40b090732a370397e1521dd64c14eecd943f97f2",
-    "metadataFetchedAt": "2026-10-02T22:42:36.594Z",
+    "metadataFetchedAt": "2026-10-12T05:24:04.006Z",
     "metadataStatus": "ok",
     "avatarUrl": "https://avatars.githubusercontent.com/u/225570092?v=4",
     "verificationStatus": "integration-detected",
@@ -69865,8 +70366,9 @@
     "sourceHash": "fdaec62184f638f1af2b48d85d75c96c44f9901ab535ceb6460a2574155b5072",
     "updatedAt": "2026-09-29T11:45:00Z",
     "pushedAt": "2026-09-29T11:44:56Z",
-    "lastSyncedAt": "2026-10-02T22:42:36.594Z",
-    "archived": false
+    "lastSyncedAt": "2026-10-12T05:24:04.006Z",
+    "archived": false,
+    "licenseStatus": "declared"
   },
   {
     "id": "kleosr:cursor-clijev-compaction",
@@ -69909,11 +70411,16 @@
     "stars": 1,
     "forks": 0,
     "openIssues": 0,
-    "license": "MIT",
+    "license": {
+      "status": "identified",
+      "spdx": "MIT",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
     "createdAt": "2026-09-18T04:51:48Z",
     "lastCommitAt": "2026-10-02T19:51:51Z",
     "headSha": "e143f33fc3ba27596e21870e71bccfdf43d2d8c1",
-    "metadataFetchedAt": "2026-10-02T22:42:39.584Z",
+    "metadataFetchedAt": "2026-10-12T05:24:06.939Z",
     "metadataStatus": "ok",
     "avatarUrl": "https://avatars.githubusercontent.com/u/194702497?v=4",
     "verificationStatus": "integration-detected",
@@ -69939,8 +70446,9 @@
     "sourceHash": "e8da6712e6d796bf4bf20bc2402419ba311afdc88ee16c0463418cab7c34548a",
     "updatedAt": "2026-10-02T19:51:55Z",
     "pushedAt": "2026-10-02T19:51:51Z",
-    "lastSyncedAt": "2026-10-02T22:42:39.584Z",
-    "archived": false
+    "lastSyncedAt": "2026-10-12T05:24:06.939Z",
+    "archived": false,
+    "licenseStatus": "declared"
   },
   {
     "id": "afloat16:jev-mcp",
@@ -69978,12 +70486,17 @@
     },
     "stars": 1,
     "forks": 0,
-    "openIssues": 1,
-    "license": "MIT",
+    "openIssues": 2,
+    "license": {
+      "status": "identified",
+      "spdx": "MIT",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
     "createdAt": "2026-09-28T09:41:45Z",
     "lastCommitAt": "2026-09-28T13:33:50Z",
     "headSha": "4362f2f69252af4749cc7a4e922e931388e2c51c",
-    "metadataFetchedAt": "2026-10-02T22:42:42.575Z",
+    "metadataFetchedAt": "2026-10-12T05:24:09.920Z",
     "metadataStatus": "ok",
     "avatarUrl": "https://avatars.githubusercontent.com/u/132809511?v=4",
     "verificationStatus": "integration-detected",
@@ -70008,9 +70521,10 @@
     },
     "sourceHash": "e180a2dffb7ad65f82e809d8d87da151647b0a57934481d42778be3c745207e2",
     "updatedAt": "2026-09-28T13:33:55Z",
-    "pushedAt": "2026-09-28T14:16:57Z",
-    "lastSyncedAt": "2026-10-02T22:42:42.575Z",
-    "archived": false
+    "pushedAt": "2026-10-05T14:16:00Z",
+    "lastSyncedAt": "2026-10-12T05:24:09.920Z",
+    "archived": false,
+    "licenseStatus": "declared"
   },
   {
     "id": "arcj137442:jev-switch",
@@ -70053,11 +70567,16 @@
     "stars": 1,
     "forks": 0,
     "openIssues": 0,
-    "license": "Apache-2.0",
+    "license": {
+      "status": "identified",
+      "spdx": "Apache-2.0",
+      "name": "Apache License 2.0",
+      "url": "https://api.github.com/licenses/apache-2.0"
+    },
     "createdAt": "2026-09-22T14:17:43Z",
-    "lastCommitAt": "2026-10-02T18:41:10Z",
-    "headSha": "96569858be3d2e96f04e8b28e1ac71f14883a5d2",
-    "metadataFetchedAt": "2026-10-02T22:42:45.580Z",
+    "lastCommitAt": "2026-10-08T03:31:04Z",
+    "headSha": "c531c3c7ab3b50fcf9a617b093388c988481df5d",
+    "metadataFetchedAt": "2026-10-12T05:24:12.912Z",
     "metadataStatus": "ok",
     "avatarUrl": "https://avatars.githubusercontent.com/u/61109168?v=4",
     "verificationStatus": "integration-detected",
@@ -70081,10 +70600,11 @@
       ]
     },
     "sourceHash": "360eb691c29df7584de1d997983934ffec349483b28d2b72b12465986fb8123f",
-    "updatedAt": "2026-10-02T18:41:27Z",
-    "pushedAt": "2026-10-02T18:43:37Z",
-    "lastSyncedAt": "2026-10-02T22:42:45.580Z",
-    "archived": false
+    "updatedAt": "2026-10-08T03:31:53Z",
+    "pushedAt": "2026-10-08T03:31:49Z",
+    "lastSyncedAt": "2026-10-12T05:24:12.912Z",
+    "archived": false,
+    "licenseStatus": "declared"
   },
   {
     "id": "selmakcby:jev-kiyafet-bul",
@@ -70124,14 +70644,18 @@
         "source": "readme"
       }
     },
-    "stars": 3,
+    "stars": 4,
     "forks": 1,
     "openIssues": 0,
-    "license": null,
+    "license": {
+      "status": "custom",
+      "spdx": null,
+      "name": "Other"
+    },
     "createdAt": "2026-09-28T12:01:51Z",
     "lastCommitAt": "2026-09-28T12:01:42Z",
     "headSha": "d66a3d6d7ae53a3ef3d162ad651463ea5b73b7cc",
-    "metadataFetchedAt": "2026-10-02T22:42:48.587Z",
+    "metadataFetchedAt": "2026-10-12T05:24:15.952Z",
     "metadataStatus": "ok",
     "avatarUrl": "https://avatars.githubusercontent.com/u/116554649?v=4",
     "verificationStatus": "integration-detected",
@@ -70155,10 +70679,11 @@
       ]
     },
     "sourceHash": "a26883e7819f1059710bedbc85c81fb4ae8ab61060620c512b219451079e0fde",
-    "updatedAt": "2026-10-02T15:18:48Z",
+    "updatedAt": "2026-10-10T09:01:15Z",
     "pushedAt": "2026-09-28T12:01:55Z",
-    "lastSyncedAt": "2026-10-02T22:42:48.587Z",
-    "archived": false
+    "lastSyncedAt": "2026-10-12T05:24:15.952Z",
+    "archived": false,
+    "licenseStatus": "custom"
   },
   {
     "id": "philippelhaus:codex-jev",
@@ -70198,14 +70723,19 @@
         "source": "repo-description"
       }
     },
-    "stars": 1,
-    "forks": 0,
+    "stars": 2,
+    "forks": 1,
     "openIssues": 0,
-    "license": "MIT",
+    "license": {
+      "status": "identified",
+      "spdx": "MIT",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
     "createdAt": "2026-09-26T18:26:57Z",
-    "lastCommitAt": "2026-10-02T06:49:20Z",
-    "headSha": "cdef06b8eeaf149a512cbfe18775531c3005d2f8",
-    "metadataFetchedAt": "2026-10-02T22:42:51.654Z",
+    "lastCommitAt": "2026-10-09T19:49:51Z",
+    "headSha": "60f84b11602aed1e4e2f87d96c9973f50c888633",
+    "metadataFetchedAt": "2026-10-12T05:24:21.875Z",
     "metadataStatus": "ok",
     "avatarUrl": "https://avatars.githubusercontent.com/u/47691379?v=4",
     "verificationStatus": "integration-detected",
@@ -70229,10 +70759,11 @@
       ]
     },
     "sourceHash": "02b1e70119e67d97420fe2179eb96ee2565d20fdf2878eb138829b8c308304e4",
-    "updatedAt": "2026-10-02T06:49:32Z",
-    "pushedAt": "2026-10-02T06:49:28Z",
-    "lastSyncedAt": "2026-10-02T22:42:51.654Z",
-    "archived": false
+    "updatedAt": "2026-10-09T19:50:01Z",
+    "pushedAt": "2026-10-09T19:55:09Z",
+    "lastSyncedAt": "2026-10-12T05:24:21.875Z",
+    "archived": false,
+    "licenseStatus": "declared"
   },
   {
     "id": "snjrusmn:jev-humanizer",
@@ -70277,11 +70808,16 @@
     "stars": 2,
     "forks": 0,
     "openIssues": 0,
-    "license": "MIT",
+    "license": {
+      "status": "identified",
+      "spdx": "MIT",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
     "createdAt": "2026-09-28T08:34:50Z",
     "lastCommitAt": "2026-09-28T09:35:56Z",
     "headSha": "1ec645fdf27300f21aeb8c054dc0b9b49b9c4b2f",
-    "metadataFetchedAt": "2026-10-02T22:42:54.589Z",
+    "metadataFetchedAt": "2026-10-12T05:24:24.930Z",
     "metadataStatus": "ok",
     "avatarUrl": "https://avatars.githubusercontent.com/u/50141777?v=4",
     "verificationStatus": "integration-detected",
@@ -70307,8 +70843,9 @@
     "sourceHash": "3b45a65636ab3f3e702182defa13f85ce7a26a25b5bc7758aa0d9925e1a9f130",
     "updatedAt": "2026-09-30T07:43:38Z",
     "pushedAt": "2026-09-28T09:35:58Z",
-    "lastSyncedAt": "2026-10-02T22:42:54.589Z",
-    "archived": false
+    "lastSyncedAt": "2026-10-12T05:24:24.930Z",
+    "archived": false,
+    "licenseStatus": "declared"
   },
   {
     "id": "cwdx:1-million-emojis",
@@ -70332,13 +70869,18 @@
     "claimStatusEn": "Author and repository text is preserved where clear; missing languages are enriched automatically. Checks establish source-level Jev integration, not runtime, safety, or performance validation.",
     "plainSummaryEn": "A shared 1000 × 1000 emoji canvas where humans paint and Jev paints alongside them: after each stroke, one Jev request chooses which emoji goes next to it and where, from typed options named against the stroke, and says whether the stroke is an unfinished shape.",
     "stars": 0,
-    "forks": 0,
+    "forks": 1,
     "openIssues": 0,
-    "license": "MIT",
+    "license": {
+      "status": "identified",
+      "spdx": "MIT",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
     "createdAt": "2026-09-25T13:52:08Z",
     "lastCommitAt": "2026-09-30T14:24:11Z",
     "headSha": "f0e8273ebcedee466c0302f2a8fdb30c7964c29b",
-    "metadataFetchedAt": "2026-10-02T22:42:57.598Z",
+    "metadataFetchedAt": "2026-10-12T05:24:28.041Z",
     "metadataStatus": "ok",
     "avatarUrl": "https://avatars.githubusercontent.com/u/6141096?v=4",
     "verificationStatus": "integration-detected",
@@ -70387,8 +70929,9 @@
     },
     "updatedAt": "2026-09-30T14:24:23Z",
     "pushedAt": "2026-09-30T14:24:12Z",
-    "lastSyncedAt": "2026-10-02T22:42:57.598Z",
-    "archived": false
+    "lastSyncedAt": "2026-10-12T05:24:28.041Z",
+    "archived": false,
+    "licenseStatus": "declared"
   },
   {
     "id": "hr98w:jev-visual",
@@ -70413,14 +70956,19 @@
     "summarySource": "source-reviewed",
     "claimStatus": "社区开源实验：基于 Qwen3.5-0.8B 与 MLX 在 Apple Silicon 上跑通端侧多模态打分接口，非 TypeSafe 官方实现。",
     "claimStatusEn": "Open-source experiment running local multimodal Jev-style scoring on Apple Silicon (MLX), not official TypeSafe cloud service.",
-    "stars": 303,
-    "forks": 27,
+    "stars": 317,
+    "forks": 29,
     "openIssues": 1,
-    "license": "MIT",
+    "license": {
+      "status": "identified",
+      "spdx": "MIT",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
     "createdAt": "2026-09-17T17:45:56Z",
     "lastCommitAt": "2026-09-21T11:43:54Z",
     "headSha": "4382bba455647400951429134ceb012ca155e3fe",
-    "metadataFetchedAt": "2026-10-02T22:43:00.632Z",
+    "metadataFetchedAt": "2026-10-12T05:24:30.982Z",
     "metadataStatus": "ok",
     "avatarUrl": "https://avatars.githubusercontent.com/u/159284258?v=4",
     "verificationStatus": "integration-detected",
@@ -70467,10 +71015,11 @@
       "issueBodySha256": "481565be7eb9a9cdfdac9d428b6ee6f23fa4d01a6372c4874d6549ee71f3f299",
       "issueUrl": "https://github.com/logicrw/awesome-jev-projects/issues/2"
     },
-    "updatedAt": "2026-10-02T15:13:47Z",
+    "updatedAt": "2026-10-11T03:47:03Z",
     "pushedAt": "2026-09-21T11:43:54Z",
-    "lastSyncedAt": "2026-10-02T22:43:00.632Z",
-    "archived": false
+    "lastSyncedAt": "2026-10-12T05:24:30.982Z",
+    "archived": false,
+    "licenseStatus": "declared"
   },
   {
     "id": "protocol-lattice:harness-router",
@@ -70493,14 +71042,19 @@
     "claimStatus": "优先保留投稿者与仓库原文，缺失语言自动补充；自动检查仅确认 Jev 集成证据，未经本站运行或性能复测。",
     "claimStatusEn": "Author and repository text is preserved where clear; missing languages are enriched automatically. Checks establish source-level Jev integration, not runtime, safety, or performance validation.",
     "plainSummaryEn": "Fast decision routing for agent harnesses — native MCP with Jev for tool selection and MCTS for multi-step decisions.",
-    "stars": 19,
+    "stars": 21,
     "forks": 6,
     "openIssues": 0,
-    "license": "MIT",
+    "license": {
+      "status": "identified",
+      "spdx": "MIT",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
     "createdAt": "2026-09-25T12:05:02Z",
     "lastCommitAt": "2026-09-30T18:19:42Z",
     "headSha": "dedc72cbfa6aad73441934bc41fc6a75027f4101",
-    "metadataFetchedAt": "2026-10-02T22:43:03.642Z",
+    "metadataFetchedAt": "2026-10-12T05:24:33.924Z",
     "metadataStatus": "ok",
     "avatarUrl": "https://avatars.githubusercontent.com/u/240787679?v=4",
     "verificationStatus": "integration-detected",
@@ -70556,10 +71110,11 @@
       "issueBodySha256": "d195f76536151f4c8d2b97a456f802602f8ef6fd96d99bad363aa67676feeae0",
       "issueUrl": "https://github.com/logicrw/awesome-jev-projects/issues/100"
     },
-    "updatedAt": "2026-09-30T18:19:47Z",
+    "updatedAt": "2026-10-04T06:22:52Z",
     "pushedAt": "2026-09-30T18:19:42Z",
-    "lastSyncedAt": "2026-10-02T22:43:03.642Z",
-    "archived": false
+    "lastSyncedAt": "2026-10-12T05:24:33.924Z",
+    "archived": false,
+    "licenseStatus": "declared"
   },
   {
     "id": "pateti-hub:laya-browser-guard",
@@ -70585,11 +71140,16 @@
     "stars": 0,
     "forks": 0,
     "openIssues": 0,
-    "license": "Apache-2.0",
+    "license": {
+      "status": "identified",
+      "spdx": "Apache-2.0",
+      "name": "Apache License 2.0",
+      "url": "https://api.github.com/licenses/apache-2.0"
+    },
     "createdAt": "2026-09-28T12:51:30Z",
     "lastCommitAt": "2026-09-29T12:35:41Z",
     "headSha": "c4a20349b574800ad132fc3e8baf2c6e81d33f89",
-    "metadataFetchedAt": "2026-10-02T22:43:06.660Z",
+    "metadataFetchedAt": "2026-10-12T05:24:36.980Z",
     "metadataStatus": "ok",
     "avatarUrl": "https://avatars.githubusercontent.com/u/221115518?v=4",
     "verificationStatus": "integration-detected",
@@ -70629,8 +71189,9 @@
     },
     "updatedAt": "2026-09-29T12:35:47Z",
     "pushedAt": "2026-09-29T12:35:41Z",
-    "lastSyncedAt": "2026-10-02T22:43:06.660Z",
-    "archived": false
+    "lastSyncedAt": "2026-10-12T05:24:36.980Z",
+    "archived": false,
+    "licenseStatus": "declared"
   },
   {
     "id": "peterwanghot:jev-cc-codex-router",
@@ -70655,11 +71216,16 @@
     "stars": 2,
     "forks": 1,
     "openIssues": 0,
-    "license": "MIT",
+    "license": {
+      "status": "identified",
+      "spdx": "MIT",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
     "createdAt": "2026-09-29T14:18:32Z",
     "lastCommitAt": "2026-09-29T14:37:13Z",
     "headSha": "a375021f3b2ca7466800e156b94c0daf733664be",
-    "metadataFetchedAt": "2026-10-02T22:43:09.621Z",
+    "metadataFetchedAt": "2026-10-12T05:24:39.986Z",
     "metadataStatus": "ok",
     "avatarUrl": "https://avatars.githubusercontent.com/u/5207213?v=4",
     "verificationStatus": "integration-detected",
@@ -70717,8 +71283,9 @@
     },
     "updatedAt": "2026-10-02T06:28:03Z",
     "pushedAt": "2026-09-29T14:41:26Z",
-    "lastSyncedAt": "2026-10-02T22:43:09.621Z",
-    "archived": false
+    "lastSyncedAt": "2026-10-12T05:24:39.986Z",
+    "archived": false,
+    "licenseStatus": "declared"
   },
   {
     "id": "sedum-dev:sedum",
@@ -70741,14 +71308,19 @@
     "claimStatus": "优先保留投稿者与仓库原文，缺失语言自动补充；自动检查仅确认 Jev 集成证据，未经本站运行或性能复测。",
     "claimStatusEn": "Author and repository text is preserved where clear; missing languages are enriched automatically. Checks establish source-level Jev integration, not runtime, safety, or performance validation.",
     "plainSummaryEn": "Plain-English browser e2e tests cheap enough to run on every PR. Built on Jev and Playwright, open source, bring your own key.",
-    "stars": 3,
-    "forks": 0,
-    "openIssues": 1,
-    "license": "MIT",
+    "stars": 11,
+    "forks": 2,
+    "openIssues": 3,
+    "license": {
+      "status": "identified",
+      "spdx": "MIT",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
     "createdAt": "2026-09-19T02:56:45Z",
-    "lastCommitAt": "2026-10-02T22:25:08Z",
-    "headSha": "58a0349f5a90c694a3bcb51ef6c274e8f9a3dbb2",
-    "metadataFetchedAt": "2026-10-02T22:43:12.624Z",
+    "lastCommitAt": "2026-10-10T11:35:42Z",
+    "headSha": "e8c1d5e0327bc4a11aae87b37c8ec66f3e1923cf",
+    "metadataFetchedAt": "2026-10-12T05:24:42.931Z",
     "metadataStatus": "ok",
     "avatarUrl": "https://avatars.githubusercontent.com/u/331116282?v=4",
     "verificationStatus": "integration-detected",
@@ -70786,10 +71358,11 @@
       "issueBodySha256": "f82e9fadd445ed367867825d818048ae7c7fdc3070f26c2a11a5a22942e22e1a",
       "issueUrl": "https://github.com/logicrw/awesome-jev-projects/issues/107"
     },
-    "updatedAt": "2026-10-02T22:25:15Z",
-    "pushedAt": "2026-10-02T22:25:32Z",
-    "lastSyncedAt": "2026-10-02T22:43:12.624Z",
-    "archived": false
+    "updatedAt": "2026-10-10T11:35:47Z",
+    "pushedAt": "2026-10-11T15:36:47Z",
+    "lastSyncedAt": "2026-10-12T05:24:42.931Z",
+    "archived": false,
+    "licenseStatus": "declared"
   },
   {
     "id": "arthurfiorette:jev-playwright",
@@ -70814,12 +71387,17 @@
     "plainSummaryEn": "Shrinks Playwright suites in CI by letting Jev select tests related to code diffs.",
     "stars": 6,
     "forks": 0,
-    "openIssues": 1,
-    "license": "MIT",
+    "openIssues": 3,
+    "license": {
+      "status": "identified",
+      "spdx": "MIT",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
     "createdAt": "2026-09-24T16:54:44Z",
     "lastCommitAt": "2026-09-25T00:30:55Z",
     "headSha": "96bdcc6bdf2dd0a9194c302e84eb6c87abb4f398",
-    "metadataFetchedAt": "2026-10-02T22:43:15.666Z",
+    "metadataFetchedAt": "2026-10-12T05:24:46.032Z",
     "metadataStatus": "ok",
     "avatarUrl": "https://avatars.githubusercontent.com/u/47537704?v=4",
     "verificationStatus": "integration-detected",
@@ -70867,9 +71445,10 @@
       "issueUrl": "https://github.com/logicrw/awesome-jev-projects/issues/106"
     },
     "updatedAt": "2026-09-25T20:07:09Z",
-    "pushedAt": "2026-10-01T21:49:44Z",
-    "lastSyncedAt": "2026-10-02T22:43:15.666Z",
-    "archived": false
+    "pushedAt": "2026-10-08T21:46:31Z",
+    "lastSyncedAt": "2026-10-12T05:24:46.032Z",
+    "archived": false,
+    "licenseStatus": "declared"
   },
   {
     "id": "iamjonatha:jev-book-tags",
@@ -70895,11 +71474,15 @@
     "stars": 0,
     "forks": 0,
     "openIssues": 0,
-    "license": null,
+    "license": {
+      "status": "custom",
+      "spdx": null,
+      "name": "Other"
+    },
     "createdAt": "2026-10-01T10:38:35Z",
     "lastCommitAt": "2026-10-01T10:54:36Z",
     "headSha": "a02e768e8ec6f283b93fce5345999559ea2b88d7",
-    "metadataFetchedAt": "2026-10-02T22:43:18.613Z",
+    "metadataFetchedAt": "2026-10-12T05:24:48.912Z",
     "metadataStatus": "ok",
     "avatarUrl": "https://avatars.githubusercontent.com/u/1169884?v=4",
     "verificationStatus": "integration-detected",
@@ -70957,8 +71540,9 @@
     },
     "updatedAt": "2026-10-01T10:54:41Z",
     "pushedAt": "2026-10-01T10:54:37Z",
-    "lastSyncedAt": "2026-10-02T22:43:18.613Z",
-    "archived": false
+    "lastSyncedAt": "2026-10-12T05:24:48.912Z",
+    "archived": false,
+    "licenseStatus": "custom"
   },
   {
     "id": "david96182:cribrix",
@@ -70984,11 +71568,16 @@
     "stars": 1,
     "forks": 1,
     "openIssues": 0,
-    "license": "MIT",
+    "license": {
+      "status": "identified",
+      "spdx": "MIT",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
     "createdAt": "2026-09-24T20:41:35Z",
     "lastCommitAt": "2026-09-25T21:34:10Z",
     "headSha": "a2b6ca24fd715863d530154b12be90ae865a16b3",
-    "metadataFetchedAt": "2026-10-02T22:43:21.597Z",
+    "metadataFetchedAt": "2026-10-12T05:24:51.940Z",
     "metadataStatus": "ok",
     "avatarUrl": "https://avatars.githubusercontent.com/u/88980449?v=4",
     "verificationStatus": "integration-detected",
@@ -71028,8 +71617,9 @@
     },
     "updatedAt": "2026-09-29T23:38:50Z",
     "pushedAt": "2026-09-25T21:54:41Z",
-    "lastSyncedAt": "2026-10-02T22:43:21.597Z",
-    "archived": false
+    "lastSyncedAt": "2026-10-12T05:24:51.940Z",
+    "archived": false,
+    "licenseStatus": "declared"
   },
   {
     "id": "joaquinruiz:medula",
@@ -71052,14 +71642,19 @@
     "claimStatus": "优先保留投稿者与仓库原文，缺失语言自动补充；自动检查仅确认 Jev 集成证据，未经本站运行或性能复测。",
     "claimStatusEn": "Author and repository text is preserved where clear; missing languages are enriched automatically. Checks establish source-level Jev integration, not runtime, safety, or performance validation.",
     "plainSummaryEn": "Suggesting Médula for the coding-agents domain. I'm the author.",
-    "stars": 8,
-    "forks": 6,
+    "stars": 11,
+    "forks": 7,
     "openIssues": 6,
-    "license": "MIT",
+    "license": {
+      "status": "identified",
+      "spdx": "MIT",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
     "createdAt": "2026-09-29T18:02:17Z",
     "lastCommitAt": "2026-10-02T12:39:39Z",
     "headSha": "55b37b16237d7e1201955f05f714f3aec05141cf",
-    "metadataFetchedAt": "2026-10-02T22:43:24.617Z",
+    "metadataFetchedAt": "2026-10-12T05:24:54.938Z",
     "metadataStatus": "ok",
     "avatarUrl": "https://avatars.githubusercontent.com/u/3500637?v=4",
     "verificationStatus": "integration-detected",
@@ -71097,10 +71692,11 @@
       "issueBodySha256": "67efb66524584ac11df53ca691762fae522a2f3a4f13e1c67b6cbf895d1971bf",
       "issueUrl": "https://github.com/logicrw/awesome-jev-projects/issues/110"
     },
-    "updatedAt": "2026-10-02T15:54:03Z",
+    "updatedAt": "2026-10-10T02:00:48Z",
     "pushedAt": "2026-10-02T12:39:41Z",
-    "lastSyncedAt": "2026-10-02T22:43:24.617Z",
-    "archived": false
+    "lastSyncedAt": "2026-10-12T05:24:54.938Z",
+    "archived": false,
+    "licenseStatus": "declared"
   },
   {
     "id": "codegirl-007:jevlint",
@@ -71140,14 +71736,19 @@
         "source": "repo-description"
       }
     },
-    "stars": 92,
-    "forks": 1,
-    "openIssues": 4,
-    "license": "MIT",
+    "stars": 126,
+    "forks": 3,
+    "openIssues": 1,
+    "license": {
+      "status": "identified",
+      "spdx": "MIT",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
     "createdAt": "2026-09-25T10:46:42Z",
-    "lastCommitAt": "2026-10-02T13:40:38Z",
-    "headSha": "28d8d694ed0f1331a0ba254e3506603a41766096",
-    "metadataFetchedAt": "2026-10-02T22:43:42.590Z",
+    "lastCommitAt": "2026-10-08T06:39:42Z",
+    "headSha": "86a3e9b4d998efaaa47a9177974b42ef5cd92bf5",
+    "metadataFetchedAt": "2026-10-12T05:24:57.885Z",
     "metadataStatus": "ok",
     "avatarUrl": "https://avatars.githubusercontent.com/u/7044310?v=4",
     "verificationStatus": "integration-detected",
@@ -71170,7 +71771,12 @@
         }
       ]
     },
-    "sourceHash": "0098518099940670e1c7a3d6fc62ebec7fbeddf078d1b4c6c8be0eeb0d6818e2"
+    "sourceHash": "0098518099940670e1c7a3d6fc62ebec7fbeddf078d1b4c6c8be0eeb0d6818e2",
+    "updatedAt": "2026-10-12T04:12:07Z",
+    "pushedAt": "2026-10-08T08:58:40Z",
+    "lastSyncedAt": "2026-10-12T05:24:57.885Z",
+    "licenseStatus": "declared",
+    "archived": false
   },
   {
     "id": "typellm:pijev",
@@ -71213,11 +71819,16 @@
     "stars": 34,
     "forks": 1,
     "openIssues": 0,
-    "license": "Apache-2.0",
+    "license": {
+      "status": "identified",
+      "spdx": "Apache-2.0",
+      "name": "Apache License 2.0",
+      "url": "https://api.github.com/licenses/apache-2.0"
+    },
     "createdAt": "2026-09-22T09:45:55Z",
     "lastCommitAt": "2026-09-28T14:01:13Z",
     "headSha": "c85474a500c8d52404e344ae052731b93e506f56",
-    "metadataFetchedAt": "2026-10-02T22:44:14.100Z",
+    "metadataFetchedAt": "2026-10-12T05:25:00.950Z",
     "metadataStatus": "ok",
     "avatarUrl": "https://avatars.githubusercontent.com/u/331597258?v=4",
     "verificationStatus": "integration-detected",
@@ -71240,7 +71851,12 @@
         }
       ]
     },
-    "sourceHash": "8a532066e09575f46b8d13a3dc4f034570b4375b466e7889328a41acb6d3953a"
+    "sourceHash": "8a532066e09575f46b8d13a3dc4f034570b4375b466e7889328a41acb6d3953a",
+    "updatedAt": "2026-09-30T12:39:00Z",
+    "pushedAt": "2026-09-28T14:01:47Z",
+    "lastSyncedAt": "2026-10-12T05:25:00.950Z",
+    "licenseStatus": "declared",
+    "archived": false
   },
   {
     "id": "kushals256:jevcache",
@@ -71283,11 +71899,16 @@
     "stars": 12,
     "forks": 0,
     "openIssues": 0,
-    "license": "MIT",
+    "license": {
+      "status": "identified",
+      "spdx": "MIT",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
     "createdAt": "2026-09-19T09:40:18Z",
-    "lastCommitAt": "2026-10-01T10:16:24Z",
-    "headSha": "c8415e1c17637ab929589fde0e1f849bfdb280ff",
-    "metadataFetchedAt": "2026-10-02T22:44:26.063Z",
+    "lastCommitAt": "2026-10-03T12:21:54Z",
+    "headSha": "25ef3dc3b1e4a2c10c322c201999a643dd31f209",
+    "metadataFetchedAt": "2026-10-12T05:25:03.917Z",
     "metadataStatus": "ok",
     "avatarUrl": "https://avatars.githubusercontent.com/u/180328251?v=4",
     "verificationStatus": "integration-detected",
@@ -71310,7 +71931,12 @@
         }
       ]
     },
-    "sourceHash": "0bef90d319ad903e5ba0510ed1f8597d0a2ae54372a2e5b1d4db566b548d459a"
+    "sourceHash": "0bef90d319ad903e5ba0510ed1f8597d0a2ae54372a2e5b1d4db566b548d459a",
+    "updatedAt": "2026-10-03T12:21:59Z",
+    "pushedAt": "2026-10-03T12:21:55Z",
+    "lastSyncedAt": "2026-10-12T05:25:03.917Z",
+    "licenseStatus": "declared",
+    "archived": false
   },
   {
     "id": "ethan-ab:xscout-jev",
@@ -71350,14 +71976,19 @@
         "source": "readme"
       }
     },
-    "stars": 11,
+    "stars": 12,
     "forks": 0,
     "openIssues": 0,
-    "license": "MIT",
+    "license": {
+      "status": "identified",
+      "spdx": "MIT",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
     "createdAt": "2026-09-26T15:58:57Z",
     "lastCommitAt": "2026-09-28T11:20:55Z",
     "headSha": "37af2f6f17a4eb8618b3ae0fe07ad4a44a0b3850",
-    "metadataFetchedAt": "2026-10-02T22:44:35.065Z",
+    "metadataFetchedAt": "2026-10-12T05:25:07.025Z",
     "metadataStatus": "ok",
     "avatarUrl": "https://avatars.githubusercontent.com/u/119001355?v=4",
     "verificationStatus": "integration-detected",
@@ -71380,7 +72011,12 @@
         }
       ]
     },
-    "sourceHash": "99716dd8c42d78af92fb2032746e0591a6dc07bd239d32d112b325d63aeb0567"
+    "sourceHash": "99716dd8c42d78af92fb2032746e0591a6dc07bd239d32d112b325d63aeb0567",
+    "updatedAt": "2026-10-07T14:34:31Z",
+    "pushedAt": "2026-09-28T11:20:55Z",
+    "lastSyncedAt": "2026-10-12T05:25:07.025Z",
+    "licenseStatus": "declared",
+    "archived": false
   },
   {
     "id": "assistant-ui:jevia",
@@ -71422,12 +72058,17 @@
     },
     "stars": 10,
     "forks": 0,
-    "openIssues": 7,
-    "license": "MIT",
+    "openIssues": 11,
+    "license": {
+      "status": "identified",
+      "spdx": "MIT",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
     "createdAt": "2026-09-26T00:33:54Z",
-    "lastCommitAt": "2026-10-02T16:10:17Z",
-    "headSha": "d8496bceaa28f58d970a56e385c21990aef21347",
-    "metadataFetchedAt": "2026-10-02T22:44:44.084Z",
+    "lastCommitAt": "2026-10-08T20:00:14Z",
+    "headSha": "b7ff7b16960dc4e8c3397dd8b3d9f34d39eb369c",
+    "metadataFetchedAt": "2026-10-12T05:25:09.980Z",
     "metadataStatus": "ok",
     "avatarUrl": "https://avatars.githubusercontent.com/u/189563271?v=4",
     "verificationStatus": "integration-detected",
@@ -71450,7 +72091,12 @@
         }
       ]
     },
-    "sourceHash": "cbd0d0fc67e35c77430b330a94dae58215a76a401f69caac995be725b371d12f"
+    "sourceHash": "cbd0d0fc67e35c77430b330a94dae58215a76a401f69caac995be725b371d12f",
+    "updatedAt": "2026-10-08T20:00:26Z",
+    "pushedAt": "2026-10-10T10:15:26Z",
+    "lastSyncedAt": "2026-10-12T05:25:09.980Z",
+    "licenseStatus": "declared",
+    "archived": false
   },
   {
     "id": "robertn702:opencode-jev-router",
@@ -71490,14 +72136,19 @@
         "source": "repo-description"
       }
     },
-    "stars": 9,
+    "stars": 10,
     "forks": 0,
-    "openIssues": 5,
-    "license": "MIT",
+    "openIssues": 7,
+    "license": {
+      "status": "identified",
+      "spdx": "MIT",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
     "createdAt": "2026-09-22T14:41:34Z",
-    "lastCommitAt": "2026-10-01T03:19:28Z",
-    "headSha": "130148d0efb2d8e4273de6c3c789e2ad53590606",
-    "metadataFetchedAt": "2026-10-02T22:44:53.060Z",
+    "lastCommitAt": "2026-10-11T17:54:12Z",
+    "headSha": "3a13a395d9a84051aaa14ca2b9460e85dc56fe38",
+    "metadataFetchedAt": "2026-10-12T05:25:12.872Z",
     "metadataStatus": "ok",
     "avatarUrl": "https://avatars.githubusercontent.com/u/8119609?v=4",
     "verificationStatus": "integration-detected",
@@ -71520,7 +72171,12 @@
         }
       ]
     },
-    "sourceHash": "fe1afe1bf682c9347b1f076ac1f53b23f0ce7678148fff3c6bcf0520a211dcd3"
+    "sourceHash": "fe1afe1bf682c9347b1f076ac1f53b23f0ce7678148fff3c6bcf0520a211dcd3",
+    "updatedAt": "2026-10-11T17:54:27Z",
+    "pushedAt": "2026-10-11T17:54:12Z",
+    "lastSyncedAt": "2026-10-12T05:25:12.872Z",
+    "licenseStatus": "declared",
+    "archived": true
   },
   {
     "id": "yaxin9luo:spending-effort-with-jev",
@@ -71560,14 +72216,19 @@
         "source": "repo-description"
       }
     },
-    "stars": 6,
+    "stars": 7,
     "forks": 0,
     "openIssues": 0,
-    "license": "MIT",
+    "license": {
+      "status": "identified",
+      "spdx": "MIT",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
     "createdAt": "2026-09-26T16:42:28Z",
-    "lastCommitAt": "2026-09-27T09:25:53Z",
-    "headSha": "f744c124b4e07daafc207fc24b5325e998505865",
-    "metadataFetchedAt": "2026-10-02T22:45:57.563Z",
+    "lastCommitAt": "2026-10-06T08:11:47Z",
+    "headSha": "8aef59d72e932d362d5b404ed839290f04db3bb0",
+    "metadataFetchedAt": "2026-10-12T05:25:15.917Z",
     "metadataStatus": "ok",
     "avatarUrl": "https://avatars.githubusercontent.com/u/92990117?v=4",
     "verificationStatus": "integration-detected",
@@ -71590,7 +72251,12 @@
         }
       ]
     },
-    "sourceHash": "01d2d4bbc71d9a1bbbfbabdca5a28723828876bf9fedb820b19c1620e1fbbf36"
+    "sourceHash": "01d2d4bbc71d9a1bbbfbabdca5a28723828876bf9fedb820b19c1620e1fbbf36",
+    "updatedAt": "2026-10-08T09:30:19Z",
+    "pushedAt": "2026-10-06T08:12:42Z",
+    "lastSyncedAt": "2026-10-12T05:25:15.917Z",
+    "licenseStatus": "declared",
+    "archived": false
   },
   {
     "id": "lzq-0529:jev-span",
@@ -71627,14 +72293,19 @@
         "source": "readme"
       }
     },
-    "stars": 5,
-    "forks": 0,
+    "stars": 6,
+    "forks": 1,
     "openIssues": 0,
-    "license": "MIT",
+    "license": {
+      "status": "identified",
+      "spdx": "MIT",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
     "createdAt": "2026-09-27T12:32:46Z",
     "lastCommitAt": "2026-09-28T07:27:29Z",
     "headSha": "16cbae3ea840776a254f1041d9f57fb14ef9044c",
-    "metadataFetchedAt": "2026-10-02T22:46:08.070Z",
+    "metadataFetchedAt": "2026-10-12T05:25:18.909Z",
     "metadataStatus": "ok",
     "avatarUrl": "https://avatars.githubusercontent.com/u/301949243?v=4",
     "verificationStatus": "integration-detected",
@@ -71657,7 +72328,12 @@
         }
       ]
     },
-    "sourceHash": "734a75916d90c0cb8b4b4a6e5e426c0ccdfde3e3ee6b0795d086a80a43a874ab"
+    "sourceHash": "734a75916d90c0cb8b4b4a6e5e426c0ccdfde3e3ee6b0795d086a80a43a874ab",
+    "updatedAt": "2026-10-07T11:40:03Z",
+    "pushedAt": "2026-09-28T07:27:31Z",
+    "lastSyncedAt": "2026-10-12T05:25:18.909Z",
+    "licenseStatus": "declared",
+    "archived": false
   },
   {
     "id": "jacks3tr:jev-desktop",
