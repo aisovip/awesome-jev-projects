@@ -75970,5 +75970,303 @@
         }
       ]
     }
+  },
+  {
+    "id": "jev-chat:jev-chat-jarvis-mac",
+    "name": "jev-chat-jarvis-mac",
+    "author": "jev-chat",
+    "url": "https://github.com/jev-chat/jev-chat-jarvis-mac",
+    "repoId": 1379617146,
+    "category": "CLI & Pipelines",
+    "catalogKind": "integration",
+    "jevRelation": "implemented",
+    "reviewBasis": "mixed",
+    "plainSummary": "macOS 聊天悬浮窗副驾，读取当前对话并调用 Jev 判断意图、风险与回复建议。",
+    "plainSummaryEn": "macOS chat overlay copilot that reads the current conversation and calls Jev to judge intent, risk, and reply suggestions.",
+    "jevDecisionPoint": "macOS 聊天悬浮窗副驾，读取当前对话并调用 Jev 判断意图、风险与回复建议。",
+    "jevDecisionPointEn": "macOS chat overlay copilot that reads the current conversation and calls Jev to judge intent, risk, and reply suggestions.",
+    "highlightBenefit": "材料已绑定固定版本；收录不代表独立运行或性能验证。",
+    "highlightBenefitEn": "References are pinned to a fixed revision; inclusion is not independent runtime or performance verification.",
+    "tags": [
+      "cli-git-gates",
+      "typed-decisions"
+    ],
+    "summarySource": "ai-material-review",
+    "stars": 482,
+    "forks": 134,
+    "openIssues": 19,
+    "license": {
+      "status": "identified",
+      "spdx": "MIT",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "createdAt": "2026-09-21T11:39:32Z",
+    "lastCommitAt": "2026-10-11T07:28:36Z",
+    "headSha": "f50d5a8e90001871c8ff36003b1df6f2edce59ef",
+    "metadataFetchedAt": "2026-10-12T11:16:33.163Z",
+    "metadataStatus": "ok",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/332283779?v=4",
+    "verificationStatus": "material-reviewed",
+    "runtimeVerified": false,
+    "discoveredAt": "2026-10-12T11:16:33.163Z",
+    "claimStatus": "模型依据固定版本材料判断生态类型与 Jev 关联；未经本站独立运行、安全或性能验证。",
+    "claimStatusEn": "A model assessed the ecosystem role and Jev relationship from pinned materials; runtime, security and performance are not independently verified.",
+    "evidence": [
+      {
+        "url": "https://github.com/jev-chat/jev-chat-jarvis-mac/blob/f50d5a8e90001871c8ff36003b1df6f2edce59ef/README.md",
+        "note": "固定版本的相关材料"
+      },
+      {
+        "url": "https://github.com/jev-chat/jev-chat-jarvis-mac/blob/f50d5a8e90001871c8ff36003b1df6f2edce59ef/src/judge_jev.py",
+        "note": "固定版本的相关材料"
+      },
+      {
+        "url": "https://github.com/jev-chat/jev-chat-jarvis-mac/blob/f50d5a8e90001871c8ff36003b1df6f2edce59ef/tests/test_jev_base_url.py",
+        "note": "固定版本的相关材料"
+      },
+      {
+        "url": "https://github.com/jev-chat/jev-chat-jarvis-mac/blob/f50d5a8e90001871c8ff36003b1df6f2edce59ef/.github/ISSUE_TEMPLATE/bug_report.md",
+        "note": "固定版本的相关材料"
+      },
+      {
+        "url": "https://github.com/jev-chat/jev-chat-jarvis-mac/blob/f50d5a8e90001871c8ff36003b1df6f2edce59ef/.github/ISSUE_TEMPLATE/config.yml",
+        "note": "固定版本的相关材料"
+      }
+    ],
+    "sourceVerification": {
+      "method": "ai-material-review-v2",
+      "sha": "f50d5a8e90001871c8ff36003b1df6f2edce59ef",
+      "files": [
+        {
+          "targetId": "R1",
+          "repoId": 1379617146,
+          "commit": "f50d5a8e90001871c8ff36003b1df6f2edce59ef",
+          "path": "README.md",
+          "url": "https://github.com/jev-chat/jev-chat-jarvis-mac/blob/f50d5a8e90001871c8ff36003b1df6f2edce59ef/README.md",
+          "hash": "f4c2e0505786661bc039ab6b001903b642d509b3a7cb6fe6acbadfb892e89db9",
+          "sourceSpan": {
+            "startByte": 0,
+            "endByte": 31776
+          },
+          "sourcePartial": false,
+          "originalBytes": 31776
+        },
+        {
+          "targetId": "R1",
+          "repoId": 1379617146,
+          "commit": "f50d5a8e90001871c8ff36003b1df6f2edce59ef",
+          "path": "src/judge_jev.py",
+          "url": "https://github.com/jev-chat/jev-chat-jarvis-mac/blob/f50d5a8e90001871c8ff36003b1df6f2edce59ef/src/judge_jev.py",
+          "hash": "cbd705458fb56d54040459ae57bccb31bfb01de0311c0b0ba06d0e34468c81f3",
+          "sourceSpan": {
+            "startByte": 0,
+            "endByte": 6933
+          },
+          "sourcePartial": false,
+          "originalBytes": 6933
+        },
+        {
+          "targetId": "R1",
+          "repoId": 1379617146,
+          "commit": "f50d5a8e90001871c8ff36003b1df6f2edce59ef",
+          "path": "tests/test_jev_base_url.py",
+          "url": "https://github.com/jev-chat/jev-chat-jarvis-mac/blob/f50d5a8e90001871c8ff36003b1df6f2edce59ef/tests/test_jev_base_url.py",
+          "hash": "0cec0092057158530cc497356859e9574a7554e055d7ac3b77d930cd0f3bb77c",
+          "sourceSpan": {
+            "startByte": 0,
+            "endByte": 5453
+          },
+          "sourcePartial": false,
+          "originalBytes": 5453
+        },
+        {
+          "targetId": "R1",
+          "repoId": 1379617146,
+          "commit": "f50d5a8e90001871c8ff36003b1df6f2edce59ef",
+          "path": ".github/ISSUE_TEMPLATE/bug_report.md",
+          "url": "https://github.com/jev-chat/jev-chat-jarvis-mac/blob/f50d5a8e90001871c8ff36003b1df6f2edce59ef/.github/ISSUE_TEMPLATE/bug_report.md",
+          "hash": "e97808d727735de7dfbab0a3ebebd1c01e78e7d79b872128cc4b84f9c8a895cc",
+          "sourceSpan": {
+            "startByte": 0,
+            "endByte": 652
+          },
+          "sourcePartial": false,
+          "originalBytes": 652
+        },
+        {
+          "targetId": "R1",
+          "repoId": 1379617146,
+          "commit": "f50d5a8e90001871c8ff36003b1df6f2edce59ef",
+          "path": ".github/ISSUE_TEMPLATE/config.yml",
+          "url": "https://github.com/jev-chat/jev-chat-jarvis-mac/blob/f50d5a8e90001871c8ff36003b1df6f2edce59ef/.github/ISSUE_TEMPLATE/config.yml",
+          "hash": "1e541bf7aaff18bcb83c8c8f1f8668bbb08f970a9ae549d8c789129234235aa2",
+          "sourceSpan": {
+            "startByte": 0,
+            "endByte": 285
+          },
+          "sourcePartial": false,
+          "originalBytes": 285
+        }
+      ],
+      "materials": [
+        {
+          "targetId": "R1",
+          "repoId": 1379617146,
+          "commit": "f50d5a8e90001871c8ff36003b1df6f2edce59ef",
+          "path": "README.md",
+          "form": "documentation",
+          "span": {
+            "startByte": 0,
+            "endByte": 159
+          },
+          "spanSha256": "1785414e60eb5c5a32846757994a4f68e771245e66f3068f14e7033952c5dfc6",
+          "partial": false,
+          "id": "Mf1620e6ae3ab2dc8",
+          "url": "https://github.com/jev-chat/jev-chat-jarvis-mac/blob/f50d5a8e90001871c8ff36003b1df6f2edce59ef/README.md",
+          "sourceSha256": "f4c2e0505786661bc039ab6b001903b642d509b3a7cb6fe6acbadfb892e89db9",
+          "sourceSpan": {
+            "startByte": 0,
+            "endByte": 31776
+          },
+          "sourcePartial": false,
+          "originalBytes": 31776
+        },
+        {
+          "targetId": "R1",
+          "repoId": 1379617146,
+          "commit": "f50d5a8e90001871c8ff36003b1df6f2edce59ef",
+          "path": "src/judge_jev.py",
+          "form": "source",
+          "span": {
+            "startByte": 1637,
+            "endByte": 1825
+          },
+          "spanSha256": "7c7658c81241b7ba1c7191a56e2dac1afad73f1105c81ad5490160df8c7d83d9",
+          "partial": false,
+          "id": "Mc2520845bf885363",
+          "url": "https://github.com/jev-chat/jev-chat-jarvis-mac/blob/f50d5a8e90001871c8ff36003b1df6f2edce59ef/src/judge_jev.py",
+          "sourceSha256": "cbd705458fb56d54040459ae57bccb31bfb01de0311c0b0ba06d0e34468c81f3",
+          "sourceSpan": {
+            "startByte": 0,
+            "endByte": 6933
+          },
+          "sourcePartial": false,
+          "originalBytes": 6933
+        },
+        {
+          "targetId": "R1",
+          "repoId": 1379617146,
+          "commit": "f50d5a8e90001871c8ff36003b1df6f2edce59ef",
+          "path": "tests/test_jev_base_url.py",
+          "form": "source",
+          "span": {
+            "startByte": 1372,
+            "endByte": 1931
+          },
+          "spanSha256": "0c198a6cde1078ee5d1f622a70016ccd46fc6c0f32998fb5e7dbac752b4b2f9a",
+          "partial": false,
+          "id": "Me050c8bd16ea5d07",
+          "url": "https://github.com/jev-chat/jev-chat-jarvis-mac/blob/f50d5a8e90001871c8ff36003b1df6f2edce59ef/tests/test_jev_base_url.py",
+          "sourceSha256": "0cec0092057158530cc497356859e9574a7554e055d7ac3b77d930cd0f3bb77c",
+          "sourceSpan": {
+            "startByte": 0,
+            "endByte": 5453
+          },
+          "sourcePartial": false,
+          "originalBytes": 5453
+        },
+        {
+          "targetId": "R1",
+          "repoId": 1379617146,
+          "commit": "f50d5a8e90001871c8ff36003b1df6f2edce59ef",
+          "path": ".github/ISSUE_TEMPLATE/bug_report.md",
+          "form": "code-block",
+          "span": {
+            "startByte": 204,
+            "endByte": 413
+          },
+          "spanSha256": "f0dbfb073eeb22d4aa061d378f240cbeb98b83830ba2aa35aebf7ba6c48c2ad1",
+          "partial": false,
+          "id": "Mf83e95882c2e0328",
+          "url": "https://github.com/jev-chat/jev-chat-jarvis-mac/blob/f50d5a8e90001871c8ff36003b1df6f2edce59ef/.github/ISSUE_TEMPLATE/bug_report.md",
+          "sourceSha256": "e97808d727735de7dfbab0a3ebebd1c01e78e7d79b872128cc4b84f9c8a895cc",
+          "sourceSpan": {
+            "startByte": 0,
+            "endByte": 652
+          },
+          "sourcePartial": false,
+          "originalBytes": 652
+        },
+        {
+          "targetId": "R1",
+          "repoId": 1379617146,
+          "commit": "f50d5a8e90001871c8ff36003b1df6f2edce59ef",
+          "path": ".github/ISSUE_TEMPLATE/config.yml",
+          "form": "configuration",
+          "span": {
+            "startByte": 0,
+            "endByte": 285
+          },
+          "spanSha256": "1e541bf7aaff18bcb83c8c8f1f8668bbb08f970a9ae549d8c789129234235aa2",
+          "partial": false,
+          "id": "Mb31300c0209de6e7",
+          "url": "https://github.com/jev-chat/jev-chat-jarvis-mac/blob/f50d5a8e90001871c8ff36003b1df6f2edce59ef/.github/ISSUE_TEMPLATE/config.yml",
+          "sourceSha256": "1e541bf7aaff18bcb83c8c8f1f8668bbb08f970a9ae549d8c789129234235aa2",
+          "sourceSpan": {
+            "startByte": 0,
+            "endByte": 285
+          },
+          "sourcePartial": false,
+          "originalBytes": 285
+        }
+      ],
+      "reviewRevision": "d97e7cf4b2cebf0d9171e4756f56fb74f2133eafbeba8258b772470259c75ac8",
+      "model": {
+        "requested": "deepseek-flash",
+        "response": "deepseek-flash",
+        "systemFingerprint": "aeb56401ca74e127821c4f9126dcb669"
+      },
+      "decision": "admit",
+      "catalogKind": "integration",
+      "jevRelation": "implemented",
+      "reviewBasis": "mixed",
+      "claims": [
+        {
+          "type": "purpose",
+          "text": "macOS 聊天悬浮窗副驾，在前台聊天应用上读取当前对话并给出意图、风险与回复建议。",
+          "support": [
+            "Mf1620e6ae3ab2dc8"
+          ]
+        },
+        {
+          "type": "mechanism",
+          "text": "通过窗口截图+Apple Vision OCR 或系统文本接口读取对话，并优先调用 Jev（TypeSafe key 存在时）而非本地 decider-2b 模型。",
+          "support": [
+            "Mc2520845bf885363",
+            "Mf1620e6ae3ab2dc8"
+          ]
+        },
+        {
+          "type": "contribution",
+          "text": "提供 Jev 配置检测与版本段检测逻辑，并含日志与 issue 配置说明。",
+          "support": [
+            "Mc2520845bf885363",
+            "Me050c8bd16ea5d07",
+            "Mf83e95882c2e0328",
+            "Mb31300c0209de6e7"
+          ]
+        }
+      ],
+      "conflicts": []
+    },
+    "ingestion": {
+      "repository": "logicrw/awesome-jev-projects",
+      "issueNumber": 120,
+      "issueBodySha256": "f30ab49f982e278209cd8583067b5ffdee9fc11ec2520c6b2fde66da3558606c",
+      "issueTitleSha256": "001f6e865cf8415dfe9903105dd1534416fb5f62fa265fa4fcccff41bbf76ff3",
+      "reviewRevision": "d97e7cf4b2cebf0d9171e4756f56fb74f2133eafbeba8258b772470259c75ac8",
+      "issueUrl": "https://github.com/logicrw/awesome-jev-projects/issues/120"
+    }
   }
 ]
