@@ -4,7 +4,7 @@ A community catalog for TypeSafe Jev and System-1 Agent architectures, including
 
 Website: https://logicrw.github.io/awesome-jev-projects/
 Repository: https://github.com/logicrw/awesome-jev-projects
-Catalog entries: 860
+Catalog entries: 861
 
 ## Install the Agent Skill
 
@@ -284,7 +284,7 @@ Adds natural-language filtering, classification, and ranking of rows to PostgreS
 - Jev decision: Sends row content to Jev for a match decision, category, or score used by SQL conditions and ordering.
 - Purpose: Combines semantic conditions with existing SQL and reuses cached results.
 - Review scope: Row content is sent to an external API. The author’s small-sample timing and cache-hit timing are not general model-inference benchmarks.
-- License: License not declared
+- License: Custom license
 - Details: https://logicrw.github.io/awesome-jev-projects/en/projects/realzachi/pg-jev/
 - Source evidence: https://github.com/realZachi/pg-jev/blob/afd11fa856d7a2b831a1bfd8ee7f869ce8efcd62/sql/jev--0.2.0.sql
 - Source evidence: https://github.com/realZachi/pg-jev/blob/afd11fa856d7a2b831a1bfd8ee7f869ce8efcd62/README.md
@@ -1100,7 +1100,7 @@ An experimental Hyperliquid trading bot using Jev to choose long or short and wh
 - Jev decision: Each asset account sends market state to Jev; execution code places or cancels orders based on the decisions.
 - Purpose: Separately records model decisions, order execution, and dashboard state.
 - Review scope: Adapts jarrodwatts/jev-trader to Hyperliquid with substantive venue changes. Default mock and dry-run modes are not live trading. Real keys can place orders; this site has not verified profitability or live performance.
-- License: License not declared
+- License: Custom license
 - Details: https://logicrw.github.io/awesome-jev-projects/en/projects/aowang-ai/jev-trade/
 - Source evidence: https://github.com/aowang-ai/jev-trade/blob/df2c9656324a8a75996eb0612de7adcfe3ce6f89/src/model.ts
 - Source evidence: https://github.com/aowang-ai/jev-trade/blob/df2c9656324a8a75996eb0612de7adcfe3ce6f89/README.md
@@ -1407,7 +1407,7 @@ The TypeSafe provider in AI SDK lets TypeScript applications call Jev through th
 - Jev decision: Maps choice, score, and yes/no questions to TypeSafe System One requests and parses typed results.
 - Purpose: Reuses a common evaluation interface within AI SDK applications.
 - Review scope: The verified scope is one optional provider in the repository, not that all of AI SDK is powered by Jev or that all users use it.
-- License: License not declared
+- License: Custom license
 - Details: https://logicrw.github.io/awesome-jev-projects/en/projects/vercel/ai/
 - Source evidence: https://github.com/vercel/ai/blob/73ec7015edd4f04ca9144ce93a8a037a731e5db8/packages/typesafe-ai/src/typesafe-ai-evaluation-model.ts
 - Source evidence: https://github.com/vercel/ai/blob/73ec7015edd4f04ca9144ce93a8a037a731e5db8/README.md
@@ -1495,7 +1495,7 @@ LiteLLM can use Jev to classify requests for its complexity-based model router.
 - Jev decision: Maps requests to configured complexity classes that drive backend routing.
 - Purpose: Makes the complexity judgment behind routing inspectable.
 - Review scope: README and integration source reviewed at a fixed commit; not independently run or benchmarked by this site.
-- License: License not declared
+- License: Custom license
 - Details: https://logicrw.github.io/awesome-jev-projects/en/projects/berriai/litellm/
 - Source evidence: https://github.com/BerriAI/litellm/blob/56116079c8022da0e8f7ff9ccb017ad5aca5aed2/litellm/router_strategy/complexity_router/jev_classifier.py#L70
 - Source evidence: https://github.com/BerriAI/litellm/blob/56116079c8022da0e8f7ff9ccb017ad5aca5aed2/README.md
@@ -11715,7 +11715,7 @@ Splunk app: the | jev search command asks TypeSafe Jev typed questions about you
 - Jev decision: Jev returns a structured decision for the local program; consult the source for the exact decision policy.
 - Purpose: Adds structured choices or scores to the workflow; performance and cost benefits have not been independently verified.
 - Review scope: Based on repository metadata and README with rule-based classification; pending human review, with no independent runtime or performance verification.
-- License: License not declared
+- License: Custom license
 - Details: https://logicrw.github.io/awesome-jev-projects/en/projects/sispehar/jev-for-splunk/
 - Source evidence: https://github.com/sispehar/jev-for-splunk/blob/2ffc65021231e779087e2a9405cdf6a53a72591a/jev_for_splunk/bin/jev.py
 
@@ -12070,3 +12070,21 @@ macOS chat overlay copilot that reads the current conversation and calls Jev to 
 - Source evidence: https://github.com/jev-chat/jev-chat-jarvis-mac/blob/f50d5a8e90001871c8ff36003b1df6f2edce59ef/tests/test_jev_base_url.py
 - Source evidence: https://github.com/jev-chat/jev-chat-jarvis-mac/blob/f50d5a8e90001871c8ff36003b1df6f2edce59ef/.github/ISSUE_TEMPLATE/bug_report.md
 - Source evidence: https://github.com/jev-chat/jev-chat-jarvis-mac/blob/f50d5a8e90001871c8ff36003b1df6f2edce59ef/.github/ISSUE_TEMPLATE/config.yml
+
+## decide
+
+pydecide is a Python client that calls Jev's /v1/systemone endpoint via TypeSafeBackend for typed decisions.
+
+- Repository: https://github.com/gopaljigaur/decide
+- Category: SDK & Decision Frameworks
+- Jev decision: pydecide is a Python client that calls Jev's /v1/systemone endpoint via TypeSafeBackend for typed decisions.
+- Purpose: References are pinned to a fixed revision; inclusion is not independent runtime or performance verification.
+- Review scope: A model assessed the ecosystem role and Jev relationship from pinned materials; runtime, security and performance are not independently verified.
+- License: MIT
+- Entry type: Integration
+- Jev relationship: Jev implementation
+- Review basis: Implementation material
+- Details: https://logicrw.github.io/awesome-jev-projects/en/projects/gopaljigaur/decide/
+- Source evidence: https://github.com/gopaljigaur/decide/blob/ceabcff05fafd3610df859b5219c2f65632a86a3/decide/backends/typesafe.py
+- Source evidence: https://github.com/gopaljigaur/decide/blob/ceabcff05fafd3610df859b5219c2f65632a86a3/decide/client.py
+- Source evidence: https://github.com/gopaljigaur/decide/blob/ceabcff05fafd3610df859b5219c2f65632a86a3/decide/compat.py

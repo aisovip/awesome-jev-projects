@@ -77450,5 +77450,227 @@
       "reviewRevision": "d97e7cf4b2cebf0d9171e4756f56fb74f2133eafbeba8258b772470259c75ac8",
       "issueUrl": "https://github.com/logicrw/awesome-jev-projects/issues/120"
     }
+  },
+  {
+    "id": "gopaljigaur:decide",
+    "name": "decide",
+    "author": "gopaljigaur",
+    "url": "https://github.com/gopaljigaur/decide",
+    "repoId": 1380481042,
+    "category": "SDK & Decision Frameworks",
+    "catalogKind": "integration",
+    "jevRelation": "implemented",
+    "reviewBasis": "implementation-material",
+    "plainSummary": "pydecide 是一个 Python 客户端，通过 TypeSafeBackend 调用 Jev /v1/systemone 接口，支持类型化决策。",
+    "plainSummaryEn": "pydecide is a Python client that calls Jev's /v1/systemone endpoint via TypeSafeBackend for typed decisions.",
+    "jevDecisionPoint": "pydecide 是一个 Python 客户端，通过 TypeSafeBackend 调用 Jev /v1/systemone 接口，支持类型化决策。",
+    "jevDecisionPointEn": "pydecide is a Python client that calls Jev's /v1/systemone endpoint via TypeSafeBackend for typed decisions.",
+    "highlightBenefit": "材料已绑定固定版本；收录不代表独立运行或性能验证。",
+    "highlightBenefitEn": "References are pinned to a fixed revision; inclusion is not independent runtime or performance verification.",
+    "tags": [
+      "multilanguage-sdk",
+      "typed-decisions"
+    ],
+    "summarySource": "ai-material-review",
+    "stars": 1,
+    "forks": 0,
+    "openIssues": 0,
+    "license": {
+      "status": "identified",
+      "spdx": "MIT",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "createdAt": "2026-09-21T20:20:15Z",
+    "lastCommitAt": "2026-10-08T15:05:49Z",
+    "headSha": "ceabcff05fafd3610df859b5219c2f65632a86a3",
+    "metadataFetchedAt": "2026-10-13T09:55:11.835Z",
+    "metadataStatus": "ok",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/30744909?v=4",
+    "verificationStatus": "material-reviewed",
+    "runtimeVerified": false,
+    "discoveredAt": "2026-10-13T09:55:11.835Z",
+    "claimStatus": "模型依据固定版本材料判断生态类型与 Jev 关联；未经本站独立运行、安全或性能验证。",
+    "claimStatusEn": "A model assessed the ecosystem role and Jev relationship from pinned materials; runtime, security and performance are not independently verified.",
+    "evidence": [
+      {
+        "url": "https://github.com/gopaljigaur/decide/blob/ceabcff05fafd3610df859b5219c2f65632a86a3/decide/backends/typesafe.py",
+        "note": "固定版本的相关材料"
+      },
+      {
+        "url": "https://github.com/gopaljigaur/decide/blob/ceabcff05fafd3610df859b5219c2f65632a86a3/decide/client.py",
+        "note": "固定版本的相关材料"
+      },
+      {
+        "url": "https://github.com/gopaljigaur/decide/blob/ceabcff05fafd3610df859b5219c2f65632a86a3/decide/compat.py",
+        "note": "固定版本的相关材料"
+      }
+    ],
+    "sourceVerification": {
+      "method": "ai-material-review-v2",
+      "sha": "ceabcff05fafd3610df859b5219c2f65632a86a3",
+      "files": [
+        {
+          "targetId": "R1",
+          "repoId": 1380481042,
+          "commit": "ceabcff05fafd3610df859b5219c2f65632a86a3",
+          "path": "decide/backends/typesafe.py",
+          "url": "https://github.com/gopaljigaur/decide/blob/ceabcff05fafd3610df859b5219c2f65632a86a3/decide/backends/typesafe.py",
+          "hash": "cd07804205de12edb369f082b8da881388aaba194d42c1e927684f51d7617a4b",
+          "sourceSpan": {
+            "startByte": 0,
+            "endByte": 3419
+          },
+          "sourcePartial": false,
+          "originalBytes": 3419
+        },
+        {
+          "targetId": "R1",
+          "repoId": 1380481042,
+          "commit": "ceabcff05fafd3610df859b5219c2f65632a86a3",
+          "path": "decide/client.py",
+          "url": "https://github.com/gopaljigaur/decide/blob/ceabcff05fafd3610df859b5219c2f65632a86a3/decide/client.py",
+          "hash": "43f07c445b9729f21f41ba83338c68bb861212a3d362730a6999c2be56320e10",
+          "sourceSpan": {
+            "startByte": 0,
+            "endByte": 19652
+          },
+          "sourcePartial": false,
+          "originalBytes": 19652
+        },
+        {
+          "targetId": "R1",
+          "repoId": 1380481042,
+          "commit": "ceabcff05fafd3610df859b5219c2f65632a86a3",
+          "path": "decide/compat.py",
+          "url": "https://github.com/gopaljigaur/decide/blob/ceabcff05fafd3610df859b5219c2f65632a86a3/decide/compat.py",
+          "hash": "3ac150dba0dcf1e908be519c96d23c76d3c61499c477d91c2aa7da1269987499",
+          "sourceSpan": {
+            "startByte": 0,
+            "endByte": 15881
+          },
+          "sourcePartial": false,
+          "originalBytes": 15881
+        }
+      ],
+      "materials": [
+        {
+          "targetId": "R1",
+          "repoId": 1380481042,
+          "commit": "ceabcff05fafd3610df859b5219c2f65632a86a3",
+          "path": "decide/backends/typesafe.py",
+          "form": "source",
+          "span": {
+            "startByte": 418,
+            "endByte": 602
+          },
+          "spanSha256": "648e676af69a2ece9a5708049f4f32682256abee298409281fad1dd69d7d3883",
+          "partial": false,
+          "id": "M93dd5835d61f143d",
+          "url": "https://github.com/gopaljigaur/decide/blob/ceabcff05fafd3610df859b5219c2f65632a86a3/decide/backends/typesafe.py",
+          "sourceSha256": "cd07804205de12edb369f082b8da881388aaba194d42c1e927684f51d7617a4b",
+          "sourceSpan": {
+            "startByte": 0,
+            "endByte": 3419
+          },
+          "sourcePartial": false,
+          "originalBytes": 3419
+        },
+        {
+          "targetId": "R1",
+          "repoId": 1380481042,
+          "commit": "ceabcff05fafd3610df859b5219c2f65632a86a3",
+          "path": "decide/client.py",
+          "form": "source",
+          "span": {
+            "startByte": 15676,
+            "endByte": 16700
+          },
+          "spanSha256": "8b2c9f632582e93bf500f00870a8968b9aa4378887b69b6915fc360d61b8864e",
+          "partial": true,
+          "id": "Mace72b5009400efd",
+          "url": "https://github.com/gopaljigaur/decide/blob/ceabcff05fafd3610df859b5219c2f65632a86a3/decide/client.py",
+          "sourceSha256": "43f07c445b9729f21f41ba83338c68bb861212a3d362730a6999c2be56320e10",
+          "sourceSpan": {
+            "startByte": 0,
+            "endByte": 19652
+          },
+          "sourcePartial": false,
+          "originalBytes": 19652
+        },
+        {
+          "targetId": "R1",
+          "repoId": 1380481042,
+          "commit": "ceabcff05fafd3610df859b5219c2f65632a86a3",
+          "path": "decide/compat.py",
+          "form": "source",
+          "span": {
+            "startByte": 1387,
+            "endByte": 1548
+          },
+          "spanSha256": "1823bc65376862d8027ed9a4b09bab47c783dcdfe2e47f9d11829734864f93de",
+          "partial": false,
+          "id": "M6c6a8702405a2e22",
+          "url": "https://github.com/gopaljigaur/decide/blob/ceabcff05fafd3610df859b5219c2f65632a86a3/decide/compat.py",
+          "sourceSha256": "3ac150dba0dcf1e908be519c96d23c76d3c61499c477d91c2aa7da1269987499",
+          "sourceSpan": {
+            "startByte": 0,
+            "endByte": 15881
+          },
+          "sourcePartial": false,
+          "originalBytes": 15881
+        }
+      ],
+      "reviewRevision": "d97e7cf4b2cebf0d9171e4756f56fb74f2133eafbeba8258b772470259c75ac8",
+      "model": {
+        "requested": "deepseek-flash",
+        "response": "deepseek-flash",
+        "systemFingerprint": "aeb56401ca74e127821c4f9126dcb669"
+      },
+      "decision": "admit",
+      "catalogKind": "integration",
+      "jevRelation": "implemented",
+      "reviewBasis": "implementation-material",
+      "claims": [
+        {
+          "type": "purpose",
+          "text": "pydecide provides one Python client for typed decisions across multiple backends including hosted Jev (typesafe).",
+          "support": [
+            "M93dd5835d61f143d",
+            "Mace72b5009400efd"
+          ]
+        },
+        {
+          "type": "mechanism",
+          "text": "TypeSafeBackend calls the Jev API at /v1/systemone with default model jev-latest via HttpClientMixin.",
+          "support": [
+            "M93dd5835d61f143d"
+          ]
+        },
+        {
+          "type": "mechanism",
+          "text": "Backend configuration reads TYPESAFE_API_KEY and optional TYPESAFE_BASE_URL from environment.",
+          "support": [
+            "Mace72b5009400efd"
+          ]
+        },
+        {
+          "type": "mechanism",
+          "text": "Uses typesafe_sdk as the SDK dependency for the typesafe backend.",
+          "support": [
+            "M6c6a8702405a2e22"
+          ]
+        }
+      ],
+      "conflicts": []
+    },
+    "ingestion": {
+      "repository": "logicrw/awesome-jev-projects",
+      "issueNumber": 123,
+      "issueBodySha256": "e0ce38fb6412044370a745718ddda5adc8916e7644e54b6ff61f61ff62f112e4",
+      "issueTitleSha256": "19f75587c5ed3562bc720a971153347a9e172ce6fd459ea42dbdf69096edb9fa",
+      "reviewRevision": "d97e7cf4b2cebf0d9171e4756f56fb74f2133eafbeba8258b772470259c75ac8",
+      "issueUrl": "https://github.com/logicrw/awesome-jev-projects/issues/123"
+    }
   }
 ]
