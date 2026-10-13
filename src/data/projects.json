@@ -78194,5 +78194,181 @@
       "reviewRevision": "d97e7cf4b2cebf0d9171e4756f56fb74f2133eafbeba8258b772470259c75ac8",
       "issueUrl": "https://github.com/logicrw/awesome-jev-projects/issues/123"
     }
+  },
+  {
+    "id": "phocinae:phocinae-server",
+    "name": "phocinae-server",
+    "author": "Phocinae",
+    "url": "https://github.com/Phocinae/phocinae-server",
+    "repoId": 1408832426,
+    "category": "SDK & Decision Frameworks",
+    "catalogKind": "integration",
+    "jevRelation": "implemented",
+    "reviewBasis": "implementation-material",
+    "plainSummary": "本地推理服务器，实现 TypeSafe System One 线格式，提供 /v1/systemone 等端点返回逐选项概率。",
+    "plainSummaryEn": "Local inference server implementing the TypeSafe System One wire format with /v1/systemone endpoints returning per-option probabilities.",
+    "jevDecisionPoint": "本地推理服务器，实现 TypeSafe System One 线格式，提供 /v1/systemone 等端点返回逐选项概率。",
+    "jevDecisionPointEn": "Local inference server implementing the TypeSafe System One wire format with /v1/systemone endpoints returning per-option probabilities.",
+    "highlightBenefit": "材料已绑定固定版本；收录不代表独立运行或性能验证。",
+    "highlightBenefitEn": "References are pinned to a fixed revision; inclusion is not independent runtime or performance verification.",
+    "tags": [
+      "multilanguage-sdk",
+      "typed-decisions"
+    ],
+    "summarySource": "ai-material-review",
+    "stars": 0,
+    "forks": 0,
+    "openIssues": 1,
+    "license": {
+      "status": "identified",
+      "spdx": "Apache-2.0",
+      "name": "Apache License 2.0",
+      "url": "https://api.github.com/licenses/apache-2.0"
+    },
+    "createdAt": "2026-10-07T13:29:10Z",
+    "lastCommitAt": "2026-10-13T10:39:35Z",
+    "headSha": "c2b6e22d8681687946c0104a11ccad045f7f9abc",
+    "metadataFetchedAt": "2026-10-13T16:53:42.101Z",
+    "metadataStatus": "ok",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/339160993?v=4",
+    "verificationStatus": "material-reviewed",
+    "runtimeVerified": false,
+    "discoveredAt": "2026-10-13T16:53:42.101Z",
+    "claimStatus": "模型依据固定版本材料判断生态类型与 Jev 关联；未经本站独立运行、安全或性能验证。",
+    "claimStatusEn": "A model assessed the ecosystem role and Jev relationship from pinned materials; runtime, security and performance are not independently verified.",
+    "evidence": [
+      {
+        "url": "https://github.com/Phocinae/phocinae-server/blob/c2b6e22d8681687946c0104a11ccad045f7f9abc/docs/API.md",
+        "note": "固定版本的相关材料"
+      },
+      {
+        "url": "https://github.com/Phocinae/phocinae-server/blob/c2b6e22d8681687946c0104a11ccad045f7f9abc/phocinae/server.py",
+        "note": "固定版本的相关材料"
+      }
+    ],
+    "sourceVerification": {
+      "method": "ai-material-review-v2",
+      "sha": "c2b6e22d8681687946c0104a11ccad045f7f9abc",
+      "files": [
+        {
+          "targetId": "R1",
+          "repoId": 1408832426,
+          "commit": "c2b6e22d8681687946c0104a11ccad045f7f9abc",
+          "path": "docs/API.md",
+          "url": "https://github.com/Phocinae/phocinae-server/blob/c2b6e22d8681687946c0104a11ccad045f7f9abc/docs/API.md",
+          "hash": "6a106f19a4c034b15f9f453355b6d0c5cdf37d78e9e83c4d99ffe521315d14ee",
+          "sourceSpan": {
+            "startByte": 0,
+            "endByte": 10362
+          },
+          "sourcePartial": false,
+          "originalBytes": 10362
+        },
+        {
+          "targetId": "R1",
+          "repoId": 1408832426,
+          "commit": "c2b6e22d8681687946c0104a11ccad045f7f9abc",
+          "path": "phocinae/server.py",
+          "url": "https://github.com/Phocinae/phocinae-server/blob/c2b6e22d8681687946c0104a11ccad045f7f9abc/phocinae/server.py",
+          "hash": "ec052562a63113ff976de5723e3e2adfa555b287bd02153a04b033cca03c877b",
+          "sourceSpan": {
+            "startByte": 0,
+            "endByte": 15766
+          },
+          "sourcePartial": false,
+          "originalBytes": 15766
+        }
+      ],
+      "materials": [
+        {
+          "targetId": "R1",
+          "repoId": 1408832426,
+          "commit": "c2b6e22d8681687946c0104a11ccad045f7f9abc",
+          "path": "docs/API.md",
+          "form": "documentation",
+          "span": {
+            "startByte": 652,
+            "endByte": 1143
+          },
+          "spanSha256": "080bb429f1864de20a15ff23f72e6cc1582efb6b7cbf0187480acd8abae0b2bc",
+          "partial": false,
+          "id": "M285f687294aad6b9",
+          "url": "https://github.com/Phocinae/phocinae-server/blob/c2b6e22d8681687946c0104a11ccad045f7f9abc/docs/API.md",
+          "sourceSha256": "6a106f19a4c034b15f9f453355b6d0c5cdf37d78e9e83c4d99ffe521315d14ee",
+          "sourceSpan": {
+            "startByte": 0,
+            "endByte": 10362
+          },
+          "sourcePartial": false,
+          "originalBytes": 10362
+        },
+        {
+          "targetId": "R1",
+          "repoId": 1408832426,
+          "commit": "c2b6e22d8681687946c0104a11ccad045f7f9abc",
+          "path": "phocinae/server.py",
+          "form": "source",
+          "span": {
+            "startByte": 13838,
+            "endByte": 14282
+          },
+          "spanSha256": "e6541ac2900b7f0cbbb47874b359b46de7d2475f5db7916bb1eef3ec9db08887",
+          "partial": false,
+          "id": "M675708cd2aeee2cc",
+          "url": "https://github.com/Phocinae/phocinae-server/blob/c2b6e22d8681687946c0104a11ccad045f7f9abc/phocinae/server.py",
+          "sourceSha256": "ec052562a63113ff976de5723e3e2adfa555b287bd02153a04b033cca03c877b",
+          "sourceSpan": {
+            "startByte": 0,
+            "endByte": 15766
+          },
+          "sourcePartial": false,
+          "originalBytes": 15766
+        }
+      ],
+      "reviewRevision": "d97e7cf4b2cebf0d9171e4756f56fb74f2133eafbeba8258b772470259c75ac8",
+      "model": {
+        "requested": "deepseek-flash",
+        "response": "deepseek-flash",
+        "systemFingerprint": "aeb56401ca74e127821c4f9126dcb669"
+      },
+      "decision": "admit",
+      "catalogKind": "integration",
+      "jevRelation": "implemented",
+      "reviewBasis": "implementation-material",
+      "claims": [
+        {
+          "type": "purpose",
+          "text": "Local inference server exposing the TypeSafe System One wire format via POST /v1/systemone returning per-option probabilities.",
+          "support": [
+            "M285f687294aad6b9",
+            "M675708cd2aeee2cc"
+          ]
+        },
+        {
+          "type": "mechanism",
+          "text": "Implements /v1/systemone, /v1/systemone/permute (4-order permutation averaging), and /v1/systemone/batch (≤64 requests) endpoints with optional bearer auth.",
+          "support": [
+            "M285f687294aad6b9",
+            "M675708cd2aeee2cc"
+          ]
+        },
+        {
+          "type": "contribution",
+          "text": "Server-side handler validates requests and dispatches to an engine returning answers, confidences, actions, usage, and option scores.",
+          "support": [
+            "M675708cd2aeee2cc"
+          ]
+        }
+      ],
+      "conflicts": []
+    },
+    "ingestion": {
+      "repository": "logicrw/awesome-jev-projects",
+      "issueNumber": 124,
+      "issueBodySha256": "53e077b7fcb51dacb9746f3c2d47f7699c0a8466ba92b451baf46d7786ed1e15",
+      "issueTitleSha256": "4efcb5dc67a30c359e91a7adedffd1304c7e8b70a87789c37fa68d81d50e5396",
+      "reviewRevision": "d97e7cf4b2cebf0d9171e4756f56fb74f2133eafbeba8258b772470259c75ac8",
+      "issueUrl": "https://github.com/logicrw/awesome-jev-projects/issues/124"
+    }
   }
 ]

@@ -4,7 +4,7 @@ A community catalog for TypeSafe Jev and System-1 Agent architectures, including
 
 Website: https://logicrw.github.io/awesome-jev-projects/
 Repository: https://github.com/logicrw/awesome-jev-projects
-Catalog entries: 861
+Catalog entries: 862
 
 ## Install the Agent Skill
 
@@ -2819,7 +2819,7 @@ An optional Jev command-risk advisor inside a native macOS Agent, with a TypeSaf
 - Jev decision: Adds a destructive-risk judgment after local shell checks and refuses commands above the configured threshold.
 - Purpose: API failures generally allow the command with a warning, so it is not complete system protection.
 - Review scope: Jev is an optional additional risk judgment and failures generally fail open; no system-security validation was performed.
-- License: License not declared
+- License: Custom license
 - Details: https://logicrw.github.io/awesome-jev-projects/en/projects/agentiloop/agent/
 - Source evidence: https://github.com/AgentiLoop/Agent/blob/078f87ceca1d1190cc73706ac8ec16442e766a27/README.md
 - Source evidence: https://github.com/AgentiLoop/Agent/blob/078f87ceca1d1190cc73706ac8ec16442e766a27/Agent/Services/JevAdvisor.swift
@@ -3388,7 +3388,7 @@ A browser Agent for ego lite that numbers actionable elements for Jev to choose 
 - Jev decision: Jev selects an operation and target in one request; a separate helper handles free-form text when needed.
 - Purpose: Offers observation, suggestions and execution, while uploads and dialogs still require other browser tools.
 - Review scope: Reviewed the fixed-version README and call path.
-- License: License not declared
+- License: Custom license
 - Details: https://logicrw.github.io/awesome-jev-projects/en/projects/romaluev/jev-ego/
 - Source evidence: https://github.com/romaluev/jev-ego/blob/12eaafe795db56da821d9268ee7b9ae9ea24b23b/README.md
 - Source evidence: https://github.com/romaluev/jev-ego/blob/12eaafe795db56da821d9268ee7b9ae9ea24b23b/src/model.ts
@@ -4317,7 +4317,7 @@ A semantic grep that scores each line with Jev against a meaning, including AND/
 - Jev decision: Batches about thirty lines and asks jev-latest a Score or Noul per line for the stated meaning.
 - Purpose: A zero-runtime-dependency semantic grep; query text is sent to TypeSafe.
 - Review scope: Pinned public source was reviewed. This site did not execute the project or independently measure performance or safety.
-- License: License not declared
+- License: Custom license
 - Details: https://logicrw.github.io/awesome-jev-projects/en/projects/uehaj/jev-semgrep/
 - Source evidence: https://github.com/uehaj/jev-semgrep/blob/21120e9ee634defdb279b7243e03ea84aaeed2da/semgrep.mjs
 - Source evidence: https://github.com/uehaj/jev-semgrep/blob/21120e9ee634defdb279b7243e03ea84aaeed2da/README.md
@@ -12088,3 +12088,20 @@ pydecide is a Python client that calls Jev's /v1/systemone endpoint via TypeSafe
 - Source evidence: https://github.com/gopaljigaur/decide/blob/ceabcff05fafd3610df859b5219c2f65632a86a3/decide/backends/typesafe.py
 - Source evidence: https://github.com/gopaljigaur/decide/blob/ceabcff05fafd3610df859b5219c2f65632a86a3/decide/client.py
 - Source evidence: https://github.com/gopaljigaur/decide/blob/ceabcff05fafd3610df859b5219c2f65632a86a3/decide/compat.py
+
+## phocinae-server
+
+Local inference server implementing the TypeSafe System One wire format with /v1/systemone endpoints returning per-option probabilities.
+
+- Repository: https://github.com/Phocinae/phocinae-server
+- Category: SDK & Decision Frameworks
+- Jev decision: Local inference server implementing the TypeSafe System One wire format with /v1/systemone endpoints returning per-option probabilities.
+- Purpose: References are pinned to a fixed revision; inclusion is not independent runtime or performance verification.
+- Review scope: A model assessed the ecosystem role and Jev relationship from pinned materials; runtime, security and performance are not independently verified.
+- License: Apache-2.0
+- Entry type: Integration
+- Jev relationship: Jev implementation
+- Review basis: Implementation material
+- Details: https://logicrw.github.io/awesome-jev-projects/en/projects/phocinae/phocinae-server/
+- Source evidence: https://github.com/Phocinae/phocinae-server/blob/c2b6e22d8681687946c0104a11ccad045f7f9abc/docs/API.md
+- Source evidence: https://github.com/Phocinae/phocinae-server/blob/c2b6e22d8681687946c0104a11ccad045f7f9abc/phocinae/server.py
