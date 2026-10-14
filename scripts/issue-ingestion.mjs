@@ -285,11 +285,15 @@ export async function prepareSubmission({
     fallback: baseSummary, reviewed: { ...review, ...verdict, evidenceBundle: bundle, materialsValidated: true } }) : baseSummary;
   const { enrichment: _enrichment, ...editorial } = { ...enriched, ...baseSummary };
   const [author, name] = repo.full_name.split("/");
+  const licenseFacts = licenseFactsFromRepo(repo);
+  const licenseStatus = licenseFacts.status === "identified" ? "declared" : licenseFacts.status === "custom" ? "custom" : "unconfirmed";
   const project = {
     id: `${author}:${name}`.toLowerCase(), name, author,
     url: `https://github.com/${repo.full_name}`, repoId: repo.id, ...editorial,
     stars: repo.stargazers_count, forks: repo.forks_count, openIssues: repo.open_issues_count,
-    license: licenseFactsFromRepo(repo), createdAt: repo.created_at,
+    license: licenseFacts,
+    licenseStatus,
+    createdAt: repo.created_at,
     lastCommitAt: commits[0]?.commit?.committer?.date ?? null,
     headSha: sha, metadataFetchedAt: now(), metadataStatus: "ok", avatarUrl: repo.owner?.avatar_url,
     verificationStatus: "material-reviewed", runtimeVerified: false, discoveredAt: now(),

@@ -78508,7 +78508,8 @@
       "issueTitleSha256": "19f75587c5ed3562bc720a971153347a9e172ce6fd459ea42dbdf69096edb9fa",
       "reviewRevision": "d97e7cf4b2cebf0d9171e4756f56fb74f2133eafbeba8258b772470259c75ac8",
       "issueUrl": "https://github.com/logicrw/awesome-jev-projects/issues/123"
-    }
+    },
+    "licenseStatus": "declared"
   },
   {
     "id": "phocinae:phocinae-server",
@@ -78684,6 +78685,7 @@
       "issueTitleSha256": "4efcb5dc67a30c359e91a7adedffd1304c7e8b70a87789c37fa68d81d50e5396",
       "reviewRevision": "d97e7cf4b2cebf0d9171e4756f56fb74f2133eafbeba8258b772470259c75ac8",
       "issueUrl": "https://github.com/logicrw/awesome-jev-projects/issues/124"
-    }
+    },
+    "licenseStatus": "declared"
   }
 ]
