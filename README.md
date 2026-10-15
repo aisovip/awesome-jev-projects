@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Mentioned in Awesome" /></a>
   <a href="https://logicrw.github.io/awesome-jev-projects/en/"><img src="https://img.shields.io/badge/Live%20Radar-logicrw.github.io-d7fa91?style=flat-square&labelColor=1a201a&logo=safari" alt="Live Radar" /></a>
-  <a href="#categories"><img src="https://img.shields.io/badge/Curated%20Projects-862%2B-2563eb?style=flat-square" alt="Projects Count" /></a>
+  <a href="#categories"><img src="https://img.shields.io/badge/Curated%20Projects-864%2B-2563eb?style=flat-square" alt="Projects Count" /></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-d97706.svg?style=flat-square" alt="License: MIT" /></a>
   <a href="https://github.com/logicrw/awesome-jev-projects/issues/new?template=project.yml"><img src="https://img.shields.io/badge/Submissions-via%20Issue-16a34a.svg?style=flat-square" alt="Submissions via Issue" /></a>
 </p>
@@ -32,7 +32,7 @@ When building autonomous agents, routing every small branching decision to a hea
 **TypeSafe Jev (System 1)** is purpose-built for fast, typed discrete decisions:
 - ⚡ **Sub-100ms Latency**: Delivers decisions in 50–100ms to keep agent loops snappy.
 - 🎯 **Native Typed Outputs**: Built-in primitives for `Choice`, `Score`, and `Noul` without fragile JSON regex parsing.
-- 🛡️ **Zero Vaporware**: 862+ projects and resources across 17 categories, distinguishing descriptive material from implementation evidence.
+- 🛡️ **Zero Vaporware**: 864+ projects and resources across 17 categories, distinguishing descriptive material from implementation evidence.
 
 ### 📊 Architecture Comparison: System 1 (Jev) vs System 2 (Reasoning LLMs)
 
@@ -50,7 +50,7 @@ When building autonomous agents, routing every small branching decision to a hea
 - ⚡ **Sticky Search & Floating Popover Filter**: Filter tags and categories anytime while scrolling via the anchored toolbar popover.
 - 🔍 **Fixed-Version Material**: Inspect linked source, SQL, documentation, or examples together with each entry’s review basis.
 
-> **[Search and filter ↗](https://logicrw.github.io/awesome-jev-projects/en/)** · **862 curated projects**
+> **[Search and filter ↗](https://logicrw.github.io/awesome-jev-projects/en/)** · **864 curated projects**
 
 A community catalog of Jev integrations, benchmarks, developer tools, research, and learning resources, with per-entry relationships, review basis, and license facts.
 
@@ -95,7 +95,7 @@ npx skills add https://logicrw.github.io/awesome-jev-projects/
 - [SDK & Decision Frameworks (134)](https://logicrw.github.io/awesome-jev-projects/en/categories/sdk-decision-frameworks/)
 - [SDK Integrations (6)](https://logicrw.github.io/awesome-jev-projects/en/categories/sdk-integrations/)
 - [Security & Guardrails (68)](https://logicrw.github.io/awesome-jev-projects/en/categories/security-guardrails/)
-- [Voice & Conversation (4)](https://logicrw.github.io/awesome-jev-projects/en/categories/voice-conversation/)
+- [Voice & Conversation (6)](https://logicrw.github.io/awesome-jev-projects/en/categories/voice-conversation/)
 
 ## Browser & OS Action
 
@@ -4446,6 +4446,14 @@ npx skills add https://logicrw.github.io/awesome-jev-projects/
 
 ## Voice & Conversation
 
+- [**jev-chat-jarvis**](https://github.com/jev-chat/jev-chat-jarvis) — Android chat copilot that reads conversations, uses Jev to assess intent, risk, and next actions, and drafts and ranks reply suggestions.
+  - **Entry type**: Integration
+  - **Jev relationship**: Jev implementation
+  - **Review basis**: Implementation and descriptive material
+  - **Jev’s role in this entry**: Android chat copilot that reads conversations, uses Jev to assess intent, risk, and next actions, and drafts and ranks reply suggestions.
+  - **What this project offers**: References are pinned to a fixed revision; inclusion is not independent runtime or performance verification.
+  - [Entry details and fixed-version material](https://logicrw.github.io/awesome-jev-projects/en/projects/jev-chat/jev-chat-jarvis/) · License: MIT
+
 - [**aiavatarkit**](https://github.com/uezo/aiavatarkit) — An optional AIAvatarKit component uses Jev to judge turn endings from speech transcripts.
   - **Jev’s role in this entry**: Assesses utterance completeness and whether the user is likely to continue speaking.
   - **What this project offers**: Adds a semantic signal to silence-based turn detection.
@@ -4455,6 +4463,14 @@ npx skills add https://logicrw.github.io/awesome-jev-projects/
   - **Jev’s role in this entry**: Makes bounded transcript judgments for checkpoints, note-taking actions or screening before remote text cleanup.
   - **What this project offers**: Keeps model probabilities separate from local thresholds, switches and failure fallbacks.
   - [Entry details and fixed-version material](https://logicrw.github.io/awesome-jev-projects/en/projects/knuckles92/openwhisper/) · License: MIT
+
+- [**jev-chat-jarvis-ios**](https://github.com/jev-chat/jev-chat-jarvis-ios) — iOS keyboard chat copilot that analyzes copied messages with Jev for intent classification, risk scoring, and reply ranking.
+  - **Entry type**: Integration
+  - **Jev relationship**: Jev implementation
+  - **Review basis**: Implementation and descriptive material
+  - **Jev’s role in this entry**: iOS keyboard chat copilot that analyzes copied messages with Jev for intent classification, risk scoring, and reply ranking.
+  - **What this project offers**: References are pinned to a fixed revision; inclusion is not independent runtime or performance verification.
+  - [Entry details and fixed-version material](https://logicrw.github.io/awesome-jev-projects/en/projects/jev-chat/jev-chat-jarvis-ios/) · License: MIT
 
 - [**jev-system-one**](https://github.com/haseeb-heaven/jev-system-one) — A terminal Q&A app where OpenAI writes answers and Jev sets response policy and reviews drafts.
   - **Jev’s role in this entry**: Judges response mode, depth, uncertainty and draft quality inside a LangGraph workflow.

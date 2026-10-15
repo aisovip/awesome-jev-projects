@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Mentioned in Awesome" /></a>
   <a href="https://logicrw.github.io/awesome-jev-projects/ja/"><img src="https://img.shields.io/badge/Live%20Radar-logicrw.github.io-d7fa91?style=flat-square&labelColor=1a201a&logo=safari" alt="Live Radar" /></a>
-  <a href="#カテゴリ"><img src="https://img.shields.io/badge/Curated%20Projects-862%2B-2563eb?style=flat-square" alt="Projects Count" /></a>
+  <a href="#カテゴリ"><img src="https://img.shields.io/badge/Curated%20Projects-864%2B-2563eb?style=flat-square" alt="Projects Count" /></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-d97706.svg?style=flat-square" alt="License: MIT" /></a>
   <a href="https://github.com/logicrw/awesome-jev-projects/issues/new?template=project.yml"><img src="https://img.shields.io/badge/Submissions-via%20Issue-16a34a.svg?style=flat-square" alt="Submissions via Issue" /></a>
 </p>
@@ -32,7 +32,7 @@ Agent を構築する際、すべての分岐判断を巨大な推論モデル�
 **TypeSafe Jev（System 1）** は、離散選択、スコアリング、真偽値判定に特化した軽量モデルです：
 - ⚡ **100ms 未満の高速応答**：50–100ms で判断を完了し、Agent の高速ループを維持します。
 - 🎯 **ネイティブな型安全出力**：`Choice`、`Score`、`Noul` を直接返し、壊れやすい正規表現パースが不要です。
-- 🛡️ **誇大広告を排除**：17 分野の 862+ 件のプロジェクトと資料を掲載し、説明資料と実装の根拠を区別します。
+- 🛡️ **誇大広告を排除**：17 分野の 864+ 件のプロジェクトと資料を掲載し、説明資料と実装の根拠を区別します。
 
 ### 📊 アーキテクチャ比較：System 1 (Jev) vs System 2 (巨大推論モデル)
 
@@ -50,7 +50,7 @@ Agent を構築する際、すべての分岐判断を巨大な推論モデル�
 - ⚡ **固定検索バーとフローティング絞り込み**：スクロール中も追従するツールバーから、いつでもカテゴリやタグで即座に絞り込み可能。
 - 🔍 **固定バージョンの資料**：リンク先のソース、SQL、説明、例を、各項目の確認根拠と併せて確認できます。
 
-> **[検索・絞り込み ↗](https://logicrw.github.io/awesome-jev-projects/ja/)** · **862 件の厳選プロジェクト**
+> **[検索・絞り込み ↗](https://logicrw.github.io/awesome-jev-projects/ja/)** · **864 件の厳選プロジェクト**
 
 Jev の連携、ベンチマーク、開発ツール、研究、学習資料を集めたコミュニティのカタログです。関係、確認の根拠、ライセンス情報を項目ごとに表示します。
 
@@ -95,7 +95,7 @@ npx skills add https://logicrw.github.io/awesome-jev-projects/
 - [SDK・判断フレームワーク (134)](https://logicrw.github.io/awesome-jev-projects/ja/categories/sdk-decision-frameworks/)
 - [SDK・互換連携 (6)](https://logicrw.github.io/awesome-jev-projects/ja/categories/sdk-integrations/)
 - [安全対策・コンテンツ審査 (68)](https://logicrw.github.io/awesome-jev-projects/ja/categories/security-guardrails/)
-- [音声・会話 (4)](https://logicrw.github.io/awesome-jev-projects/ja/categories/voice-conversation/)
+- [音声・会話 (6)](https://logicrw.github.io/awesome-jev-projects/ja/categories/voice-conversation/)
 
 ## ブラウザ・デスクトップ
 
@@ -4446,6 +4446,14 @@ npx skills add https://logicrw.github.io/awesome-jev-projects/
 
 ## 音声・会話
 
+- [**jev-chat-jarvis**](https://github.com/jev-chat/jev-chat-jarvis) — Android chat copilot that reads conversations, uses Jev to assess intent, risk, and next actions, and drafts and ranks reply suggestions.
+  - **項目の種類**: 連携プロジェクト
+  - **Jev との関係**: Jev の実装あり
+  - **確認の根拠**: 実装資料と説明資料
+  - **この項目での Jev の役割**: Android chat copilot that reads conversations, uses Jev to assess intent, risk, and next actions, and drafts and ranks reply suggestions.
+  - **このプロジェクトの用途**: References are pinned to a fixed revision; inclusion is not independent runtime or performance verification.
+  - [詳細と固定バージョンの資料](https://logicrw.github.io/awesome-jev-projects/ja/projects/jev-chat/jev-chat-jarvis/) · ライセンス: MIT
+
 - [**aiavatarkit**](https://github.com/uezo/aiavatarkit) — AIAvatarKit の任意の部品が、音声の書き起こしから発話終了を Jev に判断させる。
   - **この項目での Jev の役割**: 発話の完結性と、利用者が話し続けそうかを評価する。
   - **このプロジェクトの用途**: 無音時間による判定に意味上の情報を加える。
@@ -4455,6 +4463,14 @@ npx skills add https://logicrw.github.io/awesome-jev-projects/
   - **この項目での Jev の役割**: 転記した断片を判定し、会議チェックポイント・記録操作・遠隔文章処理前の確認を補助する。
   - **このプロジェクトの用途**: 確率判断とローカル閾値・切替・失敗時処理を分けて確認できる。
   - [詳細と固定バージョンの資料](https://logicrw.github.io/awesome-jev-projects/ja/projects/knuckles92/openwhisper/) · ライセンス: MIT
+
+- [**jev-chat-jarvis-ios**](https://github.com/jev-chat/jev-chat-jarvis-ios) — iOS keyboard chat copilot that analyzes copied messages with Jev for intent classification, risk scoring, and reply ranking.
+  - **項目の種類**: 連携プロジェクト
+  - **Jev との関係**: Jev の実装あり
+  - **確認の根拠**: 実装資料と説明資料
+  - **この項目での Jev の役割**: iOS keyboard chat copilot that analyzes copied messages with Jev for intent classification, risk scoring, and reply ranking.
+  - **このプロジェクトの用途**: References are pinned to a fixed revision; inclusion is not independent runtime or performance verification.
+  - [詳細と固定バージョンの資料](https://logicrw.github.io/awesome-jev-projects/ja/projects/jev-chat/jev-chat-jarvis-ios/) · ライセンス: MIT
 
 - [**jev-system-one**](https://github.com/haseeb-heaven/jev-system-one) — OpenAI が回答を書き、Jev が方針決定と草稿確認を行う端末の質問応答アプリ。
   - **この項目での Jev の役割**: LangGraph 内で回答形式、詳しさ、不確実性、草稿品質を判断する。

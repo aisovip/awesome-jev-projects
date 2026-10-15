@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Mentioned in Awesome" /></a>
   <a href="https://logicrw.github.io/awesome-jev-projects/"><img src="https://img.shields.io/badge/Live%20Radar-logicrw.github.io-d7fa91?style=flat-square&labelColor=1a201a&logo=safari" alt="Live Radar" /></a>
-  <a href="#分类"><img src="https://img.shields.io/badge/Curated%20Projects-862%2B-2563eb?style=flat-square" alt="Projects Count" /></a>
+  <a href="#分类"><img src="https://img.shields.io/badge/Curated%20Projects-864%2B-2563eb?style=flat-square" alt="Projects Count" /></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-d97706.svg?style=flat-square" alt="License: MIT" /></a>
   <a href="https://github.com/logicrw/awesome-jev-projects/issues/new?template=project.yml"><img src="https://img.shields.io/badge/Submissions-via%20Issue-16a34a.svg?style=flat-square" alt="Submissions via Issue" /></a>
 </p>
@@ -32,7 +32,7 @@
 **TypeSafe Jev（System 1）** 是专门针对离散选择、连续打分与概率优化的百毫秒级决策模型：
 - ⚡ **百毫秒内极速返回**：50–100ms 快速完成判定，保障 Agent 主循环高频敏捷。
 - 🎯 **原生确定性输出**：原生支持 `Choice`（多选一）、`Score`（打分）与 `Noul`（二元逻辑与概率），免去易碎的正则提取。
-- 🛡️ **严格拒绝概念炒作**：按材料收录 **862+** 个项目与资源，覆盖 17 个用途分类，并区分材料说明与实现证据。
+- 🛡️ **严格拒绝概念炒作**：按材料收录 **864+** 个项目与资源，覆盖 17 个用途分类，并区分材料说明与实现证据。
 
 ### 📊 架构分工对比：System 1 (Jev) vs System 2 (大推理模型)
 
@@ -50,7 +50,7 @@
 - ⚡ **毫秒级吸顶搜索与浮动过滤**：即便页面下滑，也可随时唤出浮动分类面板，支持多标签一键点选过滤。
 - 🔍 **固定版本材料**：查看条目关联的源码、SQL、文档或示例，并按条目标注的审查依据理解结论。
 
-> **[搜索与筛选 ↗](https://logicrw.github.io/awesome-jev-projects/)** · **862 个精选项目**
+> **[搜索与筛选 ↗](https://logicrw.github.io/awesome-jev-projects/)** · **864 个精选项目**
 
 由社区维护的 Jev 项目与资源目录，收录集成、基准测试、开发工具、研究与学习材料，并逐条展示关系、审查依据和许可事实。
 
@@ -95,7 +95,7 @@ npx skills add https://logicrw.github.io/awesome-jev-projects/
 - [SDK 与决策框架 (134)](https://logicrw.github.io/awesome-jev-projects/categories/sdk-decision-frameworks/)
 - [SDK 与兼容接入 (6)](https://logicrw.github.io/awesome-jev-projects/categories/sdk-integrations/)
 - [安全与内容审核 (68)](https://logicrw.github.io/awesome-jev-projects/categories/security-guardrails/)
-- [语音与对话 (4)](https://logicrw.github.io/awesome-jev-projects/categories/voice-conversation/)
+- [语音与对话 (6)](https://logicrw.github.io/awesome-jev-projects/categories/voice-conversation/)
 
 ## 浏览器与桌面
 
@@ -4446,6 +4446,14 @@ npx skills add https://logicrw.github.io/awesome-jev-projects/
 
 ## 语音与对话
 
+- [**jev-chat-jarvis**](https://github.com/jev-chat/jev-chat-jarvis) — 安卓聊天副驾，读取对话并由 Jev 判断意图、危险等级与下一步动作，再生成候选回复并重排填入。
+  - **条目类型**: 集成项目
+  - **Jev 关系**: 含 Jev 实现
+  - **审查依据**: 实现与说明材料
+  - **Jev 在此条目的作用**: 安卓聊天副驾，读取对话并由 Jev 判断意图、危险等级与下一步动作，再生成候选回复并重排填入。
+  - **这个项目的用途**: 材料已绑定固定版本；收录不代表独立运行或性能验证。
+  - [条目详情与固定版本材料](https://logicrw.github.io/awesome-jev-projects/projects/jev-chat/jev-chat-jarvis/) · 许可证: MIT
+
 - [**aiavatarkit**](https://github.com/uezo/aiavatarkit) — AIAvatarKit 的可选 Jev 组件根据转写内容判断用户是否结束发言。
   - **Jev 在此条目的作用**: 评估当前话语是否完整、是否准备继续说，并影响轮次结束门槛。
   - **这个项目的用途**: 给仅靠静音时长的轮次判断增加语义信号。
@@ -4455,6 +4463,14 @@ npx skills add https://logicrw.github.io/awesome-jev-projects/
   - **Jev 在此条目的作用**: 对转录片段做有边界的判断，辅助触发会议检查点、记录操作或远程文本清理前的筛查。
   - **这个项目的用途**: 把概率判断与本地阈值、开关和失败回退分开，方便检查每项功能。
   - [条目详情与固定版本材料](https://logicrw.github.io/awesome-jev-projects/projects/knuckles92/openwhisper/) · 许可证: MIT
+
+- [**jev-chat-jarvis-ios**](https://github.com/jev-chat/jev-chat-jarvis-ios) — iOS 键盘版聊天副驾，长按复制消息即可调用 Jev 进行意图分类、风险分级与回复建议排序。
+  - **条目类型**: 集成项目
+  - **Jev 关系**: 含 Jev 实现
+  - **审查依据**: 实现与说明材料
+  - **Jev 在此条目的作用**: iOS 键盘版聊天副驾，长按复制消息即可调用 Jev 进行意图分类、风险分级与回复建议排序。
+  - **这个项目的用途**: 材料已绑定固定版本；收录不代表独立运行或性能验证。
+  - [条目详情与固定版本材料](https://logicrw.github.io/awesome-jev-projects/projects/jev-chat/jev-chat-jarvis-ios/) · 许可证: MIT
 
 - [**jev-system-one**](https://github.com/haseeb-heaven/jev-system-one) — 终端问答界面由 OpenAI 写回答，Jev 决定回答方式、检查草稿并判断是否重写。
   - **Jev 在此条目的作用**: 判断回答模式、深度、不确定性和草稿质量，再把结果交给 LangGraph 流程。

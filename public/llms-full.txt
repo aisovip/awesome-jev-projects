@@ -4,7 +4,7 @@ A community catalog for TypeSafe Jev and System-1 Agent architectures, including
 
 Website: https://logicrw.github.io/awesome-jev-projects/
 Repository: https://github.com/logicrw/awesome-jev-projects
-Catalog entries: 862
+Catalog entries: 864
 
 ## Install the Agent Skill
 
@@ -12105,3 +12105,39 @@ Local inference server implementing the TypeSafe System One wire format with /v1
 - Details: https://logicrw.github.io/awesome-jev-projects/en/projects/phocinae/phocinae-server/
 - Source evidence: https://github.com/Phocinae/phocinae-server/blob/c2b6e22d8681687946c0104a11ccad045f7f9abc/docs/API.md
 - Source evidence: https://github.com/Phocinae/phocinae-server/blob/c2b6e22d8681687946c0104a11ccad045f7f9abc/phocinae/server.py
+
+## jev-chat-jarvis
+
+Android chat copilot that reads conversations, uses Jev to assess intent, risk, and next actions, and drafts and ranks reply suggestions.
+
+- Repository: https://github.com/jev-chat/jev-chat-jarvis
+- Category: Voice & Conversation
+- Jev decision: Android chat copilot that reads conversations, uses Jev to assess intent, risk, and next actions, and drafts and ranks reply suggestions.
+- Purpose: References are pinned to a fixed revision; inclusion is not independent runtime or performance verification.
+- Review scope: A model assessed the ecosystem role and Jev relationship from pinned materials; runtime, security and performance are not independently verified.
+- License: MIT
+- Entry type: Integration
+- Jev relationship: Jev implementation
+- Review basis: Implementation and descriptive material
+- Details: https://logicrw.github.io/awesome-jev-projects/en/projects/jev-chat/jev-chat-jarvis/
+- Source evidence: https://github.com/jev-chat/jev-chat-jarvis/blob/fdf8d28c811b0b67016d815df674cc61603c33c8/cn/app/src/main/java/com/jev/probe/jev/JudgeClient.kt
+- Source evidence: https://github.com/jev-chat/jev-chat-jarvis/blob/fdf8d28c811b0b67016d815df674cc61603c33c8/cn/app/src/main/java/com/jev/probe/jev/JevQuestions.kt
+- Source evidence: https://github.com/jev-chat/jev-chat-jarvis/blob/fdf8d28c811b0b67016d815df674cc61603c33c8/.github/README.md
+
+## jev-chat-jarvis-ios
+
+iOS keyboard chat copilot that analyzes copied messages with Jev for intent classification, risk scoring, and reply ranking.
+
+- Repository: https://github.com/jev-chat/jev-chat-jarvis-ios
+- Category: Voice & Conversation
+- Jev decision: iOS keyboard chat copilot that analyzes copied messages with Jev for intent classification, risk scoring, and reply ranking.
+- Purpose: References are pinned to a fixed revision; inclusion is not independent runtime or performance verification.
+- Review scope: A model assessed the ecosystem role and Jev relationship from pinned materials; runtime, security and performance are not independently verified.
+- License: MIT
+- Entry type: Integration
+- Jev relationship: Jev implementation
+- Review basis: Implementation and descriptive material
+- Details: https://logicrw.github.io/awesome-jev-projects/en/projects/jev-chat/jev-chat-jarvis-ios/
+- Source evidence: https://github.com/jev-chat/jev-chat-jarvis-ios/blob/f4b64cc655415091180e4c0573a2a82ca4319212/Shared/JevJudge.swift
+- Source evidence: https://github.com/jev-chat/jev-chat-jarvis-ios/blob/f4b64cc655415091180e4c0573a2a82ca4319212/Shared/JevPipeline.swift
+- Source evidence: https://github.com/jev-chat/jev-chat-jarvis-ios/blob/f4b64cc655415091180e4c0573a2a82ca4319212/README.md

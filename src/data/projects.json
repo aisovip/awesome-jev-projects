@@ -78693,5 +78693,443 @@
       "issueUrl": "https://github.com/logicrw/awesome-jev-projects/issues/124"
     },
     "licenseStatus": "declared"
+  },
+  {
+    "name": "jev-chat-jarvis",
+    "full_name": "jev-chat/jev-chat-jarvis",
+    "html_url": "https://github.com/jev-chat/jev-chat-jarvis",
+    "description": "The chat decision assistant: before you reply, Jev reads the chat, judges intent and risk, and drafts replies you fill in with one tap. You press send. Android · Windows · macOS · iOS | 聊天辅助决策工具：先看懂对方再回复，发不发由你。",
+    "category": "Voice & Conversation",
+    "catalogKind": "integration",
+    "jevRelation": "implemented",
+    "reviewBasis": "mixed",
+    "plainSummary": "安卓聊天副驾，读取对话并由 Jev 判断意图、危险等级与下一步动作，再生成候选回复并重排填入。",
+    "plainSummaryEn": "Android chat copilot that reads conversations, uses Jev to assess intent, risk, and next actions, and drafts and ranks reply suggestions.",
+    "jevDecisionPoint": "安卓聊天副驾，读取对话并由 Jev 判断意图、危险等级与下一步动作，再生成候选回复并重排填入。",
+    "jevDecisionPointEn": "Android chat copilot that reads conversations, uses Jev to assess intent, risk, and next actions, and drafts and ranks reply suggestions.",
+    "highlightBenefit": "材料已绑定固定版本；收录不代表独立运行或性能验证。",
+    "highlightBenefitEn": "References are pinned to a fixed revision; inclusion is not independent runtime or performance verification.",
+    "tags": [
+      "desktop-os",
+      "typed-decisions"
+    ],
+    "summarySource": "ai-material-review",
+    "stars": 7765,
+    "forks": 1268,
+    "openIssues": 30,
+    "license": {
+      "status": "identified",
+      "spdx": "MIT",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "createdAt": "2026-09-21T11:12:53Z",
+    "lastCommitAt": "2026-10-06T15:17:38Z",
+    "headSha": "fdf8d28c811b0b67016d815df674cc61603c33c8",
+    "metadataFetchedAt": "2026-10-15T09:26:54.890Z",
+    "metadataStatus": "ok",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/332283779?v=4",
+    "verificationStatus": "material-reviewed",
+    "runtimeVerified": false,
+    "discoveredAt": "2026-10-15T09:26:54.890Z",
+    "claimStatus": "模型依据固定版本材料判断生态类型与 Jev 关联；未经本站独立运行、安全或性能验证。",
+    "claimStatusEn": "A model assessed the ecosystem role and Jev relationship from pinned materials; runtime, security and performance are not independently verified.",
+    "evidence": [
+      {
+        "url": "https://github.com/jev-chat/jev-chat-jarvis/blob/fdf8d28c811b0b67016d815df674cc61603c33c8/cn/app/src/main/java/com/jev/probe/jev/JudgeClient.kt",
+        "note": "固定版本的相关材料"
+      },
+      {
+        "url": "https://github.com/jev-chat/jev-chat-jarvis/blob/fdf8d28c811b0b67016d815df674cc61603c33c8/cn/app/src/main/java/com/jev/probe/jev/JevQuestions.kt",
+        "note": "固定版本的相关材料"
+      },
+      {
+        "url": "https://github.com/jev-chat/jev-chat-jarvis/blob/fdf8d28c811b0b67016d815df674cc61603c33c8/.github/README.md",
+        "note": "固定版本的相关材料"
+      }
+    ],
+    "materialReview": {
+      "targets": [
+        {
+          "id": "R1",
+          "repository": "jev-chat/jev-chat-jarvis",
+          "commit": "fdf8d28c811b0b67016d815df674cc61603c33c8",
+          "repoId": 1379574728,
+          "available": true
+        }
+      ],
+      "sources": [
+        {
+          "targetId": "R1",
+          "repoId": 1379574728,
+          "commit": "fdf8d28c811b0b67016d815df674cc61603c33c8",
+          "path": ".github/README.md",
+          "url": "https://github.com/jev-chat/jev-chat-jarvis/blob/fdf8d28c811b0b67016d815df674cc61603c33c8/.github/README.md",
+          "hash": "72d27b822b984c2a66092ef5b2a85f5548d9f456aa74e8384238af138a191cca",
+          "sourceSpan": {
+            "startByte": 0,
+            "endByte": 10524
+          },
+          "sourcePartial": false,
+          "originalBytes": 10524
+        },
+        {
+          "targetId": "R1",
+          "repoId": 1379574728,
+          "commit": "fdf8d28c811b0b67016d815df674cc61603c33c8",
+          "path": "cn/app/src/main/java/com/jev/probe/jev/JudgeClient.kt",
+          "url": "https://github.com/jev-chat/jev-chat-jarvis/blob/fdf8d28c811b0b67016d815df674cc61603c33c8/cn/app/src/main/java/com/jev/probe/jev/JudgeClient.kt",
+          "hash": "3bfda0ae850d9487a5c86a178e0020a49b9fc33c3f2fe3670bb1620b8b736a69",
+          "sourceSpan": {
+            "startByte": 0,
+            "endByte": 5594
+          },
+          "sourcePartial": false,
+          "originalBytes": 5594
+        },
+        {
+          "targetId": "R1",
+          "repoId": 1379574728,
+          "commit": "fdf8d28c811b0b67016d815df674cc61603c33c8",
+          "path": "cn/app/src/main/java/com/jev/probe/jev/JevQuestions.kt",
+          "url": "https://github.com/jev-chat/jev-chat-jarvis/blob/fdf8d28c811b0b67016d815df674cc61603c33c8/cn/app/src/main/java/com/jev/probe/jev/JevQuestions.kt",
+          "hash": "acad8a98e38f9d50da8b22001470a31ea873dedcf193e0c0ca734f810fa4f73b",
+          "sourceSpan": {
+            "startByte": 0,
+            "endByte": 14573
+          },
+          "sourcePartial": false,
+          "originalBytes": 14573
+        }
+      ],
+      "materials": [
+        {
+          "targetId": "R1",
+          "repoId": 1379574728,
+          "commit": "fdf8d28c811b0b67016d815df674cc61603c33c8",
+          "path": ".github/README.md",
+          "form": "documentation",
+          "span": {
+            "startByte": 0,
+            "endByte": 500
+          },
+          "spanSha256": "de5da2490cdc10ca8cc37068fdaab8e87d11b1e569cbc7aa2f5962fce19b2832",
+          "partial": false,
+          "id": "Mf172d27b822b984c",
+          "url": "https://github.com/jev-chat/jev-chat-jarvis/blob/fdf8d28c811b0b67016d815df674cc61603c33c8/.github/README.md",
+          "sourceSha256": "72d27b822b984c2a66092ef5b2a85f5548d9f456aa74e8384238af138a191cca",
+          "sourceSpan": {
+            "startByte": 0,
+            "endByte": 10524
+          },
+          "sourcePartial": false,
+          "originalBytes": 10524
+        },
+        {
+          "targetId": "R1",
+          "repoId": 1379574728,
+          "commit": "fdf8d28c811b0b67016d815df674cc61603c33c8",
+          "path": "cn/app/src/main/java/com/jev/probe/jev/JudgeClient.kt",
+          "form": "source",
+          "span": {
+            "startByte": 0,
+            "endByte": 500
+          },
+          "spanSha256": "350c527ac2be5a2b6ecaa0a144d91e702a0ad1c4298d5705664f755d97b8639b",
+          "partial": false,
+          "id": "Mc13bfda0ae850d94",
+          "url": "https://github.com/jev-chat/jev-chat-jarvis/blob/fdf8d28c811b0b67016d815df674cc61603c33c8/cn/app/src/main/java/com/jev/probe/jev/JudgeClient.kt",
+          "sourceSha256": "3bfda0ae850d9487a5c86a178e0020a49b9fc33c3f2fe3670bb1620b8b736a69",
+          "sourceSpan": {
+            "startByte": 0,
+            "endByte": 5594
+          },
+          "sourcePartial": false,
+          "originalBytes": 5594
+        },
+        {
+          "targetId": "R1",
+          "repoId": 1379574728,
+          "commit": "fdf8d28c811b0b67016d815df674cc61603c33c8",
+          "path": "cn/app/src/main/java/com/jev/probe/jev/JevQuestions.kt",
+          "form": "source",
+          "span": {
+            "startByte": 0,
+            "endByte": 500
+          },
+          "spanSha256": "811718d05a4e25e09dc659e227469ccdec462cbb0004407997fdcaf653a4ec39",
+          "partial": false,
+          "id": "Mc2acad8a98e38f9d",
+          "url": "https://github.com/jev-chat/jev-chat-jarvis/blob/fdf8d28c811b0b67016d815df674cc61603c33c8/cn/app/src/main/java/com/jev/probe/jev/JevQuestions.kt",
+          "sourceSha256": "acad8a98e38f9d50da8b22001470a31ea873dedcf193e0c0ca734f810fa4f73b",
+          "sourceSpan": {
+            "startByte": 0,
+            "endByte": 14573
+          },
+          "sourcePartial": false,
+          "originalBytes": 14573
+        }
+      ],
+      "reviewRevision": "d97e7cf4b2cebf0d9171e4756f56fb74f2133eafbeba8258b772470259c75ac8",
+      "model": {
+        "requested": "deepseek-flash",
+        "response": "deepseek-flash",
+        "systemFingerprint": "aeb56401ca74e127821c4f9126dcb669"
+      },
+      "decision": "admit",
+      "catalogKind": "integration",
+      "jevRelation": "implemented",
+      "reviewBasis": "mixed",
+      "claims": [
+        {
+          "type": "purpose",
+          "text": "安卓聊天副驾，读取对话并由 Jev 判断意图、危险等级与下一步动作，再生成候选回复并重排填入。",
+          "support": [
+            "Mf172d27b822b984c"
+          ]
+        },
+        {
+          "type": "mechanism",
+          "text": "通过 JudgeClient.kt 与 JevQuestions.kt 调用 /v1/systemone 接口，执行 Choice、Score 与 Noul 原语决策。",
+          "support": [
+            "Mc13bfda0ae850d94",
+            "Mc2acad8a98e38f9d"
+          ]
+        }
+      ],
+      "conflicts": []
+    },
+    "ingestion": {
+      "repository": "logicrw/awesome-jev-projects",
+      "issueNumber": 119,
+      "issueBodySha256": "4325226a867696cb17783bb5bfcbc087298c964a9ab21802feadee7a1581b11c",
+      "issueTitleSha256": "f1352191b6b37d7ffb9b5452107f1906fe33a169c4ef7b84692da523e5bbcf2b",
+      "reviewRevision": "d97e7cf4b2cebf0d9171e4756f56fb74f2133eafbeba8258b772470259c75ac8",
+      "issueUrl": "https://github.com/logicrw/awesome-jev-projects/issues/119"
+    },
+    "licenseStatus": "declared",
+    "id": "jev-chat:jev-chat-jarvis",
+    "author": "jev-chat",
+    "url": "https://github.com/jev-chat/jev-chat-jarvis",
+    "repoId": 1379574728
+  },
+  {
+    "name": "jev-chat-jarvis-ios",
+    "full_name": "jev-chat/jev-chat-jarvis-ios",
+    "html_url": "https://github.com/jev-chat/jev-chat-jarvis-ios",
+    "description": "iOS 键盘：在任何聊天 App 里直接出意图、风险与候选回复——复制消息，键盘上见分晓。Swift / SwiftUI，中英双语。An iOS keyboard that drafts replies inside any chat app.",
+    "category": "Voice & Conversation",
+    "catalogKind": "integration",
+    "jevRelation": "implemented",
+    "reviewBasis": "mixed",
+    "plainSummary": "iOS 键盘版聊天副驾，长按复制消息即可调用 Jev 进行意图分类、风险分级与回复建议排序。",
+    "plainSummaryEn": "iOS keyboard chat copilot that analyzes copied messages with Jev for intent classification, risk scoring, and reply ranking.",
+    "jevDecisionPoint": "iOS 键盘版聊天副驾，长按复制消息即可调用 Jev 进行意图分类、风险分级与回复建议排序。",
+    "jevDecisionPointEn": "iOS keyboard chat copilot that analyzes copied messages with Jev for intent classification, risk scoring, and reply ranking.",
+    "highlightBenefit": "材料已绑定固定版本；收录不代表独立运行或性能验证。",
+    "highlightBenefitEn": "References are pinned to a fixed revision; inclusion is not independent runtime or performance verification.",
+    "tags": [
+      "desktop-os",
+      "typed-decisions"
+    ],
+    "summarySource": "ai-material-review",
+    "stars": 44,
+    "forks": 29,
+    "openIssues": 3,
+    "license": {
+      "status": "identified",
+      "spdx": "MIT",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "createdAt": "2026-09-23T04:36:03Z",
+    "lastCommitAt": "2026-09-28T12:01:14Z",
+    "headSha": "f4b64cc655415091180e4c0573a2a82ca4319212",
+    "metadataFetchedAt": "2026-10-15T09:26:54.890Z",
+    "metadataStatus": "ok",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/332283779?v=4",
+    "verificationStatus": "material-reviewed",
+    "runtimeVerified": false,
+    "discoveredAt": "2026-10-15T09:26:54.890Z",
+    "claimStatus": "模型依据固定版本材料判断生态类型与 Jev 关联；未经本站独立运行、安全或性能验证。",
+    "claimStatusEn": "A model assessed the ecosystem role and Jev relationship from pinned materials; runtime, security and performance are not independently verified.",
+    "evidence": [
+      {
+        "url": "https://github.com/jev-chat/jev-chat-jarvis-ios/blob/f4b64cc655415091180e4c0573a2a82ca4319212/Shared/JevJudge.swift",
+        "note": "固定版本的相关材料"
+      },
+      {
+        "url": "https://github.com/jev-chat/jev-chat-jarvis-ios/blob/f4b64cc655415091180e4c0573a2a82ca4319212/Shared/JevPipeline.swift",
+        "note": "固定版本的相关材料"
+      },
+      {
+        "url": "https://github.com/jev-chat/jev-chat-jarvis-ios/blob/f4b64cc655415091180e4c0573a2a82ca4319212/README.md",
+        "note": "固定版本的相关材料"
+      }
+    ],
+    "materialReview": {
+      "targets": [
+        {
+          "id": "R1",
+          "repository": "jev-chat/jev-chat-jarvis-ios",
+          "commit": "f4b64cc655415091180e4c0573a2a82ca4319212",
+          "repoId": 1382754564,
+          "available": true
+        }
+      ],
+      "sources": [
+        {
+          "targetId": "R1",
+          "repoId": 1382754564,
+          "commit": "f4b64cc655415091180e4c0573a2a82ca4319212",
+          "path": "README.md",
+          "url": "https://github.com/jev-chat/jev-chat-jarvis-ios/blob/f4b64cc655415091180e4c0573a2a82ca4319212/README.md",
+          "hash": "10be6fd9d836076732346a23c78d5885634e54c138529682330f39a91433fcbd",
+          "sourceSpan": {
+            "startByte": 0,
+            "endByte": 9001
+          },
+          "sourcePartial": false,
+          "originalBytes": 9001
+        },
+        {
+          "targetId": "R1",
+          "repoId": 1382754564,
+          "commit": "f4b64cc655415091180e4c0573a2a82ca4319212",
+          "path": "Shared/JevJudge.swift",
+          "url": "https://github.com/jev-chat/jev-chat-jarvis-ios/blob/f4b64cc655415091180e4c0573a2a82ca4319212/Shared/JevJudge.swift",
+          "hash": "1e460a86d743e3c3cd68f996748e2741a6a3d443f8ee69900502abcefe5faa16",
+          "sourceSpan": {
+            "startByte": 0,
+            "endByte": 7526
+          },
+          "sourcePartial": false,
+          "originalBytes": 7526
+        },
+        {
+          "targetId": "R1",
+          "repoId": 1382754564,
+          "commit": "f4b64cc655415091180e4c0573a2a82ca4319212",
+          "path": "Shared/JevPipeline.swift",
+          "url": "https://github.com/jev-chat/jev-chat-jarvis-ios/blob/f4b64cc655415091180e4c0573a2a82ca4319212/Shared/JevPipeline.swift",
+          "hash": "ad44e48a429a0ea5915e40c37b31fefd64db13a7a5b7ecec928d34455c2c0b94",
+          "sourceSpan": {
+            "startByte": 0,
+            "endByte": 13168
+          },
+          "sourcePartial": false,
+          "originalBytes": 13168
+        }
+      ],
+      "materials": [
+        {
+          "targetId": "R1",
+          "repoId": 1382754564,
+          "commit": "f4b64cc655415091180e4c0573a2a82ca4319212",
+          "path": "README.md",
+          "form": "documentation",
+          "span": {
+            "startByte": 0,
+            "endByte": 500
+          },
+          "spanSha256": "4b0a4c534b7475079c7088cd7c1328d5b948bb84505ed302305ce69cceed64a4",
+          "partial": false,
+          "id": "Mf110be6fd9d83607",
+          "url": "https://github.com/jev-chat/jev-chat-jarvis-ios/blob/f4b64cc655415091180e4c0573a2a82ca4319212/README.md",
+          "sourceSha256": "10be6fd9d836076732346a23c78d5885634e54c138529682330f39a91433fcbd",
+          "sourceSpan": {
+            "startByte": 0,
+            "endByte": 9001
+          },
+          "sourcePartial": false,
+          "originalBytes": 9001
+        },
+        {
+          "targetId": "R1",
+          "repoId": 1382754564,
+          "commit": "f4b64cc655415091180e4c0573a2a82ca4319212",
+          "path": "Shared/JevJudge.swift",
+          "form": "source",
+          "span": {
+            "startByte": 0,
+            "endByte": 500
+          },
+          "spanSha256": "49a33406ab45ebd344b48f585cc71635f587bce996400df835084cc1f538c5c5",
+          "partial": false,
+          "id": "Mc11e460a86d743e3",
+          "url": "https://github.com/jev-chat/jev-chat-jarvis-ios/blob/f4b64cc655415091180e4c0573a2a82ca4319212/Shared/JevJudge.swift",
+          "sourceSha256": "1e460a86d743e3c3cd68f996748e2741a6a3d443f8ee69900502abcefe5faa16",
+          "sourceSpan": {
+            "startByte": 0,
+            "endByte": 7526
+          },
+          "sourcePartial": false,
+          "originalBytes": 7526
+        },
+        {
+          "targetId": "R1",
+          "repoId": 1382754564,
+          "commit": "f4b64cc655415091180e4c0573a2a82ca4319212",
+          "path": "Shared/JevPipeline.swift",
+          "form": "source",
+          "span": {
+            "startByte": 0,
+            "endByte": 500
+          },
+          "spanSha256": "60c2895ba5cb2eb485a827149e3971efd6e957e75a729856843578b065bab520",
+          "partial": false,
+          "id": "Mc2ad44e48a429a0e",
+          "url": "https://github.com/jev-chat/jev-chat-jarvis-ios/blob/f4b64cc655415091180e4c0573a2a82ca4319212/Shared/JevPipeline.swift",
+          "sourceSha256": "ad44e48a429a0ea5915e40c37b31fefd64db13a7a5b7ecec928d34455c2c0b94",
+          "sourceSpan": {
+            "startByte": 0,
+            "endByte": 13168
+          },
+          "sourcePartial": false,
+          "originalBytes": 13168
+        }
+      ],
+      "reviewRevision": "d97e7cf4b2cebf0d9171e4756f56fb74f2133eafbeba8258b772470259c75ac8",
+      "model": {
+        "requested": "deepseek-flash",
+        "response": "deepseek-flash",
+        "systemFingerprint": "aeb56401ca74e127821c4f9126dcb669"
+      },
+      "decision": "admit",
+      "catalogKind": "integration",
+      "jevRelation": "implemented",
+      "reviewBasis": "mixed",
+      "claims": [
+        {
+          "type": "purpose",
+          "text": "iOS 键盘版聊天副驾，在聊天 App 中长按复制消息调用 Jev 提供 8 类意图与风险分级候选回复。",
+          "support": [
+            "Mf110be6fd9d83607"
+          ]
+        },
+        {
+          "type": "mechanism",
+          "text": "判断层走 TypeSafe Jev systemone 接口，生成层支持 OpenAI / Anthropic 兼容端点，Swift + SwiftUI 实现。",
+          "support": [
+            "Mc11e460a86d743e3",
+            "Mc2ad44e48a429a0e"
+          ]
+        }
+      ],
+      "conflicts": []
+    },
+    "ingestion": {
+      "repository": "logicrw/awesome-jev-projects",
+      "issueNumber": 121,
+      "issueBodySha256": "8ae8486e6678ba8c4a4927768d7d4810cd1c6d76b6ce6f376cbf3fd7569014b4",
+      "issueTitleSha256": "9e9a2804325e6b8ea043e57cc1254a87a9bdc3dbc0b527bd2f7bd9088983b37e",
+      "reviewRevision": "d97e7cf4b2cebf0d9171e4756f56fb74f2133eafbeba8258b772470259c75ac8",
+      "issueUrl": "https://github.com/logicrw/awesome-jev-projects/issues/121"
+    },
+    "licenseStatus": "declared",
+    "id": "jev-chat:jev-chat-jarvis-ios",
+    "author": "jev-chat",
+    "url": "https://github.com/jev-chat/jev-chat-jarvis-ios",
+    "repoId": 1382754564
   }
 ]
