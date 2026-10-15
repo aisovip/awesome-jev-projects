@@ -21590,10 +21590,10 @@
       "url": "https://api.github.com/licenses/mit"
     },
     "createdAt": "2026-09-11T17:31:16Z",
-    "updatedAt": "2026-10-11T17:45:46Z",
-    "pushedAt": "2026-10-11T17:45:42Z",
-    "lastCommitAt": "2026-10-11T17:45:41Z",
-    "lastSyncedAt": "2026-10-13T13:57:11.384Z",
+    "updatedAt": "2026-10-14T23:30:49Z",
+    "pushedAt": "2026-10-14T23:30:46Z",
+    "lastCommitAt": "2026-10-14T23:30:44Z",
+    "lastSyncedAt": "2026-10-15T16:42:52.857Z",
     "avatarUrl": "https://avatars.githubusercontent.com/u/269550784?v=4",
     "language": "Python",
     "topics": [
@@ -21619,7 +21619,7 @@
       "typesafe"
     ],
     "archived": false,
-    "headSha": "66f134d9f069c651fa007be6efe6cd53b1c33826",
+    "headSha": "58ec00d0b8e83a43e81a8bb85f0f6c37a3e320c5",
     "sourceUrl": "https://github.com/wundercorp/loki/blob/5f1aea7c786f5ea8c5f9b9f2db2b791ec326c535/agent/jev_auto_router.py",
     "sourcePath": "agent/jev_auto_router.py",
     "evidenceLines": [],
@@ -21627,7 +21627,7 @@
     "runtimeVerified": false,
     "metadataStatus": "ok",
     "summarySource": "human-reviewed",
-    "metadataFetchedAt": "2026-10-13T13:57:11.384Z",
+    "metadataFetchedAt": "2026-10-15T16:42:52.857Z",
     "evidence": [
       {
         "url": "https://github.com/wundercorp/loki/blob/5f1aea7c786f5ea8c5f9b9f2db2b791ec326c535/README.md",
@@ -21719,7 +21719,7 @@
     "updatedAt": "2026-10-12T11:56:25Z",
     "pushedAt": "2026-10-13T01:38:19Z",
     "lastCommitAt": "2026-09-18T15:08:48Z",
-    "lastSyncedAt": "2026-10-13T13:57:14.446Z",
+    "lastSyncedAt": "2026-10-15T16:42:55.771Z",
     "avatarUrl": "https://avatars.githubusercontent.com/u/8854211?v=4",
     "language": "TypeScript",
     "topics": [
@@ -21748,7 +21748,7 @@
     "runtimeVerified": false,
     "metadataStatus": "ok",
     "summarySource": "human-reviewed",
-    "metadataFetchedAt": "2026-10-13T13:57:14.446Z",
+    "metadataFetchedAt": "2026-10-15T16:42:55.771Z",
     "evidence": [
       {
         "url": "https://github.com/DanRWilloughby/snifftest/blob/240653e2b082c114c38fed50a42e7eb311e21219/src/jev.ts#L50",
@@ -21845,7 +21845,7 @@
     "updatedAt": "2026-10-07T21:55:45Z",
     "pushedAt": "2026-09-19T23:15:49Z",
     "lastCommitAt": "2026-09-19T23:15:39Z",
-    "lastSyncedAt": "2026-10-13T13:57:17.520Z",
+    "lastSyncedAt": "2026-10-15T16:42:58.850Z",
     "avatarUrl": "https://avatars.githubusercontent.com/u/22985657?v=4",
     "language": "TypeScript",
     "topics": [
@@ -21865,7 +21865,7 @@
     "runtimeVerified": false,
     "metadataStatus": "ok",
     "summarySource": "human-reviewed",
-    "metadataFetchedAt": "2026-10-13T13:57:17.520Z",
+    "metadataFetchedAt": "2026-10-15T16:42:58.850Z",
     "evidence": [
       {
         "url": "https://github.com/AlbionaHoti/refgarden/blob/6affd25a31dd0ed39fc9f71508732fb7ee0b8acc/README.md",
@@ -21958,7 +21958,7 @@
     "repoId": 1373742699,
     "stars": 27,
     "forks": 6,
-    "openIssues": 6,
+    "openIssues": 7,
     "license": {
       "status": "identified",
       "spdx": "MIT",
@@ -21969,7 +21969,7 @@
     "updatedAt": "2026-10-07T15:59:35Z",
     "pushedAt": "2026-10-08T23:36:27Z",
     "lastCommitAt": "2026-09-24T12:34:37Z",
-    "lastSyncedAt": "2026-10-13T13:57:20.405Z",
+    "lastSyncedAt": "2026-10-15T16:43:01.853Z",
     "avatarUrl": "https://avatars.githubusercontent.com/u/5439863?v=4",
     "language": "TypeScript",
     "topics": [
@@ -21995,7 +21995,7 @@
     "runtimeVerified": false,
     "metadataStatus": "ok",
     "summarySource": "human-reviewed",
-    "metadataFetchedAt": "2026-10-13T13:57:20.405Z",
+    "metadataFetchedAt": "2026-10-15T16:43:01.853Z",
     "evidence": [
       {
         "url": "https://github.com/shiftynick/jev-axi/blob/db4b6fe56f962463d3924019bd038462a2190b2d/src/client.ts",
@@ -22078,7 +22078,7 @@
     "updatedAt": "2026-10-05T17:41:23Z",
     "pushedAt": "2026-09-21T15:09:15Z",
     "lastCommitAt": "2026-09-21T15:09:15Z",
-    "lastSyncedAt": "2026-10-13T13:57:23.474Z",
+    "lastSyncedAt": "2026-10-15T16:43:04.852Z",
     "avatarUrl": "https://avatars.githubusercontent.com/u/60716910?v=4",
     "language": "Python",
     "topics": [
@@ -22102,7 +22102,7 @@
     "runtimeVerified": false,
     "metadataStatus": "ok",
     "summarySource": "human-reviewed",
-    "metadataFetchedAt": "2026-10-13T13:57:23.474Z",
+    "metadataFetchedAt": "2026-10-15T16:43:04.852Z",
     "evidence": [
       {
         "url": "https://github.com/DECRUX9812/typesafe-skill-router/blob/e6cdac26f9ed588b4a94b8a2f7f9f026e1b9faf3/README.md",
@@ -22173,7 +22173,7 @@
     "repoId": 1375654967,
     "stars": 0,
     "forks": 0,
-    "openIssues": 0,
+    "openIssues": 1,
     "license": {
       "status": "identified",
       "spdx": "MIT",
@@ -22181,11 +22181,11 @@
       "url": "https://api.github.com/licenses/mit"
     },
     "createdAt": "2026-09-18T09:31:47Z",
-    "updatedAt": "2026-09-30T12:38:16Z",
+    "updatedAt": "2026-10-14T01:30:06Z",
     "pushedAt": "2026-09-18T09:31:51Z",
     "lastCommitAt": "2026-09-18T09:31:34Z",
-    "lastSyncedAt": "2026-10-13T13:57:26.430Z",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/41659814?v=4",
+    "lastSyncedAt": "2026-10-15T16:43:10.807Z",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/252011941?v=4",
     "language": "Python",
     "topics": [],
     "archived": false,
@@ -22200,7 +22200,7 @@
     "runtimeVerified": false,
     "metadataStatus": "ok",
     "summarySource": "human-reviewed",
-    "metadataFetchedAt": "2026-10-13T13:57:26.430Z",
+    "metadataFetchedAt": "2026-10-15T16:43:10.807Z",
     "evidence": [
       {
         "url": "https://github.com/jujumilk3/jev-calibration-audit/blob/daab9e2c2d5d5683bf07f3482deb653c26856219/src/jev_audit/client.py#L12",
@@ -22287,7 +22287,7 @@
     "updatedAt": "2026-09-30T12:38:16Z",
     "pushedAt": "2026-09-18T13:30:20Z",
     "lastCommitAt": "2026-09-18T13:30:19Z",
-    "lastSyncedAt": "2026-10-13T13:57:29.616Z",
+    "lastSyncedAt": "2026-10-15T16:43:13.860Z",
     "avatarUrl": "https://avatars.githubusercontent.com/u/51629451?v=4",
     "language": "TypeScript",
     "topics": [],
@@ -22300,7 +22300,7 @@
     "runtimeVerified": false,
     "metadataStatus": "ok",
     "summarySource": "human-reviewed",
-    "metadataFetchedAt": "2026-10-13T13:57:29.616Z",
+    "metadataFetchedAt": "2026-10-15T16:43:13.860Z",
     "evidence": [
       {
         "url": "https://github.com/Olli0103/openclaw-typesafe-ai/blob/985718448bf38a3a58d18389d376621b9bc54615/README.md",
@@ -22393,7 +22393,7 @@
     "updatedAt": "2026-10-01T21:18:08Z",
     "pushedAt": "2026-10-05T16:54:55Z",
     "lastCommitAt": "2026-09-25T14:49:53Z",
-    "lastSyncedAt": "2026-10-13T13:57:32.459Z",
+    "lastSyncedAt": "2026-10-15T16:43:16.932Z",
     "avatarUrl": "https://avatars.githubusercontent.com/u/259101885?v=4",
     "language": "Java",
     "topics": [
@@ -22414,7 +22414,7 @@
     "runtimeVerified": false,
     "metadataStatus": "ok",
     "summarySource": "human-reviewed",
-    "metadataFetchedAt": "2026-10-13T13:57:32.459Z",
+    "metadataFetchedAt": "2026-10-15T16:43:16.932Z",
     "evidence": [
       {
         "url": "https://github.com/Premo-Cloud/typesafe-sdk-java/blob/833893bc46aa3de2e07352a729ff618ea07b6350/typesafe-sdk/src/main/java/io/github/premocloud/typesafe/TypeSafeClient.java",
@@ -22495,7 +22495,7 @@
     "updatedAt": "2026-09-19T03:26:17Z",
     "pushedAt": "2026-09-19T03:37:45Z",
     "lastCommitAt": "2026-09-19T03:16:51Z",
-    "lastSyncedAt": "2026-10-13T13:57:35.527Z",
+    "lastSyncedAt": "2026-10-15T16:43:19.858Z",
     "avatarUrl": "https://avatars.githubusercontent.com/u/166545110?v=4",
     "language": "Go",
     "topics": [
@@ -22514,7 +22514,7 @@
     "runtimeVerified": false,
     "metadataStatus": "ok",
     "summarySource": "human-reviewed",
-    "metadataFetchedAt": "2026-10-13T13:57:35.527Z",
+    "metadataFetchedAt": "2026-10-15T16:43:19.858Z",
     "evidence": [
       {
         "url": "https://github.com/2389-research/typesafe-go/blob/1f9ac50bab4921862327dadc45871bc24b381b3e/README.md",
@@ -22596,7 +22596,7 @@
     "updatedAt": "2026-09-30T12:37:45Z",
     "pushedAt": "2026-09-17T02:07:28Z",
     "lastCommitAt": "2026-09-17T02:06:23Z",
-    "lastSyncedAt": "2026-10-13T13:57:38.461Z",
+    "lastSyncedAt": "2026-10-15T16:43:22.893Z",
     "avatarUrl": "https://avatars.githubusercontent.com/u/745064?v=4",
     "language": "Go",
     "topics": [],
@@ -22612,7 +22612,7 @@
     "runtimeVerified": false,
     "metadataStatus": "ok",
     "summarySource": "human-reviewed",
-    "metadataFetchedAt": "2026-10-13T13:57:38.461Z",
+    "metadataFetchedAt": "2026-10-15T16:43:22.893Z",
     "evidence": [
       {
         "url": "https://github.com/cole-gillespie/typesafe-go/blob/188247d639e8aacecd7a0d1aceaf8a4c66f8fa57/client.go#L21",
@@ -22687,9 +22687,9 @@
     "metricContext": "",
     "repo": "DevMortimer/pi-typesafe",
     "repoId": 1372381380,
-    "stars": 47,
+    "stars": 48,
     "forks": 13,
-    "openIssues": 5,
+    "openIssues": 6,
     "license": {
       "status": "identified",
       "spdx": "MIT",
@@ -22697,15 +22697,15 @@
       "url": "https://api.github.com/licenses/mit"
     },
     "createdAt": "2026-09-16T01:35:23Z",
-    "updatedAt": "2026-10-07T23:12:50Z",
-    "pushedAt": "2026-10-07T23:24:47Z",
-    "lastCommitAt": "2026-10-04T00:22:24Z",
-    "lastSyncedAt": "2026-10-13T13:57:41.421Z",
+    "updatedAt": "2026-10-15T03:18:21Z",
+    "pushedAt": "2026-10-15T03:26:00Z",
+    "lastCommitAt": "2026-10-15T03:18:16Z",
+    "lastSyncedAt": "2026-10-15T16:43:25.947Z",
     "avatarUrl": "https://avatars.githubusercontent.com/u/161127243?v=4",
     "language": "TypeScript",
     "topics": [],
     "archived": false,
-    "headSha": "56373f0235e65c094bad11691aff3f09ecbfa5b0",
+    "headSha": "058a18d442e2badf2cb17733e70459775a800224",
     "sourceUrl": "https://github.com/DevMortimer/pi-typesafe/blob/b822b8a0e4d729bd0db055a72581f21da686dd42/src/client.ts",
     "sourcePath": "src/client.ts",
     "evidenceLines": [],
@@ -22713,7 +22713,7 @@
     "runtimeVerified": false,
     "metadataStatus": "ok",
     "summarySource": "human-reviewed",
-    "metadataFetchedAt": "2026-10-13T13:57:41.421Z",
+    "metadataFetchedAt": "2026-10-15T16:43:25.947Z",
     "evidence": [
       {
         "url": "https://github.com/DevMortimer/pi-typesafe/blob/b822b8a0e4d729bd0db055a72581f21da686dd42/README.md",
@@ -22806,7 +22806,7 @@
     "updatedAt": "2026-09-19T09:39:44Z",
     "pushedAt": "2026-09-18T13:47:07Z",
     "lastCommitAt": "2026-09-18T13:47:03Z",
-    "lastSyncedAt": "2026-10-13T13:57:44.507Z",
+    "lastSyncedAt": "2026-10-15T16:43:29.028Z",
     "avatarUrl": "https://avatars.githubusercontent.com/u/5731772?v=4",
     "language": "Swift",
     "topics": [],
@@ -22819,7 +22819,7 @@
     "runtimeVerified": false,
     "metadataStatus": "ok",
     "summarySource": "human-reviewed",
-    "metadataFetchedAt": "2026-10-13T13:57:44.507Z",
+    "metadataFetchedAt": "2026-10-15T16:43:29.028Z",
     "evidence": [
       {
         "url": "https://github.com/marandaneto/typesafe-sdk-swift/blob/5a8565791b56d6ba874de9f7ea206b8a1a53c794/Sources/TypeSafe/TypeSafeClient.swift",
@@ -22900,7 +22900,7 @@
     "updatedAt": "2026-09-30T12:37:26Z",
     "pushedAt": "2026-09-29T12:14:29Z",
     "lastCommitAt": "2026-09-29T12:14:29Z",
-    "lastSyncedAt": "2026-10-13T13:57:47.451Z",
+    "lastSyncedAt": "2026-10-15T16:43:31.940Z",
     "avatarUrl": "https://avatars.githubusercontent.com/u/28816690?v=4",
     "language": "Rust",
     "topics": [],
@@ -22913,7 +22913,7 @@
     "runtimeVerified": false,
     "metadataStatus": "ok",
     "summarySource": "human-reviewed",
-    "metadataFetchedAt": "2026-10-13T13:57:47.451Z",
+    "metadataFetchedAt": "2026-10-15T16:43:31.940Z",
     "evidence": [
       {
         "url": "https://github.com/codeitlikemiley/typesafe-sdk-rust/blob/e7050df6baa611bc9088f1a361b4b90e8571929d/README.md",
@@ -22995,7 +22995,7 @@
     "updatedAt": "2026-09-30T12:37:45Z",
     "pushedAt": "2026-09-17T03:25:25Z",
     "lastCommitAt": "2026-09-17T02:48:48Z",
-    "lastSyncedAt": "2026-10-13T13:57:50.420Z",
+    "lastSyncedAt": "2026-10-15T16:43:34.821Z",
     "avatarUrl": "https://avatars.githubusercontent.com/u/4212297?v=4",
     "language": "PHP",
     "topics": [],
@@ -23011,7 +23011,7 @@
     "runtimeVerified": false,
     "metadataStatus": "ok",
     "summarySource": "human-reviewed",
-    "metadataFetchedAt": "2026-10-13T13:57:50.420Z",
+    "metadataFetchedAt": "2026-10-15T16:43:34.821Z",
     "evidence": [
       {
         "url": "https://github.com/Butochnikov/typesafe-sdk-php/blob/d44db82dbf4ff601b123731b517fba1ca9092278/src/TypeSafeClient.php#L32",
@@ -23106,8 +23106,8 @@
     "repo": "typesafe-ai/typesafe-sdk-js",
     "repoId": 1357635350,
     "stars": 276,
-    "forks": 39,
-    "openIssues": 18,
+    "forks": 42,
+    "openIssues": 19,
     "license": {
       "status": "identified",
       "spdx": "MIT",
@@ -23115,15 +23115,15 @@
       "url": "https://api.github.com/licenses/mit"
     },
     "createdAt": "2026-09-04T22:16:47Z",
-    "updatedAt": "2026-10-12T16:00:41Z",
-    "pushedAt": "2026-09-15T18:16:49Z",
-    "lastCommitAt": "2026-09-15T18:16:33Z",
-    "lastSyncedAt": "2026-10-13T13:57:53.459Z",
+    "updatedAt": "2026-10-14T21:21:01Z",
+    "pushedAt": "2026-10-14T21:20:57Z",
+    "lastCommitAt": "2026-10-14T21:20:38Z",
+    "lastSyncedAt": "2026-10-15T16:43:37.792Z",
     "avatarUrl": "https://avatars.githubusercontent.com/u/171090879?v=4",
     "language": "TypeScript",
     "topics": [],
     "archived": false,
-    "headSha": "66880ccded6cb642dc1809620c2b108c33730214",
+    "headSha": "b844cd1aca12855a5d24a2df52a1401c86e7d37a",
     "sourceUrl": "https://github.com/typesafe-ai/typesafe-sdk-js/blob/66880ccded6cb642dc1809620c2b108c33730214/src/client.ts",
     "sourcePath": "src/client.ts",
     "evidenceLines": [],
@@ -23131,7 +23131,7 @@
     "runtimeVerified": false,
     "metadataStatus": "ok",
     "summarySource": "human-reviewed",
-    "metadataFetchedAt": "2026-10-13T13:57:53.459Z",
+    "metadataFetchedAt": "2026-10-15T16:43:37.792Z",
     "evidence": [
       {
         "url": "https://github.com/typesafe-ai/typesafe-sdk-js/blob/66880ccded6cb642dc1809620c2b108c33730214/README.md",
@@ -23211,9 +23211,9 @@
     "metricContext": "",
     "repo": "wy-coliney/jev-browser-use",
     "repoId": 1375500090,
-    "stars": 1152,
-    "forks": 38,
-    "openIssues": 5,
+    "stars": 1159,
+    "forks": 36,
+    "openIssues": 6,
     "license": {
       "status": "identified",
       "spdx": "MIT",
@@ -23221,10 +23221,10 @@
       "url": "https://api.github.com/licenses/mit"
     },
     "createdAt": "2026-09-18T06:58:34Z",
-    "updatedAt": "2026-10-13T13:06:11Z",
+    "updatedAt": "2026-10-15T16:17:51Z",
     "pushedAt": "2026-09-23T04:01:55Z",
     "lastCommitAt": "2026-09-23T04:01:55Z",
-    "lastSyncedAt": "2026-10-13T13:57:56.392Z",
+    "lastSyncedAt": "2026-10-15T16:43:40.834Z",
     "avatarUrl": "https://avatars.githubusercontent.com/u/30455008?v=4",
     "language": "JavaScript",
     "topics": [],
@@ -23237,7 +23237,7 @@
     "runtimeVerified": false,
     "metadataStatus": "ok",
     "summarySource": "human-reviewed",
-    "metadataFetchedAt": "2026-10-13T13:57:56.392Z",
+    "metadataFetchedAt": "2026-10-15T16:43:40.834Z",
     "evidence": [
       {
         "url": "https://github.com/wy-coliney/jev-browser-use/blob/f14b60e0ae1ee90cd73eb6650e30a666a84c021a/skills/jev-browser-use/bridge.mjs",
@@ -23320,7 +23320,7 @@
     "updatedAt": "2026-09-29T01:13:55Z",
     "pushedAt": "2026-09-29T01:13:51Z",
     "lastCommitAt": "2026-09-29T01:09:31Z",
-    "lastSyncedAt": "2026-10-13T13:57:59.429Z",
+    "lastSyncedAt": "2026-10-15T16:43:43.909Z",
     "avatarUrl": "https://avatars.githubusercontent.com/u/2905922?v=4",
     "language": "Go",
     "topics": [],
@@ -23333,7 +23333,7 @@
     "runtimeVerified": false,
     "metadataStatus": "ok",
     "summarySource": "human-reviewed",
-    "metadataFetchedAt": "2026-10-13T13:57:59.429Z",
+    "metadataFetchedAt": "2026-10-15T16:43:43.909Z",
     "evidence": [
       {
         "url": "https://github.com/bensyverson/goodall/blob/a612f04a712cf6c68926b780bd98e5087c687224/README.md",
@@ -23415,7 +23415,7 @@
     "updatedAt": "2026-09-30T12:37:24Z",
     "pushedAt": "2026-09-16T05:56:08Z",
     "lastCommitAt": "2026-09-16T05:55:49Z",
-    "lastSyncedAt": "2026-10-13T13:58:02.426Z",
+    "lastSyncedAt": "2026-10-15T16:43:46.856Z",
     "avatarUrl": "https://avatars.githubusercontent.com/u/55647468?v=4",
     "language": "Go",
     "topics": [],
@@ -23431,7 +23431,7 @@
     "runtimeVerified": false,
     "metadataStatus": "ok",
     "summarySource": "human-reviewed",
-    "metadataFetchedAt": "2026-10-13T13:58:02.426Z",
+    "metadataFetchedAt": "2026-10-15T16:43:46.856Z",
     "evidence": [
       {
         "url": "https://github.com/Gaurav-Gosain/jev-go/blob/c9867e4afad0ddfaf4b9deb31038218495712fd0/client.go#L20",
@@ -23507,7 +23507,7 @@
     "repoId": 1375217387,
     "stars": 17,
     "forks": 2,
-    "openIssues": 0,
+    "openIssues": 1,
     "license": {
       "status": "identified",
       "spdx": "MIT",
@@ -23516,9 +23516,9 @@
     },
     "createdAt": "2026-09-18T00:56:38Z",
     "updatedAt": "2026-10-11T21:43:04Z",
-    "pushedAt": "2026-10-08T04:16:15Z",
+    "pushedAt": "2026-10-15T15:42:53Z",
     "lastCommitAt": "2026-10-08T04:15:12Z",
-    "lastSyncedAt": "2026-10-13T13:58:05.510Z",
+    "lastSyncedAt": "2026-10-15T16:43:49.925Z",
     "avatarUrl": "https://avatars.githubusercontent.com/u/748949?v=4",
     "language": "Swift",
     "topics": [],
@@ -23531,7 +23531,7 @@
     "runtimeVerified": false,
     "metadataStatus": "ok",
     "summarySource": "human-reviewed",
-    "metadataFetchedAt": "2026-10-13T13:58:05.510Z",
+    "metadataFetchedAt": "2026-10-15T16:43:49.925Z",
     "evidence": [
       {
         "url": "https://github.com/ainame/swift-typesafe/blob/c990db869c10030b98af02e1219f5bca1e2c7cc2/README.md",
@@ -23614,7 +23614,7 @@
     "updatedAt": "2026-09-30T12:37:47Z",
     "pushedAt": "2026-09-20T03:39:40Z",
     "lastCommitAt": "2026-09-20T03:39:38Z",
-    "lastSyncedAt": "2026-10-13T13:58:08.551Z",
+    "lastSyncedAt": "2026-10-15T16:43:52.832Z",
     "avatarUrl": "https://avatars.githubusercontent.com/u/127063941?v=4",
     "language": "Elixir",
     "topics": [
@@ -23647,7 +23647,7 @@
     "runtimeVerified": false,
     "metadataStatus": "ok",
     "summarySource": "human-reviewed",
-    "metadataFetchedAt": "2026-10-13T13:58:08.551Z",
+    "metadataFetchedAt": "2026-10-15T16:43:52.832Z",
     "evidence": [
       {
         "url": "https://github.com/nshkrdotcom/typesafe_sdk/blob/deaedd63882045ea0d8e9273002280a20809e170/lib/typesafe_sdk/generated/system_one.ex",
@@ -23717,7 +23717,7 @@
     "repoId": 1372332438,
     "stars": 15,
     "forks": 4,
-    "openIssues": 4,
+    "openIssues": 5,
     "license": {
       "status": "identified",
       "spdx": "Apache-2.0",
@@ -23728,7 +23728,7 @@
     "updatedAt": "2026-10-10T06:09:50Z",
     "pushedAt": "2026-09-16T13:23:46Z",
     "lastCommitAt": "2026-09-16T13:23:45Z",
-    "lastSyncedAt": "2026-10-13T13:58:11.453Z",
+    "lastSyncedAt": "2026-10-15T16:43:55.894Z",
     "avatarUrl": "https://avatars.githubusercontent.com/u/2097155?v=4",
     "language": "Rust",
     "topics": [],
@@ -23741,7 +23741,7 @@
     "runtimeVerified": false,
     "metadataStatus": "ok",
     "summarySource": "human-reviewed",
-    "metadataFetchedAt": "2026-10-13T13:58:11.453Z",
+    "metadataFetchedAt": "2026-10-15T16:43:55.894Z",
     "evidence": [
       {
         "url": "https://github.com/Twister915/typesafe-ai/blob/d4455efb1d061ae6aac47b40c42ef390182201b1/README.md",
@@ -23831,9 +23831,9 @@
     },
     "createdAt": "2026-09-17T04:42:13Z",
     "updatedAt": "2026-10-02T14:52:53Z",
-    "pushedAt": "2026-10-08T01:55:26Z",
+    "pushedAt": "2026-10-15T01:54:32Z",
     "lastCommitAt": "2026-09-17T05:13:49Z",
-    "lastSyncedAt": "2026-10-13T13:58:14.453Z",
+    "lastSyncedAt": "2026-10-15T16:43:58.876Z",
     "avatarUrl": "https://avatars.githubusercontent.com/u/113929785?v=4",
     "language": "Rust",
     "topics": [
@@ -23855,7 +23855,7 @@
     "runtimeVerified": false,
     "metadataStatus": "ok",
     "summarySource": "human-reviewed",
-    "metadataFetchedAt": "2026-10-13T13:58:14.453Z",
+    "metadataFetchedAt": "2026-10-15T16:43:58.876Z",
     "evidence": [
       {
         "url": "https://github.com/gilljon/typesafe-ai-rs/blob/06f52208c22f63326226446926859174c538e296/src/client.rs#L78",
@@ -23952,7 +23952,7 @@
     "updatedAt": "2026-09-30T12:37:26Z",
     "pushedAt": "2026-10-03T21:02:58Z",
     "lastCommitAt": "2026-09-24T12:23:04Z",
-    "lastSyncedAt": "2026-10-13T13:58:17.548Z",
+    "lastSyncedAt": "2026-10-15T16:44:01.871Z",
     "avatarUrl": "https://avatars.githubusercontent.com/u/2028176?v=4",
     "language": "Ruby",
     "topics": [],
@@ -23965,7 +23965,7 @@
     "runtimeVerified": false,
     "metadataStatus": "ok",
     "summarySource": "human-reviewed",
-    "metadataFetchedAt": "2026-10-13T13:58:17.548Z",
+    "metadataFetchedAt": "2026-10-15T16:44:01.871Z",
     "evidence": [
       {
         "url": "https://github.com/joshmn/typesafe-sdk/blob/abde35d2ebae5d7dda900d1aa122ea5b653f1d9e/README.md",
@@ -24068,7 +24068,7 @@
     "updatedAt": "2026-09-30T12:38:15Z",
     "pushedAt": "2026-09-19T18:10:48Z",
     "lastCommitAt": "2026-09-19T18:10:43Z",
-    "lastSyncedAt": "2026-10-13T13:58:20.418Z",
+    "lastSyncedAt": "2026-10-15T16:44:04.865Z",
     "avatarUrl": "https://avatars.githubusercontent.com/u/37281233?v=4",
     "language": "Go",
     "topics": [],
@@ -24081,7 +24081,7 @@
     "runtimeVerified": false,
     "metadataStatus": "ok",
     "summarySource": "human-reviewed",
-    "metadataFetchedAt": "2026-10-13T13:58:20.418Z",
+    "metadataFetchedAt": "2026-10-15T16:44:04.865Z",
     "evidence": [
       {
         "url": "https://github.com/Tangerg/typesafe-sdk-go/blob/e2f9f8353974fce1d2d2e4dd4283d5e306e8c2a8/client.go",
@@ -24165,7 +24165,7 @@
     "updatedAt": "2026-10-13T06:20:26Z",
     "pushedAt": "2026-10-05T03:38:57Z",
     "lastCommitAt": "2026-10-02T12:03:45Z",
-    "lastSyncedAt": "2026-10-13T13:58:26.380Z",
+    "lastSyncedAt": "2026-10-15T16:44:10.828Z",
     "avatarUrl": "https://avatars.githubusercontent.com/u/218190424?v=4",
     "language": "Python",
     "topics": [],
@@ -24178,7 +24178,7 @@
     "runtimeVerified": false,
     "metadataStatus": "ok",
     "summarySource": "human-reviewed",
-    "metadataFetchedAt": "2026-10-13T13:58:26.380Z",
+    "metadataFetchedAt": "2026-10-15T16:44:10.828Z",
     "evidence": [
       {
         "url": "https://github.com/keeltrace/hermes-jev/blob/4feea5ef45aeb301622f18175ed4cf2e068b99bd/README.md",
@@ -24248,9 +24248,9 @@
     "metricContext": "已核对源码，未独立复测",
     "repo": "Ying-Kai-Liao/jev-browser",
     "repoId": 1373227372,
-    "stars": 112,
-    "forks": 20,
-    "openIssues": 2,
+    "stars": 123,
+    "forks": 22,
+    "openIssues": 1,
     "license": {
       "status": "identified",
       "spdx": "MIT",
@@ -24258,10 +24258,10 @@
       "url": "https://api.github.com/licenses/mit"
     },
     "createdAt": "2026-09-16T15:13:23Z",
-    "updatedAt": "2026-10-13T10:54:03Z",
-    "pushedAt": "2026-10-13T13:21:43Z",
-    "lastCommitAt": "2026-10-13T10:53:58Z",
-    "lastSyncedAt": "2026-10-13T13:58:29.446Z",
+    "updatedAt": "2026-10-15T14:10:03Z",
+    "pushedAt": "2026-10-13T19:14:07Z",
+    "lastCommitAt": "2026-10-13T19:11:27Z",
+    "lastSyncedAt": "2026-10-15T16:44:13.826Z",
     "avatarUrl": "https://avatars.githubusercontent.com/u/62387690?v=4",
     "language": "JavaScript",
     "topics": [
@@ -24272,7 +24272,7 @@
       "playwright"
     ],
     "archived": false,
-    "headSha": "2e4ee3b84ac2b8187c777c430c1d032cac0fd738",
+    "headSha": "31551c3b2fab328a21d2fdaac124602b373382f5",
     "sourceUrl": "https://github.com/Ying-Kai-Liao/jev-browser/blob/578cff6e701a131733d03256078bb559a45ad188/src/jev.mjs#L8",
     "sourcePath": "src/jev.mjs",
     "evidenceLines": [
@@ -24283,7 +24283,7 @@
     "runtimeVerified": false,
     "metadataStatus": "ok",
     "summarySource": "human-reviewed",
-    "metadataFetchedAt": "2026-10-13T13:58:29.446Z",
+    "metadataFetchedAt": "2026-10-15T16:44:13.826Z",
     "evidence": [
       {
         "url": "https://github.com/Ying-Kai-Liao/jev-browser/blob/578cff6e701a131733d03256078bb559a45ad188/src/jev.mjs#L8",
@@ -24357,7 +24357,7 @@
     "metricContext": "",
     "repo": "romaluev/jev-ego",
     "repoId": 1374577976,
-    "stars": 18,
+    "stars": 17,
     "forks": 2,
     "openIssues": 0,
     "license": {
@@ -24366,10 +24366,10 @@
       "name": "Other"
     },
     "createdAt": "2026-09-17T14:35:09Z",
-    "updatedAt": "2026-10-09T23:16:18Z",
+    "updatedAt": "2026-10-15T00:29:31Z",
     "pushedAt": "2026-09-17T14:35:29Z",
     "lastCommitAt": "2026-09-17T14:35:26Z",
-    "lastSyncedAt": "2026-10-13T13:58:32.455Z",
+    "lastSyncedAt": "2026-10-15T16:44:16.825Z",
     "avatarUrl": "https://avatars.githubusercontent.com/u/109923636?v=4",
     "language": "TypeScript",
     "topics": [
@@ -24394,7 +24394,7 @@
     "runtimeVerified": false,
     "metadataStatus": "ok",
     "summarySource": "human-reviewed",
-    "metadataFetchedAt": "2026-10-13T13:58:32.455Z",
+    "metadataFetchedAt": "2026-10-15T16:44:16.825Z",
     "evidence": [
       {
         "url": "https://github.com/romaluev/jev-ego/blob/12eaafe795db56da821d9268ee7b9ae9ea24b23b/README.md",
@@ -24497,7 +24497,7 @@
     "updatedAt": "2026-10-06T05:57:54Z",
     "pushedAt": "2026-09-24T12:09:34Z",
     "lastCommitAt": "2026-09-24T12:09:34Z",
-    "lastSyncedAt": "2026-10-13T13:58:36.468Z",
+    "lastSyncedAt": "2026-10-15T16:44:20.053Z",
     "avatarUrl": "https://avatars.githubusercontent.com/u/49522377?v=4",
     "language": "C",
     "topics": [],
@@ -24510,7 +24510,7 @@
     "runtimeVerified": false,
     "metadataStatus": "ok",
     "summarySource": "human-reviewed",
-    "metadataFetchedAt": "2026-10-13T13:58:36.468Z",
+    "metadataFetchedAt": "2026-10-15T16:44:20.053Z",
     "evidence": [
       {
         "url": "https://github.com/giuliosmall/pg_typesafe/blob/4b5bfc1df11b18c3f07bb10804eeb47e4508ec6a/typesafe.c",
@@ -24591,7 +24591,7 @@
     "updatedAt": "2026-09-30T12:37:24Z",
     "pushedAt": "2026-09-29T17:06:53Z",
     "lastCommitAt": "2026-09-29T17:06:53Z",
-    "lastSyncedAt": "2026-10-13T13:58:38.475Z",
+    "lastSyncedAt": "2026-10-15T16:44:22.935Z",
     "avatarUrl": "https://avatars.githubusercontent.com/u/209089?v=4",
     "language": "Ruby",
     "topics": [],
@@ -24604,7 +24604,7 @@
     "runtimeVerified": false,
     "metadataStatus": "ok",
     "summarySource": "human-reviewed",
-    "metadataFetchedAt": "2026-10-13T13:58:38.475Z",
+    "metadataFetchedAt": "2026-10-15T16:44:22.935Z",
     "evidence": [
       {
         "url": "https://github.com/kieranklaassen/ruby_llm-typesafe/blob/33e680115a43d584b1c0dcff385816f459a4bc71/README.md",
@@ -24804,7 +24804,7 @@
     "updatedAt": "2026-09-27T22:49:21Z",
     "pushedAt": "2026-09-27T22:49:19Z",
     "lastCommitAt": "2026-09-27T22:49:16Z",
-    "lastSyncedAt": "2026-10-13T13:58:42.980Z",
+    "lastSyncedAt": "2026-10-15T16:44:25.968Z",
     "avatarUrl": "https://avatars.githubusercontent.com/u/50637199?v=4",
     "language": "TypeScript",
     "topics": [],
@@ -24817,7 +24817,7 @@
     "runtimeVerified": false,
     "metadataStatus": "ok",
     "summarySource": "human-reviewed",
-    "metadataFetchedAt": "2026-10-13T13:58:42.980Z",
+    "metadataFetchedAt": "2026-10-15T16:44:25.968Z",
     "evidence": [
       {
         "url": "https://github.com/baronunread/leanest/blob/dfb8c6b83e5b362d8258ee64835e15b5766e08d2/README.md",
@@ -24910,7 +24910,7 @@
     "updatedAt": "2026-10-06T05:46:52Z",
     "pushedAt": "2026-10-09T07:35:08Z",
     "lastCommitAt": "2026-09-19T06:00:51Z",
-    "lastSyncedAt": "2026-10-13T13:58:48.934Z",
+    "lastSyncedAt": "2026-10-15T16:44:31.815Z",
     "avatarUrl": "https://avatars.githubusercontent.com/u/289292190?v=4",
     "language": "TypeScript",
     "topics": [],
@@ -24923,7 +24923,7 @@
     "runtimeVerified": false,
     "metadataStatus": "ok",
     "summarySource": "human-reviewed",
-    "metadataFetchedAt": "2026-10-13T13:58:48.934Z",
+    "metadataFetchedAt": "2026-10-15T16:44:31.815Z",
     "evidence": [
       {
         "url": "https://github.com/iammrduncan/typesafe-ai-benchmark/blob/cf348cd291bb538ad9fa902334649ef5dd937e92/packages/demos/lib/jev.ts",
@@ -25004,7 +25004,7 @@
     "updatedAt": "2026-10-12T22:46:45Z",
     "pushedAt": "2026-10-12T22:46:41Z",
     "lastCommitAt": "2026-10-12T22:46:33Z",
-    "lastSyncedAt": "2026-10-13T13:58:51.943Z",
+    "lastSyncedAt": "2026-10-15T16:44:34.874Z",
     "avatarUrl": "https://avatars.githubusercontent.com/u/2675660?v=4",
     "language": "Haskell",
     "topics": [],
@@ -25017,7 +25017,7 @@
     "runtimeVerified": false,
     "metadataStatus": "ok",
     "summarySource": "human-reviewed",
-    "metadataFetchedAt": "2026-10-13T13:58:51.943Z",
+    "metadataFetchedAt": "2026-10-15T16:44:34.874Z",
     "evidence": [
       {
         "url": "https://github.com/inanna-malick/jev-dsl/blob/f16f1363b4d389d6e34f9d695fbd254ca0735f2e/README.md",
@@ -25088,7 +25088,7 @@
     "repoId": 1373666659,
     "stars": 3,
     "forks": 0,
-    "openIssues": 2,
+    "openIssues": 5,
     "license": {
       "status": "identified",
       "spdx": "MIT",
@@ -25097,9 +25097,9 @@
     },
     "createdAt": "2026-09-16T21:47:51Z",
     "updatedAt": "2026-09-30T12:37:30Z",
-    "pushedAt": "2026-10-08T00:24:29Z",
+    "pushedAt": "2026-10-15T00:24:49Z",
     "lastCommitAt": "2026-09-29T14:22:32Z",
-    "lastSyncedAt": "2026-10-13T13:58:54.938Z",
+    "lastSyncedAt": "2026-10-15T16:44:37.925Z",
     "avatarUrl": "https://avatars.githubusercontent.com/u/8853023?v=4",
     "language": "Go",
     "topics": [
@@ -25121,7 +25121,7 @@
     "runtimeVerified": false,
     "metadataStatus": "ok",
     "summarySource": "human-reviewed",
-    "metadataFetchedAt": "2026-10-13T13:58:54.938Z",
+    "metadataFetchedAt": "2026-10-15T16:44:37.925Z",
     "evidence": [
       {
         "url": "https://github.com/zhirschtritt/typesafe-go/blob/a4062e525d1ad23aa739d3454247bcec52486a57/client.go#L18",
@@ -25198,7 +25198,7 @@
     "repoId": 1366680224,
     "stars": 122,
     "forks": 14,
-    "openIssues": 3,
+    "openIssues": 4,
     "license": {
       "status": "identified",
       "spdx": "MIT",
@@ -25209,7 +25209,7 @@
     "updatedAt": "2026-10-08T20:37:41Z",
     "pushedAt": "2026-09-22T23:25:11Z",
     "lastCommitAt": "2026-09-22T23:23:49Z",
-    "lastSyncedAt": "2026-10-13T13:58:57.919Z",
+    "lastSyncedAt": "2026-10-15T16:44:40.839Z",
     "avatarUrl": "https://avatars.githubusercontent.com/u/77361240?v=4",
     "language": "TypeScript",
     "topics": [
@@ -25233,7 +25233,7 @@
     "runtimeVerified": false,
     "metadataStatus": "ok",
     "summarySource": "human-reviewed",
-    "metadataFetchedAt": "2026-10-13T13:58:57.919Z",
+    "metadataFetchedAt": "2026-10-15T16:44:40.839Z",
     "evidence": [
       {
         "url": "https://github.com/qkal/Canny/blob/74bc3487370ae6d61cef69c5642cce504a8579cb/README.md",
@@ -25325,7 +25325,7 @@
     "updatedAt": "2026-10-11T15:12:19Z",
     "pushedAt": "2026-09-17T17:08:19Z",
     "lastCommitAt": "2026-09-17T17:06:32Z",
-    "lastSyncedAt": "2026-10-13T13:59:00.920Z",
+    "lastSyncedAt": "2026-10-15T16:44:44.007Z",
     "avatarUrl": "https://avatars.githubusercontent.com/u/28016517?v=4",
     "language": "Rust",
     "topics": [],
@@ -25338,7 +25338,7 @@
     "runtimeVerified": false,
     "metadataStatus": "ok",
     "summarySource": "human-reviewed",
-    "metadataFetchedAt": "2026-10-13T13:59:00.920Z",
+    "metadataFetchedAt": "2026-10-15T16:44:44.007Z",
     "evidence": [
       {
         "url": "https://github.com/devanshbatham/commit-miner/blob/977617ebce07c56b965253a68577b1d92b93fdf1/src/jev.rs",
@@ -25419,7 +25419,7 @@
     "updatedAt": "2026-09-18T15:10:32Z",
     "pushedAt": "2026-09-18T15:10:29Z",
     "lastCommitAt": "2026-09-18T15:10:26Z",
-    "lastSyncedAt": "2026-10-13T13:59:04.038Z",
+    "lastSyncedAt": "2026-10-15T16:44:46.826Z",
     "avatarUrl": "https://avatars.githubusercontent.com/u/1990736?v=4",
     "language": "TypeScript",
     "topics": [],
@@ -25435,7 +25435,7 @@
     "runtimeVerified": false,
     "metadataStatus": "ok",
     "summarySource": "human-reviewed",
-    "metadataFetchedAt": "2026-10-13T13:59:04.038Z",
+    "metadataFetchedAt": "2026-10-15T16:44:46.826Z",
     "evidence": [
       {
         "url": "https://github.com/ilkerulusoy/pi-jev-compact/blob/7d54b2e9a437fcf445c7f50aa49d673dbd863176/src/core/jev.ts#L3",
@@ -25522,7 +25522,7 @@
     "updatedAt": "2026-09-18T17:12:09Z",
     "pushedAt": "2026-09-18T16:10:42Z",
     "lastCommitAt": "2026-09-18T16:10:40Z",
-    "lastSyncedAt": "2026-10-13T13:59:06.986Z",
+    "lastSyncedAt": "2026-10-15T16:44:50.134Z",
     "avatarUrl": "https://avatars.githubusercontent.com/u/69063372?v=4",
     "language": "TypeScript",
     "topics": [
@@ -25543,7 +25543,7 @@
     "runtimeVerified": false,
     "metadataStatus": "ok",
     "summarySource": "human-reviewed",
-    "metadataFetchedAt": "2026-10-13T13:59:06.986Z",
+    "metadataFetchedAt": "2026-10-15T16:44:50.134Z",
     "evidence": [
       {
         "url": "https://github.com/kevinpita/pi-jev-context/blob/640ffa74c376fe8e487e4fec3e75de741f5b53e1/README.md",
@@ -25636,7 +25636,7 @@
     "updatedAt": "2026-10-08T09:11:29Z",
     "pushedAt": "2026-09-18T08:40:46Z",
     "lastCommitAt": "2026-09-18T08:40:39Z",
-    "lastSyncedAt": "2026-10-13T13:59:09.989Z",
+    "lastSyncedAt": "2026-10-15T16:44:52.960Z",
     "avatarUrl": "https://avatars.githubusercontent.com/u/262973864?v=4",
     "language": "C++",
     "topics": [],
@@ -25649,7 +25649,7 @@
     "runtimeVerified": false,
     "metadataStatus": "ok",
     "summarySource": "human-reviewed",
-    "metadataFetchedAt": "2026-10-13T13:59:09.989Z",
+    "metadataFetchedAt": "2026-10-15T16:44:52.960Z",
     "evidence": [
       {
         "url": "https://github.com/colliber/duckdb-jev/blob/fad67eb4a1def91fcf1efbc96bdf5e6e11208644/src/jev_client.cpp",
@@ -25762,7 +25762,7 @@
     "evidenceLines": [],
     "verificationStatus": "source-verified",
     "runtimeVerified": false,
-    "metadataStatus": "ok",
+    "metadataStatus": "unavailable",
     "summarySource": "human-reviewed",
     "metadataFetchedAt": "2026-10-13T13:59:13.028Z",
     "evidence": [
@@ -25807,7 +25807,8 @@
     "jevDecisionPointKo": "Jev가 후보 행 ID를 선택하고 코드가 원문과 파일·위치를 복사한다.",
     "plainSummaryKo": "논문·보충 자료에서 원문 증거를 골라 사람이 확인하고 추출 표로 내보내는 리뷰 도구.",
     "highlightBenefitJa": "引用・出典位置・人による確認状況を対応付ける。",
-    "sourceReviewedAt": "2026-09-19T06:53:39.508919+00:00"
+    "sourceReviewedAt": "2026-09-19T06:53:39.508919+00:00",
+    "metadataError": "GitHub 404: Not Found"
   },
   {
     "id": "eugeneboondock:jevsql",
@@ -25847,7 +25848,7 @@
     "updatedAt": "2026-09-30T12:38:09Z",
     "pushedAt": "2026-09-19T23:34:05Z",
     "lastCommitAt": "2026-09-19T23:34:05Z",
-    "lastSyncedAt": "2026-10-13T13:59:15.963Z",
+    "lastSyncedAt": "2026-10-15T16:44:57.359Z",
     "avatarUrl": "https://avatars.githubusercontent.com/u/80263867?v=4",
     "language": "JavaScript",
     "topics": [
@@ -25871,7 +25872,7 @@
     "runtimeVerified": false,
     "metadataStatus": "ok",
     "summarySource": "human-reviewed",
-    "metadataFetchedAt": "2026-10-13T13:59:15.963Z",
+    "metadataFetchedAt": "2026-10-15T16:44:57.359Z",
     "evidence": [
       {
         "url": "https://github.com/EugeneBoondock/jevsql/blob/e0b42f3b4312189f0b9c3996818675c714f126e7/src/client.mjs#L5",
@@ -25958,7 +25959,7 @@
     "updatedAt": "2026-09-23T15:59:16Z",
     "pushedAt": "2026-09-23T15:59:14Z",
     "lastCommitAt": "2026-09-23T15:59:05Z",
-    "lastSyncedAt": "2026-10-13T13:59:18.990Z",
+    "lastSyncedAt": "2026-10-15T16:45:00.342Z",
     "avatarUrl": "https://avatars.githubusercontent.com/u/107216827?v=4",
     "language": "TypeScript",
     "topics": [],
@@ -25971,7 +25972,7 @@
     "runtimeVerified": false,
     "metadataStatus": "ok",
     "summarySource": "human-reviewed",
-    "metadataFetchedAt": "2026-10-13T13:59:18.990Z",
+    "metadataFetchedAt": "2026-10-15T16:45:00.342Z",
     "evidence": [
       {
         "url": "https://github.com/n3ndor/n8n-nodes-typesafe-jev/blob/22ae978a36149982fe14b8556eb0bab0250c2450/README.md",
@@ -26051,9 +26052,9 @@
     "metricContext": "",
     "repo": "kyotofin/tax-doc-classifier",
     "repoId": 1376004275,
-    "stars": 505,
-    "forks": 64,
-    "openIssues": 0,
+    "stars": 506,
+    "forks": 65,
+    "openIssues": 3,
     "license": {
       "status": "identified",
       "spdx": "Apache-2.0",
@@ -26061,10 +26062,10 @@
       "url": "https://api.github.com/licenses/apache-2.0"
     },
     "createdAt": "2026-09-18T14:40:45Z",
-    "updatedAt": "2026-10-12T08:46:02Z",
+    "updatedAt": "2026-10-15T12:50:48Z",
     "pushedAt": "2026-09-29T16:53:59Z",
     "lastCommitAt": "2026-09-20T10:34:44Z",
-    "lastSyncedAt": "2026-10-13T13:59:21.919Z",
+    "lastSyncedAt": "2026-10-15T16:45:03.341Z",
     "avatarUrl": "https://avatars.githubusercontent.com/u/291348760?v=4",
     "language": "TypeScript",
     "topics": [],
@@ -26077,7 +26078,7 @@
     "runtimeVerified": false,
     "metadataStatus": "ok",
     "summarySource": "human-reviewed",
-    "metadataFetchedAt": "2026-10-13T13:59:21.919Z",
+    "metadataFetchedAt": "2026-10-15T16:45:03.341Z",
     "evidence": [
       {
         "url": "https://github.com/kyotofin/tax-doc-classifier/blob/6afcf701395466d7c936ec8178daf017b9d96b0c/src/backend.ts",
@@ -26148,18 +26149,18 @@
     "metricContext": "提交前语义风险检查",
     "repo": "dabit3/jev-experiments",
     "repoId": 1375172727,
-    "stars": 402,
+    "stars": 404,
     "forks": 33,
-    "openIssues": 7,
+    "openIssues": 8,
     "license": {
       "status": "undeclared",
       "spdx": null
     },
     "createdAt": "2026-09-17T23:36:37Z",
-    "updatedAt": "2026-10-12T17:27:18Z",
+    "updatedAt": "2026-10-15T01:08:57Z",
     "pushedAt": "2026-09-21T03:40:06Z",
     "lastCommitAt": "2026-09-20T02:00:47Z",
-    "lastSyncedAt": "2026-10-13T13:59:24.971Z",
+    "lastSyncedAt": "2026-10-15T16:45:06.335Z",
     "avatarUrl": "https://avatars.githubusercontent.com/u/1857282?v=4",
     "language": "TypeScript",
     "topics": [],
@@ -26172,7 +26173,7 @@
     "runtimeVerified": false,
     "metadataStatus": "ok",
     "summarySource": "human-reviewed",
-    "metadataFetchedAt": "2026-10-13T13:59:24.971Z",
+    "metadataFetchedAt": "2026-10-15T16:45:06.335Z",
     "evidence": [
       {
         "url": "https://github.com/dabit3/jev-experiments/blob/ed07e87c24822b9258dfd95c63e3d5f436d95b1a/README.md",
@@ -26251,7 +26252,7 @@
     "metricContext": "已核对源码，未独立复测",
     "repo": "Skyvern-AI/jevscape",
     "repoId": 1376260632,
-    "stars": 12,
+    "stars": 13,
     "forks": 1,
     "openIssues": 1,
     "license": {
@@ -26259,10 +26260,10 @@
       "spdx": null
     },
     "createdAt": "2026-09-18T18:10:42Z",
-    "updatedAt": "2026-10-01T01:55:32Z",
+    "updatedAt": "2026-10-13T22:10:28Z",
     "pushedAt": "2026-09-18T19:13:25Z",
     "lastCommitAt": "2026-09-18T19:13:24Z",
-    "lastSyncedAt": "2026-10-13T13:59:28.037Z",
+    "lastSyncedAt": "2026-10-15T16:45:09.491Z",
     "avatarUrl": "https://avatars.githubusercontent.com/u/141457985?v=4",
     "language": "TypeScript",
     "topics": [],
@@ -26278,7 +26279,7 @@
     "runtimeVerified": false,
     "metadataStatus": "ok",
     "summarySource": "human-reviewed",
-    "metadataFetchedAt": "2026-10-13T13:59:28.037Z",
+    "metadataFetchedAt": "2026-10-15T16:45:09.491Z",
     "evidence": [
       {
         "url": "https://github.com/Skyvern-AI/jevscape/blob/8fe4d37349fc6a8d03ac1c918302eef254bb56c3/agents/jev/jev-client.ts#L3",
@@ -26364,7 +26365,7 @@
     "repoId": 1374307251,
     "stars": 262,
     "forks": 34,
-    "openIssues": 0,
+    "openIssues": 1,
     "license": {
       "status": "undeclared",
       "spdx": null
@@ -26373,7 +26374,7 @@
     "updatedAt": "2026-10-11T14:19:47Z",
     "pushedAt": "2026-09-24T22:27:44Z",
     "lastCommitAt": "2026-09-24T22:27:42Z",
-    "lastSyncedAt": "2026-10-13T13:59:30.925Z",
+    "lastSyncedAt": "2026-10-15T16:45:12.338Z",
     "avatarUrl": "https://avatars.githubusercontent.com/u/5638815?v=4",
     "language": "TypeScript",
     "topics": [],
@@ -26386,7 +26387,7 @@
     "runtimeVerified": false,
     "metadataStatus": "ok",
     "summarySource": "human-reviewed",
-    "metadataFetchedAt": "2026-10-13T13:59:30.925Z",
+    "metadataFetchedAt": "2026-10-15T16:45:12.338Z",
     "evidence": [
       {
         "url": "https://github.com/monteduro/killmyidea/blob/bc853421f2eb6f17da435621896dd6cd881a051c/README.md",
@@ -26488,7 +26489,7 @@
     "updatedAt": "2026-10-06T09:07:13Z",
     "pushedAt": "2026-09-20T16:24:38Z",
     "lastCommitAt": "2026-09-20T16:24:38Z",
-    "lastSyncedAt": "2026-10-13T13:59:34.086Z",
+    "lastSyncedAt": "2026-10-15T16:45:15.384Z",
     "avatarUrl": "https://avatars.githubusercontent.com/u/3391616?v=4",
     "language": "JavaScript",
     "topics": [],
@@ -26501,7 +26502,7 @@
     "runtimeVerified": false,
     "metadataStatus": "ok",
     "summarySource": "human-reviewed",
-    "metadataFetchedAt": "2026-10-13T13:59:34.086Z",
+    "metadataFetchedAt": "2026-10-15T16:45:15.384Z",
     "evidence": [
       {
         "url": "https://github.com/RafalWilinski/vibecheck/blob/badf9dad5deecababd8afe43a574a5ea6d376711/background.js",
@@ -26582,7 +26583,7 @@
     "updatedAt": "2026-09-30T12:37:25Z",
     "pushedAt": "2026-09-17T05:49:08Z",
     "lastCommitAt": "2026-09-17T05:06:01Z",
-    "lastSyncedAt": "2026-10-13T13:59:37.014Z",
+    "lastSyncedAt": "2026-10-15T16:45:18.397Z",
     "avatarUrl": "https://avatars.githubusercontent.com/u/93304526?v=4",
     "language": "Python",
     "topics": [],
@@ -26595,7 +26596,7 @@
     "runtimeVerified": false,
     "metadataStatus": "ok",
     "summarySource": "human-reviewed",
-    "metadataFetchedAt": "2026-10-13T13:59:37.014Z",
+    "metadataFetchedAt": "2026-10-15T16:45:18.397Z",
     "evidence": [
       {
         "url": "https://github.com/RINNECODER/jev-behavior-study/blob/e4a1d7ec691a91f33d3b5879a780e6f27328f173/README.md",
@@ -26675,7 +26676,7 @@
     "updatedAt": "2026-10-09T00:24:18Z",
     "pushedAt": "2026-10-09T00:24:13Z",
     "lastCommitAt": "2026-09-23T18:03:52Z",
-    "lastSyncedAt": "2026-10-13T13:59:39.897Z",
+    "lastSyncedAt": "2026-10-15T16:45:21.402Z",
     "avatarUrl": "https://avatars.githubusercontent.com/u/20231779?v=4",
     "language": "Python",
     "topics": [],
@@ -26691,7 +26692,7 @@
     "runtimeVerified": false,
     "metadataStatus": "ok",
     "summarySource": "human-reviewed",
-    "metadataFetchedAt": "2026-10-13T13:59:39.897Z",
+    "metadataFetchedAt": "2026-10-15T16:45:21.402Z",
     "evidence": [
       {
         "url": "https://github.com/4esv/jev-eval/blob/dcfd6db29dfee2a107ff6e018176c6577002f887/evaljev/runners.py#L15",
@@ -26777,7 +26778,7 @@
     "createdAt": "2026-09-17T19:31:31Z",
     "lastCommitAt": "2026-09-23T09:16:20Z",
     "headSha": "0a8963f91f5a77e64e56ac6b34f14f6c6a79d8c3",
-    "metadataFetchedAt": "2026-10-13T13:59:45.989Z",
+    "metadataFetchedAt": "2026-10-15T16:45:27.493Z",
     "metadataStatus": "ok",
     "avatarUrl": "https://avatars.githubusercontent.com/u/69023709?v=4",
     "verificationStatus": "source-verified",
@@ -26890,7 +26891,7 @@
     "sourceReviewedAt": "2026-09-19T06:53:39.508919+00:00",
     "archived": false,
     "sourcePath": "src/jev.ts",
-    "lastSyncedAt": "2026-10-13T13:59:45.989Z"
+    "lastSyncedAt": "2026-10-15T16:45:27.493Z"
   },
   {
     "id": "valentynkit:jev-commit",
@@ -26930,7 +26931,7 @@
     },
     "stars": 16,
     "forks": 2,
-    "openIssues": 1,
+    "openIssues": 2,
     "license": {
       "status": "identified",
       "spdx": "MIT",
@@ -26940,7 +26941,7 @@
     "createdAt": "2026-09-18T20:11:08Z",
     "lastCommitAt": "2026-09-19T07:47:00Z",
     "headSha": "e2bd64adfb820d5a11ea23ea71a2e7e243c305fb",
-    "metadataFetchedAt": "2026-10-13T13:59:48.984Z",
+    "metadataFetchedAt": "2026-10-15T16:45:30.414Z",
     "metadataStatus": "ok",
     "avatarUrl": "https://avatars.githubusercontent.com/u/35431524?v=4",
     "verificationStatus": "integration-detected",
@@ -26986,7 +26987,7 @@
     "highlightBenefitKo": "커밋 메시지 대조를 임계값 있는 확률로 만들어 모델 평문을 읽지 않아도 된다. API가 실패해도 커밋은 통과한다.",
     "updatedAt": "2026-10-12T03:11:47Z",
     "pushedAt": "2026-10-09T09:55:03Z",
-    "lastSyncedAt": "2026-10-13T13:59:48.984Z",
+    "lastSyncedAt": "2026-10-15T16:45:30.414Z",
     "archived": false,
     "licenseStatus": "declared"
   },
@@ -27028,7 +27029,7 @@
     },
     "stars": 38,
     "forks": 6,
-    "openIssues": 2,
+    "openIssues": 3,
     "license": {
       "status": "identified",
       "spdx": "MIT",
@@ -27038,7 +27039,7 @@
     "createdAt": "2026-09-18T20:11:17Z",
     "lastCommitAt": "2026-09-20T09:06:41Z",
     "headSha": "467968eb7a1c1b174c523299f9ab8159c9999016",
-    "metadataFetchedAt": "2026-10-13T13:59:51.929Z",
+    "metadataFetchedAt": "2026-10-15T16:45:33.301Z",
     "metadataStatus": "ok",
     "avatarUrl": "https://avatars.githubusercontent.com/u/35431524?v=4",
     "verificationStatus": "integration-detected",
@@ -27093,7 +27094,7 @@
     "highlightBenefitKo": "통과한 검사가 있으면 요청을 보내지 않는다. 오류 시에는 통과시켜 훅이 세션을 멈추지 않게 한다.",
     "updatedAt": "2026-10-12T03:09:55Z",
     "pushedAt": "2026-10-09T09:54:54Z",
-    "lastSyncedAt": "2026-10-13T13:59:51.929Z",
+    "lastSyncedAt": "2026-10-15T16:45:33.301Z",
     "archived": false,
     "licenseStatus": "declared"
   },
@@ -27148,7 +27149,7 @@
     "createdAt": "2026-09-18T20:11:23Z",
     "lastCommitAt": "2026-09-19T07:52:26Z",
     "headSha": "04b836c959d115595cd6d34760f0337370aa0cc4",
-    "metadataFetchedAt": "2026-10-13T13:59:54.988Z",
+    "metadataFetchedAt": "2026-10-15T16:45:36.406Z",
     "metadataStatus": "ok",
     "avatarUrl": "https://avatars.githubusercontent.com/u/35431524?v=4",
     "verificationStatus": "integration-detected",
@@ -27203,7 +27204,7 @@
     "highlightBenefitKo": "정규식이 아니라 질문으로 SQL을 이어 붙이는 같은 언어 간 모양을 찾고, 기존 quickfix 편집 흐름에 올린다.",
     "updatedAt": "2026-10-09T09:51:08Z",
     "pushedAt": "2026-10-09T09:55:11Z",
-    "lastSyncedAt": "2026-10-13T13:59:54.988Z",
+    "lastSyncedAt": "2026-10-15T16:45:36.406Z",
     "archived": false,
     "licenseStatus": "declared"
   },
@@ -27245,7 +27246,7 @@
     },
     "stars": 7,
     "forks": 1,
-    "openIssues": 0,
+    "openIssues": 1,
     "license": {
       "status": "identified",
       "spdx": "MIT",
@@ -27255,7 +27256,7 @@
     "createdAt": "2026-09-18T20:16:28Z",
     "lastCommitAt": "2026-09-19T09:38:56Z",
     "headSha": "ecef2a7293e4ec1919809ab2a1e792a9ab7927ec",
-    "metadataFetchedAt": "2026-10-13T13:59:57.907Z",
+    "metadataFetchedAt": "2026-10-15T16:45:39.355Z",
     "metadataStatus": "ok",
     "avatarUrl": "https://avatars.githubusercontent.com/u/35431524?v=4",
     "verificationStatus": "integration-detected",
@@ -27301,7 +27302,7 @@
     "highlightBenefitKo": "SponsorBlock 사람 표시를 기다리지 않는다. 자막이 없으면 판단도 건너뛰기도 하지 않는다.",
     "updatedAt": "2026-10-09T09:51:14Z",
     "pushedAt": "2026-10-09T09:55:20Z",
-    "lastSyncedAt": "2026-10-13T13:59:57.907Z",
+    "lastSyncedAt": "2026-10-15T16:45:39.355Z",
     "archived": false,
     "licenseStatus": "declared"
   },
@@ -27346,7 +27347,7 @@
     },
     "stars": 8,
     "forks": 2,
-    "openIssues": 1,
+    "openIssues": 2,
     "license": {
       "status": "identified",
       "spdx": "MIT",
@@ -27356,7 +27357,7 @@
     "createdAt": "2026-09-18T20:11:29Z",
     "lastCommitAt": "2026-09-19T09:30:51Z",
     "headSha": "e73b03e45ca210005618cbd85b608bc90b1e7f7b",
-    "metadataFetchedAt": "2026-10-13T14:00:00.956Z",
+    "metadataFetchedAt": "2026-10-15T16:45:42.374Z",
     "metadataStatus": "ok",
     "avatarUrl": "https://avatars.githubusercontent.com/u/35431524?v=4",
     "verificationStatus": "integration-detected",
@@ -27402,7 +27403,7 @@
     "highlightBenefitKo": "모델은 닫힌 집합 선택만 하고 판 전체를 계획하지 않는다. 실패해도 스크립트보다 느슨해지지 않는다.",
     "updatedAt": "2026-10-09T09:51:19Z",
     "pushedAt": "2026-10-09T09:55:28Z",
-    "lastSyncedAt": "2026-10-13T14:00:00.956Z",
+    "lastSyncedAt": "2026-10-15T16:45:42.374Z",
     "archived": false,
     "licenseStatus": "declared"
   },
@@ -27455,7 +27456,7 @@
     "runtimeVerified": false,
     "metadataStatus": "ok",
     "summarySource": "source-reviewed",
-    "metadataFetchedAt": "2026-10-13T14:00:04.014Z",
+    "metadataFetchedAt": "2026-10-15T16:45:45.370Z",
     "evidence": [
       {
         "url": "https://github.com/bugkiwi/elons-job/blob/be01f869871fcda5841fb77df3df6e46abbda493/README.md",
@@ -27487,7 +27488,7 @@
       ]
     },
     "updatedAt": "2026-10-03T11:55:22Z",
-    "lastSyncedAt": "2026-10-13T14:00:04.014Z",
+    "lastSyncedAt": "2026-10-15T16:45:45.370Z",
     "licenseStatus": "declared"
   },
   {
@@ -27537,7 +27538,7 @@
     "runtimeVerified": false,
     "metadataStatus": "ok",
     "summarySource": "human-reviewed",
-    "metadataFetchedAt": "2026-10-13T14:00:06.970Z",
+    "metadataFetchedAt": "2026-10-15T16:45:48.397Z",
     "evidence": [
       {
         "url": "https://github.com/bugkiwi/turing-jail/blob/629ff1b5617800d851811ce4379845f5ac59f729/README.md",
@@ -27566,7 +27567,7 @@
         }
       ]
     },
-    "lastSyncedAt": "2026-10-13T14:00:06.970Z",
+    "lastSyncedAt": "2026-10-15T16:45:48.397Z",
     "licenseStatus": "unconfirmed"
   },
   {
@@ -27593,8 +27594,8 @@
     "metricContext": "",
     "repo": "typesafe-ai/typesafe-sdk-python",
     "repoId": 1357590729,
-    "stars": 287,
-    "forks": 45,
+    "stars": 295,
+    "forks": 49,
     "openIssues": 6,
     "license": {
       "status": "identified",
@@ -27603,15 +27604,15 @@
       "url": "https://api.github.com/licenses/mit"
     },
     "createdAt": "2026-09-04T21:01:31Z",
-    "updatedAt": "2026-10-13T12:03:03Z",
-    "pushedAt": "2026-10-09T15:46:23Z",
-    "lastCommitAt": "2026-10-09T15:46:17Z",
-    "lastSyncedAt": "2026-10-13T14:00:09.946Z",
+    "updatedAt": "2026-10-15T08:41:55Z",
+    "pushedAt": "2026-10-14T21:20:52Z",
+    "lastCommitAt": "2026-10-14T21:20:45Z",
+    "lastSyncedAt": "2026-10-15T16:45:51.317Z",
     "avatarUrl": "https://avatars.githubusercontent.com/u/171090879?v=4",
     "language": "Python",
     "topics": [],
     "archived": false,
-    "headSha": "e70bf99a89f27102247613bcd5d1aa8923a1cda9",
+    "headSha": "f36e68549ceca3191e5791e5f99ea1baa1a258b5",
     "sourceUrl": "https://github.com/typesafe-ai/typesafe-sdk-python/blob/2ce5c65f13646cab6e6f782328194c9d85f3300a/src/typesafe_sdk/_core/client/sync/client.py#L206-L221",
     "sourcePath": "src/typesafe_sdk/_core/client/sync/client.py",
     "evidenceLines": [
@@ -27622,7 +27623,7 @@
     "runtimeVerified": false,
     "metadataStatus": "ok",
     "summarySource": "human-reviewed",
-    "metadataFetchedAt": "2026-10-13T14:00:09.946Z",
+    "metadataFetchedAt": "2026-10-15T16:45:51.317Z",
     "evidence": [
       {
         "url": "https://github.com/typesafe-ai/typesafe-sdk-python/blob/2ce5c65f13646cab6e6f782328194c9d85f3300a/src/typesafe_sdk/_core/client/sync/client.py#L206-L221",
@@ -27806,8 +27807,8 @@
     "updatedAt": "2026-10-01T14:39:07Z",
     "pushedAt": "2026-09-20T13:47:58Z",
     "lastCommitAt": "2026-09-20T13:47:21Z",
-    "lastSyncedAt": "2026-10-13T14:00:12.967Z",
-    "metadataFetchedAt": "2026-10-13T14:00:12.967Z",
+    "lastSyncedAt": "2026-10-15T16:45:54.312Z",
+    "metadataFetchedAt": "2026-10-15T16:45:54.312Z",
     "metadataStatus": "ok",
     "avatarUrl": "https://avatars.githubusercontent.com/u/179504272?v=4",
     "language": "TypeScript",
@@ -28065,8 +28066,8 @@
     "updatedAt": "2026-10-06T06:35:32Z",
     "pushedAt": "2026-09-18T13:15:21Z",
     "lastCommitAt": "2026-09-18T13:14:21Z",
-    "lastSyncedAt": "2026-10-13T14:00:16.042Z",
-    "metadataFetchedAt": "2026-10-13T14:00:16.042Z",
+    "lastSyncedAt": "2026-10-15T16:45:57.440Z",
+    "metadataFetchedAt": "2026-10-15T16:45:57.440Z",
     "metadataStatus": "ok",
     "avatarUrl": "https://avatars.githubusercontent.com/u/185824?v=4",
     "language": "Python",
@@ -28276,7 +28277,7 @@
     "summarySource": "human-reviewed",
     "stars": 12,
     "forks": 2,
-    "openIssues": 4,
+    "openIssues": 5,
     "license": {
       "status": "identified",
       "spdx": "MIT",
@@ -28286,10 +28287,10 @@
     "licenseStatus": "declared",
     "createdAt": "2026-09-16T19:18:00Z",
     "updatedAt": "2026-10-10T13:17:26Z",
-    "pushedAt": "2026-10-12T19:12:48Z",
+    "pushedAt": "2026-10-14T16:16:57Z",
     "lastCommitAt": "2026-10-07T15:36:03Z",
-    "lastSyncedAt": "2026-10-13T14:00:24.910Z",
-    "metadataFetchedAt": "2026-10-13T14:00:24.910Z",
+    "lastSyncedAt": "2026-10-15T16:46:00.390Z",
+    "metadataFetchedAt": "2026-10-15T16:46:00.390Z",
     "metadataStatus": "ok",
     "avatarUrl": "https://avatars.githubusercontent.com/u/8198978?v=4",
     "language": "C#",
@@ -28395,17 +28396,17 @@
     },
     "licenseStatus": "declared",
     "createdAt": "2026-09-17T05:23:30Z",
-    "updatedAt": "2026-10-09T17:38:01Z",
-    "pushedAt": "2026-10-09T17:37:57Z",
-    "lastCommitAt": "2026-10-09T17:37:56Z",
-    "lastSyncedAt": "2026-10-13T14:00:27.906Z",
-    "metadataFetchedAt": "2026-10-13T14:00:27.906Z",
+    "updatedAt": "2026-10-15T14:39:48Z",
+    "pushedAt": "2026-10-15T14:39:45Z",
+    "lastCommitAt": "2026-10-15T14:39:43Z",
+    "lastSyncedAt": "2026-10-15T16:46:03.349Z",
+    "metadataFetchedAt": "2026-10-15T16:46:03.349Z",
     "metadataStatus": "ok",
     "avatarUrl": "https://avatars.githubusercontent.com/u/65043?v=4",
     "language": "Scala",
     "topics": [],
     "archived": false,
-    "headSha": "3341dd4077fa4bcad348e128de47022277530b54",
+    "headSha": "b488faadeca15982281d3bae0f2f79e8f8d5498c",
     "sourceUrl": "https://github.com/jamesward/zio-typesafe-ai/blob/38082e8712b49ce239ae628557619347909165dc/src/main/scala/com/jamesward/zio_typesafe_ai/TypeSafeAI.scala#L1-L571",
     "sourcePath": "src/main/scala/com/jamesward/zio_typesafe_ai/TypeSafeAI.scala",
     "evidenceLines": [
@@ -28500,8 +28501,8 @@
     "updatedAt": "2026-09-30T12:37:28Z",
     "pushedAt": "2026-09-16T20:55:50Z",
     "lastCommitAt": "2026-09-16T20:55:50Z",
-    "lastSyncedAt": "2026-10-13T14:00:30.892Z",
-    "metadataFetchedAt": "2026-10-13T14:00:30.892Z",
+    "lastSyncedAt": "2026-10-15T16:46:06.426Z",
+    "metadataFetchedAt": "2026-10-15T16:46:06.426Z",
     "metadataStatus": "ok",
     "avatarUrl": "https://avatars.githubusercontent.com/u/19553316?v=4",
     "language": "Ruby",
@@ -28717,8 +28718,8 @@
     "updatedAt": "2026-10-12T23:19:20Z",
     "pushedAt": "2026-09-17T20:47:21Z",
     "lastCommitAt": "2026-09-17T20:47:19Z",
-    "lastSyncedAt": "2026-10-13T14:00:35.479Z",
-    "metadataFetchedAt": "2026-10-13T14:00:35.479Z",
+    "lastSyncedAt": "2026-10-15T16:46:09.375Z",
+    "metadataFetchedAt": "2026-10-15T16:46:09.375Z",
     "metadataStatus": "ok",
     "avatarUrl": "https://avatars.githubusercontent.com/u/20188639?v=4",
     "language": "Python",
@@ -28843,17 +28844,17 @@
     },
     "licenseStatus": "declared",
     "createdAt": "2026-09-16T16:20:23Z",
-    "updatedAt": "2026-10-10T03:10:13Z",
-    "pushedAt": "2026-10-06T08:46:44Z",
-    "lastCommitAt": "2026-10-05T18:27:16Z",
-    "lastSyncedAt": "2026-10-13T14:00:38.367Z",
-    "metadataFetchedAt": "2026-10-13T14:00:38.367Z",
+    "updatedAt": "2026-10-15T09:32:10Z",
+    "pushedAt": "2026-10-15T09:34:41Z",
+    "lastCommitAt": "2026-10-15T09:32:05Z",
+    "lastSyncedAt": "2026-10-15T16:46:12.380Z",
+    "metadataFetchedAt": "2026-10-15T16:46:12.380Z",
     "metadataStatus": "ok",
     "avatarUrl": "https://avatars.githubusercontent.com/u/331025984?v=4",
     "language": "TypeScript",
     "topics": [],
     "archived": false,
-    "headSha": "f524842a88fa4df323d3a65b48e49fb43df92e53",
+    "headSha": "7363b946c8df51013da2754a0ae7312e72bc7088",
     "sourceUrl": "https://github.com/BunsDev/typesafe-ai-playground/blob/f67c3571fca1c468b4585f17282a58a1f57b1a17/app/api/run/route.ts#L1-L65",
     "sourcePath": "app/api/run/route.ts",
     "evidenceLines": [
@@ -28947,8 +28948,8 @@
     "updatedAt": "2026-10-05T19:02:53Z",
     "pushedAt": "2026-10-01T11:12:41Z",
     "lastCommitAt": "2026-10-01T11:12:41Z",
-    "lastSyncedAt": "2026-10-13T14:00:41.339Z",
-    "metadataFetchedAt": "2026-10-13T14:00:41.339Z",
+    "lastSyncedAt": "2026-10-15T16:46:15.349Z",
+    "metadataFetchedAt": "2026-10-15T16:46:15.349Z",
     "metadataStatus": "ok",
     "avatarUrl": "https://avatars.githubusercontent.com/u/20417640?v=4",
     "language": "Python",
@@ -29036,7 +29037,7 @@
     "summarySource": "human-reviewed",
     "stars": 119,
     "forks": 10,
-    "openIssues": 3,
+    "openIssues": 4,
     "license": {
       "status": "undeclared",
       "spdx": null
@@ -29046,8 +29047,8 @@
     "updatedAt": "2026-10-04T21:16:27Z",
     "pushedAt": "2026-09-18T08:11:11Z",
     "lastCommitAt": "2026-09-18T08:10:57Z",
-    "lastSyncedAt": "2026-10-13T14:00:44.317Z",
-    "metadataFetchedAt": "2026-10-13T14:00:44.317Z",
+    "lastSyncedAt": "2026-10-15T16:46:18.408Z",
+    "metadataFetchedAt": "2026-10-15T16:46:18.408Z",
     "metadataStatus": "ok",
     "avatarUrl": "https://avatars.githubusercontent.com/u/1185253?v=4",
     "language": "TypeScript",
@@ -29133,9 +29134,9 @@
       "cli-git-gates"
     ],
     "summarySource": "human-reviewed",
-    "stars": 37,
+    "stars": 39,
     "forks": 4,
-    "openIssues": 2,
+    "openIssues": 3,
     "license": {
       "status": "identified",
       "spdx": "MIT",
@@ -29144,11 +29145,11 @@
     },
     "licenseStatus": "declared",
     "createdAt": "2026-09-18T11:40:17Z",
-    "updatedAt": "2026-10-07T13:40:03Z",
+    "updatedAt": "2026-10-14T11:34:55Z",
     "pushedAt": "2026-09-23T21:48:54Z",
     "lastCommitAt": "2026-09-23T21:43:19Z",
-    "lastSyncedAt": "2026-10-13T14:00:47.350Z",
-    "metadataFetchedAt": "2026-10-13T14:00:47.350Z",
+    "lastSyncedAt": "2026-10-15T16:46:21.412Z",
+    "metadataFetchedAt": "2026-10-15T16:46:21.412Z",
     "metadataStatus": "ok",
     "avatarUrl": "https://avatars.githubusercontent.com/u/46541492?v=4",
     "language": "TypeScript",
@@ -29238,9 +29239,9 @@
       "coding-agents"
     ],
     "summarySource": "curated",
-    "stars": 592,
-    "forks": 87,
-    "openIssues": 47,
+    "stars": 597,
+    "forks": 89,
+    "openIssues": 48,
     "license": {
       "status": "identified",
       "spdx": "MIT",
@@ -29249,11 +29250,11 @@
     },
     "licenseStatus": "declared",
     "createdAt": "2026-09-16T20:39:22Z",
-    "updatedAt": "2026-10-13T10:56:40Z",
+    "updatedAt": "2026-10-15T10:22:58Z",
     "pushedAt": "2026-09-19T10:28:26Z",
     "lastCommitAt": "2026-09-19T08:37:38Z",
-    "lastSyncedAt": "2026-10-13T14:00:50.318Z",
-    "metadataFetchedAt": "2026-10-13T14:00:50.318Z",
+    "lastSyncedAt": "2026-10-15T16:46:24.334Z",
+    "metadataFetchedAt": "2026-10-15T16:46:24.334Z",
     "metadataStatus": "ok",
     "avatarUrl": "https://avatars.githubusercontent.com/u/75370041?v=4",
     "language": "JavaScript",
@@ -29409,8 +29410,8 @@
     "updatedAt": "2026-10-09T02:43:14Z",
     "pushedAt": "2026-10-09T08:26:18Z",
     "lastCommitAt": "2026-09-18T21:12:53Z",
-    "lastSyncedAt": "2026-10-13T14:00:53.396Z",
-    "metadataFetchedAt": "2026-10-13T14:00:53.396Z",
+    "lastSyncedAt": "2026-10-15T16:46:27.347Z",
+    "metadataFetchedAt": "2026-10-15T16:46:27.347Z",
     "metadataStatus": "ok",
     "avatarUrl": "https://avatars.githubusercontent.com/u/122654?v=4",
     "language": "TypeScript",
@@ -29510,8 +29511,8 @@
     "updatedAt": "2026-10-11T03:04:48Z",
     "pushedAt": "2026-09-19T01:03:55Z",
     "lastCommitAt": "2026-09-19T01:03:52Z",
-    "lastSyncedAt": "2026-10-13T14:00:56.432Z",
-    "metadataFetchedAt": "2026-10-13T14:00:56.432Z",
+    "lastSyncedAt": "2026-10-15T16:46:30.369Z",
+    "metadataFetchedAt": "2026-10-15T16:46:30.369Z",
     "metadataStatus": "ok",
     "avatarUrl": "https://avatars.githubusercontent.com/u/207195840?v=4",
     "language": "TypeScript",
@@ -29617,8 +29618,8 @@
     "updatedAt": "2026-10-09T02:43:20Z",
     "pushedAt": "2026-09-18T02:46:36Z",
     "lastCommitAt": "2026-09-18T02:46:28Z",
-    "lastSyncedAt": "2026-10-13T14:00:59.316Z",
-    "metadataFetchedAt": "2026-10-13T14:00:59.316Z",
+    "lastSyncedAt": "2026-10-15T16:46:33.406Z",
+    "metadataFetchedAt": "2026-10-15T16:46:33.406Z",
     "metadataStatus": "ok",
     "avatarUrl": "https://avatars.githubusercontent.com/u/205107042?v=4",
     "language": "TypeScript",
@@ -29726,8 +29727,8 @@
     "updatedAt": "2026-09-30T12:38:06Z",
     "pushedAt": "2026-10-12T15:46:04Z",
     "lastCommitAt": "2026-09-18T05:36:33Z",
-    "lastSyncedAt": "2026-10-13T14:01:02.397Z",
-    "metadataFetchedAt": "2026-10-13T14:01:02.397Z",
+    "lastSyncedAt": "2026-10-15T16:46:36.318Z",
+    "metadataFetchedAt": "2026-10-15T16:46:36.318Z",
     "metadataStatus": "ok",
     "avatarUrl": "https://avatars.githubusercontent.com/u/61371035?v=4",
     "language": "TypeScript",
@@ -29838,8 +29839,8 @@
     "updatedAt": "2026-09-30T12:37:50Z",
     "pushedAt": "2026-10-01T09:21:20Z",
     "lastCommitAt": "2026-09-17T14:39:00Z",
-    "lastSyncedAt": "2026-10-13T14:01:05.370Z",
-    "metadataFetchedAt": "2026-10-13T14:01:05.370Z",
+    "lastSyncedAt": "2026-10-15T16:46:39.438Z",
+    "metadataFetchedAt": "2026-10-15T16:46:39.438Z",
     "metadataStatus": "ok",
     "avatarUrl": "https://avatars.githubusercontent.com/u/45264458?v=4",
     "language": "TypeScript",
@@ -29935,20 +29936,20 @@
       "typed-decisions"
     ],
     "summarySource": "human-reviewed",
-    "stars": 23,
+    "stars": 24,
     "forks": 5,
-    "openIssues": 0,
+    "openIssues": 1,
     "license": {
       "status": "undeclared",
       "spdx": null
     },
     "licenseStatus": "unconfirmed",
     "createdAt": "2026-09-17T09:42:36Z",
-    "updatedAt": "2026-09-30T12:37:53Z",
+    "updatedAt": "2026-10-13T18:25:39Z",
     "pushedAt": "2026-09-17T09:43:08Z",
     "lastCommitAt": "2026-09-17T09:42:33Z",
-    "lastSyncedAt": "2026-10-13T14:01:08.357Z",
-    "metadataFetchedAt": "2026-10-13T14:01:08.357Z",
+    "lastSyncedAt": "2026-10-15T16:46:42.337Z",
+    "metadataFetchedAt": "2026-10-15T16:46:42.337Z",
     "metadataStatus": "ok",
     "avatarUrl": "https://avatars.githubusercontent.com/u/35128?v=4",
     "language": "TypeScript",
@@ -30048,8 +30049,8 @@
     "updatedAt": "2026-10-12T13:28:07Z",
     "pushedAt": "2026-10-12T13:31:46Z",
     "lastCommitAt": "2026-10-12T13:27:59Z",
-    "lastSyncedAt": "2026-10-13T14:01:11.498Z",
-    "metadataFetchedAt": "2026-10-13T14:01:11.498Z",
+    "lastSyncedAt": "2026-10-15T16:46:45.347Z",
+    "metadataFetchedAt": "2026-10-15T16:46:45.347Z",
     "metadataStatus": "ok",
     "avatarUrl": "https://avatars.githubusercontent.com/u/18901032?v=4",
     "language": "TypeScript",
@@ -30145,7 +30146,7 @@
     "summarySource": "human-reviewed",
     "stars": 112,
     "forks": 16,
-    "openIssues": 1,
+    "openIssues": 2,
     "license": {
       "status": "undeclared",
       "spdx": null
@@ -30155,8 +30156,8 @@
     "updatedAt": "2026-10-11T06:01:46Z",
     "pushedAt": "2026-09-18T03:38:10Z",
     "lastCommitAt": "2026-09-18T03:38:05Z",
-    "lastSyncedAt": "2026-10-13T14:01:15.414Z",
-    "metadataFetchedAt": "2026-10-13T14:01:15.414Z",
+    "lastSyncedAt": "2026-10-15T16:46:48.469Z",
+    "metadataFetchedAt": "2026-10-15T16:46:48.469Z",
     "metadataStatus": "ok",
     "avatarUrl": "https://avatars.githubusercontent.com/u/4214509?v=4",
     "language": "JavaScript",
@@ -30242,9 +30243,9 @@
       "typed-decisions"
     ],
     "summarySource": "human-reviewed",
-    "stars": 9055,
-    "forks": 607,
-    "openIssues": 35,
+    "stars": 9179,
+    "forks": 619,
+    "openIssues": 33,
     "license": {
       "status": "identified",
       "spdx": "Apache-2.0",
@@ -30253,17 +30254,17 @@
     },
     "licenseStatus": "declared",
     "createdAt": "2026-09-17T20:49:39Z",
-    "updatedAt": "2026-10-13T13:56:37Z",
-    "pushedAt": "2026-10-12T14:30:16Z",
-    "lastCommitAt": "2026-10-12T14:14:04Z",
-    "lastSyncedAt": "2026-10-13T14:01:17.334Z",
-    "metadataFetchedAt": "2026-10-13T14:01:17.334Z",
+    "updatedAt": "2026-10-15T16:39:29Z",
+    "pushedAt": "2026-10-14T13:57:20Z",
+    "lastCommitAt": "2026-10-14T13:57:19Z",
+    "lastSyncedAt": "2026-10-15T16:46:51.312Z",
+    "metadataFetchedAt": "2026-10-15T16:46:51.312Z",
     "metadataStatus": "ok",
     "avatarUrl": "https://avatars.githubusercontent.com/u/4060187?v=4",
     "language": "Python",
     "topics": [],
     "archived": false,
-    "headSha": "85ccf56a0afb952323c621055b02876e8498d60c",
+    "headSha": "dd375f27fd61486c52204205e10a0d2e10f3b34a",
     "sourceUrl": "https://github.com/jaredpalmer/kev/blob/cc954f2f66d86943688fdbfa07b6db18f82ed065/kev/jev.py#L1-L122",
     "sourcePath": "kev/jev.py",
     "evidenceLines": [
@@ -30344,7 +30345,7 @@
       "typed-decisions"
     ],
     "summarySource": "human-reviewed",
-    "stars": 2541,
+    "stars": 2552,
     "forks": 261,
     "openIssues": 9,
     "license": {
@@ -30355,11 +30356,11 @@
     },
     "licenseStatus": "declared",
     "createdAt": "2026-09-17T16:08:30Z",
-    "updatedAt": "2026-10-13T09:07:04Z",
+    "updatedAt": "2026-10-15T16:24:43Z",
     "pushedAt": "2026-09-21T09:58:28Z",
     "lastCommitAt": "2026-09-21T09:58:22Z",
-    "lastSyncedAt": "2026-10-13T14:01:20.308Z",
-    "metadataFetchedAt": "2026-10-13T14:01:20.308Z",
+    "lastSyncedAt": "2026-10-15T16:46:54.297Z",
+    "metadataFetchedAt": "2026-10-15T16:46:54.297Z",
     "metadataStatus": "ok",
     "avatarUrl": "https://avatars.githubusercontent.com/u/48460209?v=4",
     "language": "Python",
@@ -30459,8 +30460,8 @@
       "typed-decisions"
     ],
     "summarySource": "human-reviewed",
-    "stars": 601,
-    "forks": 69,
+    "stars": 606,
+    "forks": 70,
     "openIssues": 4,
     "license": {
       "status": "identified",
@@ -30470,11 +30471,11 @@
     },
     "licenseStatus": "unconfirmed",
     "createdAt": "2026-09-18T09:52:15Z",
-    "updatedAt": "2026-10-13T08:31:13Z",
+    "updatedAt": "2026-10-15T15:29:48Z",
     "pushedAt": "2026-10-07T22:54:59Z",
     "lastCommitAt": "2026-10-07T22:54:58Z",
-    "lastSyncedAt": "2026-10-13T14:01:23.339Z",
-    "metadataFetchedAt": "2026-10-13T14:01:23.339Z",
+    "lastSyncedAt": "2026-10-15T16:46:57.401Z",
+    "metadataFetchedAt": "2026-10-15T16:46:57.401Z",
     "metadataStatus": "ok",
     "avatarUrl": "https://avatars.githubusercontent.com/u/172633431?v=4",
     "language": "Python",
@@ -30576,7 +30577,7 @@
     "summarySource": "human-reviewed",
     "stars": 2,
     "forks": 0,
-    "openIssues": 0,
+    "openIssues": 1,
     "license": {
       "status": "identified",
       "spdx": "MIT",
@@ -30588,8 +30589,8 @@
     "updatedAt": "2026-10-05T20:32:49Z",
     "pushedAt": "2026-10-05T21:09:16Z",
     "lastCommitAt": "2026-10-05T20:32:44Z",
-    "lastSyncedAt": "2026-10-13T14:01:26.397Z",
-    "metadataFetchedAt": "2026-10-13T14:01:26.397Z",
+    "lastSyncedAt": "2026-10-15T16:47:00.519Z",
+    "metadataFetchedAt": "2026-10-15T16:47:00.519Z",
     "metadataStatus": "ok",
     "avatarUrl": "https://avatars.githubusercontent.com/u/66559814?v=4",
     "language": "Python",
@@ -30684,20 +30685,20 @@
       "coding-agents"
     ],
     "summarySource": "human-reviewed",
-    "stars": 106,
+    "stars": 107,
     "forks": 13,
-    "openIssues": 1,
+    "openIssues": 2,
     "license": {
       "status": "undeclared",
       "spdx": null
     },
     "licenseStatus": "unconfirmed",
     "createdAt": "2026-09-17T05:13:21Z",
-    "updatedAt": "2026-10-02T15:09:19Z",
+    "updatedAt": "2026-10-13T18:36:27Z",
     "pushedAt": "2026-09-17T11:07:31Z",
     "lastCommitAt": "2026-09-17T11:07:29Z",
-    "lastSyncedAt": "2026-10-13T14:01:29.308Z",
-    "metadataFetchedAt": "2026-10-13T14:01:29.308Z",
+    "lastSyncedAt": "2026-10-15T16:47:03.336Z",
+    "metadataFetchedAt": "2026-10-15T16:47:03.336Z",
     "metadataStatus": "ok",
     "avatarUrl": "https://avatars.githubusercontent.com/u/17963870?v=4",
     "language": "HTML",
@@ -30798,8 +30799,8 @@
     "updatedAt": "2026-10-03T02:51:22Z",
     "pushedAt": "2026-09-18T09:00:15Z",
     "lastCommitAt": "2026-09-18T08:59:59Z",
-    "lastSyncedAt": "2026-10-13T14:01:32.374Z",
-    "metadataFetchedAt": "2026-10-13T14:01:32.374Z",
+    "lastSyncedAt": "2026-10-15T16:47:06.391Z",
+    "metadataFetchedAt": "2026-10-15T16:47:06.391Z",
     "metadataStatus": "ok",
     "avatarUrl": "https://avatars.githubusercontent.com/u/24306647?v=4",
     "language": "Python",
@@ -30997,7 +30998,7 @@
     "createdAt": "2024-05-03T16:47:23Z",
     "lastCommitAt": "2026-09-19T17:21:10Z",
     "headSha": "3f2bb118326ae228545c95642b0ef33ad893fd3a",
-    "metadataFetchedAt": "2026-10-13T14:01:35.442Z",
+    "metadataFetchedAt": "2026-10-15T16:47:09.453Z",
     "metadataStatus": "ok",
     "avatarUrl": "https://avatars.githubusercontent.com/u/295237610?v=4",
     "verificationStatus": "integration-detected",
@@ -31043,7 +31044,7 @@
     "highlightBenefitKo": "닫힌 집합 판단을 기존 Polars 배치 열에 붙여, 채팅 완성을 한 번 더 돌리지 않아도 된다.",
     "updatedAt": "2026-09-19T17:21:14Z",
     "pushedAt": "2026-10-05T11:55:12Z",
-    "lastSyncedAt": "2026-10-13T14:01:35.442Z",
+    "lastSyncedAt": "2026-10-15T16:47:09.453Z",
     "archived": false,
     "licenseStatus": "declared"
   },
@@ -31081,9 +31082,9 @@
         "source": "issue"
       }
     },
-    "stars": 39,
-    "forks": 9,
-    "openIssues": 0,
+    "stars": 40,
+    "forks": 10,
+    "openIssues": 1,
     "license": {
       "status": "identified",
       "spdx": "MIT",
@@ -31093,7 +31094,7 @@
     "createdAt": "2026-09-18T21:24:11Z",
     "lastCommitAt": "2026-10-01T07:58:19Z",
     "headSha": "d5c24de556ade0f0a9c7a4c6ebb9dab305e4209e",
-    "metadataFetchedAt": "2026-10-13T14:01:41.322Z",
+    "metadataFetchedAt": "2026-10-15T16:47:15.435Z",
     "metadataStatus": "ok",
     "avatarUrl": "https://avatars.githubusercontent.com/u/61305850?v=4",
     "verificationStatus": "integration-detected",
@@ -31146,9 +31147,9 @@
     "jevDecisionPointKo": "한 요청에서 CLICK, TYPE_TEXT, SELECT, SCROLL_DOWN, SCROLL_UP, PRESS_ENTER, WAIT, DONE, BLOCKED와 해당 요소를 고른다. PRESS_ENTER는 별도의 키 컨트롤이다. 목표 달성과 동작 정체는 별도의 예/아니오로 확인한다.",
     "highlightBenefitJa": "ユーザー自身のタブで動き、スクリーンショットは撮らない。操作、対象要素、入力文を分けて確認できる。",
     "highlightBenefitKo": "사용자 자신의 탭에서 돌고 스크린샷은 찍지 않는다. 동작, 대상 요소, 입력 문장을 나눠 볼 수 있다.",
-    "updatedAt": "2026-10-12T15:29:19Z",
+    "updatedAt": "2026-10-14T11:13:06Z",
     "pushedAt": "2026-10-01T07:58:21Z",
-    "lastSyncedAt": "2026-10-13T14:01:41.322Z",
+    "lastSyncedAt": "2026-10-15T16:47:15.435Z",
     "archived": false,
     "licenseStatus": "declared"
   },
@@ -31183,7 +31184,7 @@
     "createdAt": "2026-09-18T14:48:02Z",
     "lastCommitAt": "2026-09-20T16:42:13Z",
     "headSha": "d73be4603e6ab118e092f32decef9954a0c7341a",
-    "metadataFetchedAt": "2026-10-13T14:01:44.369Z",
+    "metadataFetchedAt": "2026-10-15T16:47:18.413Z",
     "metadataStatus": "ok",
     "avatarUrl": "https://avatars.githubusercontent.com/u/217369131?v=4",
     "verificationStatus": "integration-detected",
@@ -31224,7 +31225,7 @@
     "highlightBenefitKo": "휴리스틱 특징을 임계값 있는 구조화 판단으로 만들고 백신 평문으로 쓰지 않는다. 이 사이트는 실행하거나 방어 효과를 검증하지 않았다.",
     "updatedAt": "2026-09-20T16:42:33Z",
     "pushedAt": "2026-09-20T16:42:30Z",
-    "lastSyncedAt": "2026-10-13T14:01:44.369Z",
+    "lastSyncedAt": "2026-10-15T16:47:18.413Z",
     "archived": false
   },
   {
@@ -31263,10 +31264,10 @@
     },
     "licenseStatus": "declared",
     "createdAt": "2026-09-19T13:57:58Z",
-    "updatedAt": "2026-10-12T01:50:11Z",
-    "pushedAt": "2026-10-12T01:50:07Z",
-    "lastCommitAt": "2026-10-12T01:50:05Z",
-    "metadataFetchedAt": "2026-10-13T14:01:47.467Z",
+    "updatedAt": "2026-10-14T10:25:06Z",
+    "pushedAt": "2026-10-14T10:25:02Z",
+    "lastCommitAt": "2026-10-14T10:25:01Z",
+    "metadataFetchedAt": "2026-10-15T16:47:21.542Z",
     "avatarUrl": "https://avatars.githubusercontent.com/u/260753136?v=4",
     "language": "TypeScript",
     "topics": [
@@ -31280,7 +31281,7 @@
       "typescript"
     ],
     "archived": false,
-    "headSha": "27efee0ba7bcc555f685ece080a65a2bfc2521eb",
+    "headSha": "01f408559c1ce994a28ee1242991a0ec981ddc10",
     "sourceUrl": "https://github.com/coo-quack/jev-pii-checker/blob/6ad02cdc0d7ca563897ce9eff881b7a7b017d426/src/judge.ts",
     "sourcePath": "src/judge.ts",
     "evidenceLines": [],
@@ -31337,7 +31338,7 @@
     },
     "sourceReviewedAt": "2026-09-19T15:50:00.000Z",
     "pinned": false,
-    "lastSyncedAt": "2026-10-13T14:01:47.467Z"
+    "lastSyncedAt": "2026-10-15T16:47:21.542Z"
   },
   {
     "id": "fazalaali:jev-robotics-demo",
@@ -31364,7 +31365,7 @@
       "typed-decisions",
       "domain-workflows"
     ],
-    "stars": 6,
+    "stars": 7,
     "forks": 0,
     "openIssues": 0,
     "license": {
@@ -31375,10 +31376,10 @@
     },
     "licenseStatus": "declared",
     "createdAt": "2026-09-19T15:09:19Z",
-    "updatedAt": "2026-10-13T06:34:11Z",
+    "updatedAt": "2026-10-14T01:15:16Z",
     "pushedAt": "2026-09-19T15:09:24Z",
     "lastCommitAt": "2026-09-19T15:08:10Z",
-    "metadataFetchedAt": "2026-10-13T14:01:50.434Z",
+    "metadataFetchedAt": "2026-10-15T16:47:24.349Z",
     "avatarUrl": "https://avatars.githubusercontent.com/u/37760883?v=4",
     "language": "Python",
     "topics": [],
@@ -31430,7 +31431,7 @@
     },
     "sourceReviewedAt": "2026-09-19T15:50:00.000Z",
     "pinned": false,
-    "lastSyncedAt": "2026-10-13T14:01:50.434Z"
+    "lastSyncedAt": "2026-10-15T16:47:24.349Z"
   },
   {
     "id": "uehaj:jev-semgrep",
@@ -31457,9 +31458,9 @@
       "cli-git-gates",
       "typed-decisions"
     ],
-    "stars": 149,
+    "stars": 150,
     "forks": 8,
-    "openIssues": 26,
+    "openIssues": 27,
     "license": {
       "status": "custom",
       "spdx": null,
@@ -31467,10 +31468,10 @@
     },
     "licenseStatus": "declared",
     "createdAt": "2026-09-19T03:18:28Z",
-    "updatedAt": "2026-10-13T05:42:52Z",
-    "pushedAt": "2026-10-13T05:42:47Z",
+    "updatedAt": "2026-10-14T17:19:28Z",
+    "pushedAt": "2026-10-14T23:32:28Z",
     "lastCommitAt": "2026-10-13T05:42:47Z",
-    "metadataFetchedAt": "2026-10-13T14:01:56.362Z",
+    "metadataFetchedAt": "2026-10-15T16:47:30.338Z",
     "avatarUrl": "https://avatars.githubusercontent.com/u/59012?v=4",
     "language": "JavaScript",
     "topics": [],
@@ -31532,7 +31533,7 @@
     },
     "sourceReviewedAt": "2026-09-19T15:50:00.000Z",
     "pinned": false,
-    "lastSyncedAt": "2026-10-13T14:01:56.362Z"
+    "lastSyncedAt": "2026-10-15T16:47:30.338Z"
   },
   {
     "id": "ddnim:jev-tweet-radar",
@@ -31573,7 +31574,7 @@
     "updatedAt": "2026-10-01T09:24:55Z",
     "pushedAt": "2026-10-01T09:24:51Z",
     "lastCommitAt": "2026-10-01T09:24:49Z",
-    "metadataFetchedAt": "2026-10-13T14:01:59.586Z",
+    "metadataFetchedAt": "2026-10-15T16:47:33.547Z",
     "avatarUrl": "https://avatars.githubusercontent.com/u/5253392?v=4",
     "language": "JavaScript",
     "topics": [],
@@ -31625,7 +31626,7 @@
     },
     "sourceReviewedAt": "2026-09-19T15:50:00.000Z",
     "pinned": false,
-    "lastSyncedAt": "2026-10-13T14:01:59.586Z"
+    "lastSyncedAt": "2026-10-15T16:47:33.547Z"
   },
   {
     "id": "thestral12:pr-sieve",
@@ -31666,7 +31667,7 @@
     "updatedAt": "2026-09-18T17:27:03Z",
     "pushedAt": "2026-09-18T17:26:24Z",
     "lastCommitAt": "2026-09-18T16:56:20Z",
-    "metadataFetchedAt": "2026-10-13T14:02:02.404Z",
+    "metadataFetchedAt": "2026-10-15T16:47:36.526Z",
     "avatarUrl": "https://avatars.githubusercontent.com/u/183735965?v=4",
     "language": "TypeScript",
     "topics": [],
@@ -31718,7 +31719,7 @@
     },
     "sourceReviewedAt": "2026-09-19T15:50:00.000Z",
     "pinned": false,
-    "lastSyncedAt": "2026-10-13T14:02:02.404Z"
+    "lastSyncedAt": "2026-10-15T16:47:36.526Z"
   },
   {
     "id": "nitoba:questions",
@@ -31758,7 +31759,7 @@
     "updatedAt": "2026-09-22T11:24:40Z",
     "pushedAt": "2026-09-22T11:24:36Z",
     "lastCommitAt": "2026-09-22T11:24:35Z",
-    "metadataFetchedAt": "2026-10-13T14:02:05.403Z",
+    "metadataFetchedAt": "2026-10-15T16:47:39.420Z",
     "avatarUrl": "https://avatars.githubusercontent.com/u/38570443?v=4",
     "language": "TypeScript",
     "topics": [],
@@ -31820,7 +31821,7 @@
     },
     "sourceReviewedAt": "2026-09-19T15:50:00.000Z",
     "pinned": false,
-    "lastSyncedAt": "2026-10-13T14:02:05.403Z"
+    "lastSyncedAt": "2026-10-15T16:47:39.420Z"
   },
   {
     "id": "kentcdodds:kody",
@@ -31847,9 +31848,9 @@
       "mcp-integrations",
       "classification-ranking"
     ],
-    "stars": 784,
-    "forks": 76,
-    "openIssues": 112,
+    "stars": 793,
+    "forks": 77,
+    "openIssues": 115,
     "license": {
       "status": "custom",
       "spdx": null,
@@ -31857,10 +31858,10 @@
     },
     "licenseStatus": "custom",
     "createdAt": "2026-03-18T23:30:18Z",
-    "updatedAt": "2026-10-13T22:30:18Z",
-    "pushedAt": "2026-10-13T22:30:15Z",
-    "lastCommitAt": "2026-10-13T22:30:13Z",
-    "metadataFetchedAt": "2026-10-13T22:30:33.718Z",
+    "updatedAt": "2026-10-15T16:36:31Z",
+    "pushedAt": "2026-10-15T16:36:27Z",
+    "lastCommitAt": "2026-10-15T16:36:24Z",
+    "metadataFetchedAt": "2026-10-15T16:47:45.381Z",
     "avatarUrl": "https://avatars.githubusercontent.com/u/1500684?v=4",
     "language": "TypeScript",
     "topics": [
@@ -31872,7 +31873,7 @@
       "personal-assistant"
     ],
     "archived": false,
-    "headSha": "5150df44166cb54f2a78989fcab5bbf29899a4d1",
+    "headSha": "f97b199b2bd6db3791e3d471b1cc88e43a5953b2",
     "sourceUrl": "https://github.com/kentcdodds/kody/blob/ed9275186dc817530dd2289e62c208ac3809391f/packages/worker/src/mcp/tools/search-jev-rerank.ts",
     "sourcePath": "packages/worker/src/mcp/tools/search-jev-rerank.ts",
     "evidenceLines": [],
@@ -31919,7 +31920,7 @@
     },
     "sourceReviewedAt": "2026-09-19T15:50:00.000Z",
     "pinned": false,
-    "lastSyncedAt": "2026-10-13T22:30:33.718Z"
+    "lastSyncedAt": "2026-10-15T16:47:45.381Z"
   },
   {
     "id": "jandalhuysen:jev-clash-royale-test",
@@ -31957,7 +31958,7 @@
     "updatedAt": "2026-09-22T13:02:06Z",
     "pushedAt": "2026-09-19T11:10:57Z",
     "lastCommitAt": "2026-09-19T11:10:48Z",
-    "metadataFetchedAt": "2026-10-13T22:30:36.755Z",
+    "metadataFetchedAt": "2026-10-15T16:47:48.469Z",
     "avatarUrl": "https://avatars.githubusercontent.com/u/58688790?v=4",
     "language": "JavaScript",
     "topics": [],
@@ -32009,7 +32010,7 @@
     },
     "sourceReviewedAt": "2026-09-19T16:30:00.000Z",
     "pinned": false,
-    "lastSyncedAt": "2026-10-13T22:30:36.755Z"
+    "lastSyncedAt": "2026-10-15T16:47:48.469Z"
   },
   {
     "id": "jaewgwon:jevis",
@@ -32049,7 +32050,7 @@
     "updatedAt": "2026-10-05T12:09:24Z",
     "pushedAt": "2026-09-19T09:55:39Z",
     "lastCommitAt": "2026-09-19T09:00:06Z",
-    "metadataFetchedAt": "2026-10-13T22:30:39.772Z",
+    "metadataFetchedAt": "2026-10-15T16:47:51.435Z",
     "avatarUrl": "https://avatars.githubusercontent.com/u/40692132?v=4",
     "language": "Dart",
     "topics": [
@@ -32117,7 +32118,7 @@
     },
     "sourceReviewedAt": "2026-09-19T16:30:00.000Z",
     "pinned": false,
-    "lastSyncedAt": "2026-10-13T22:30:39.772Z"
+    "lastSyncedAt": "2026-10-15T16:47:51.435Z"
   },
   {
     "id": "hnegishi:typesafe-ai-ruby",
@@ -32157,7 +32158,7 @@
     "updatedAt": "2026-09-25T19:34:59Z",
     "pushedAt": "2026-09-20T13:37:50Z",
     "lastCommitAt": "2026-09-20T13:37:43Z",
-    "metadataFetchedAt": "2026-10-13T22:30:42.722Z",
+    "metadataFetchedAt": "2026-10-15T16:47:54.379Z",
     "avatarUrl": "https://avatars.githubusercontent.com/u/30515665?v=4",
     "language": "Ruby",
     "topics": [],
@@ -32229,7 +32230,7 @@
     },
     "sourceReviewedAt": "2026-09-19T16:30:00.000Z",
     "pinned": false,
-    "lastSyncedAt": "2026-10-13T22:30:42.722Z"
+    "lastSyncedAt": "2026-10-15T16:47:54.379Z"
   },
   {
     "id": "kuldeepsinh19:jev-decision-gateway",
@@ -32270,7 +32271,7 @@
     "updatedAt": "2026-09-28T17:25:26Z",
     "pushedAt": "2026-09-19T03:51:53Z",
     "lastCommitAt": "2026-09-19T03:49:28Z",
-    "metadataFetchedAt": "2026-10-13T22:30:45.753Z",
+    "metadataFetchedAt": "2026-10-15T16:47:57.432Z",
     "avatarUrl": "https://avatars.githubusercontent.com/u/125124603?v=4",
     "language": "TypeScript",
     "topics": [],
@@ -32342,7 +32343,7 @@
     },
     "sourceReviewedAt": "2026-09-19T16:30:00.000Z",
     "pinned": false,
-    "lastSyncedAt": "2026-10-13T22:30:45.753Z"
+    "lastSyncedAt": "2026-10-15T16:47:57.432Z"
   },
   {
     "id": "thruwire:foreman",
@@ -32369,8 +32370,8 @@
       "typed-decisions",
       "cli-git-gates"
     ],
-    "stars": 752,
-    "forks": 59,
+    "stars": 759,
+    "forks": 62,
     "openIssues": 10,
     "license": {
       "status": "identified",
@@ -32380,15 +32381,15 @@
     },
     "licenseStatus": "declared",
     "createdAt": "2026-09-17T11:46:13Z",
-    "updatedAt": "2026-10-13T19:12:05Z",
-    "pushedAt": "2026-10-13T18:10:02Z",
-    "lastCommitAt": "2026-10-09T14:43:12Z",
-    "metadataFetchedAt": "2026-10-13T22:30:48.704Z",
+    "updatedAt": "2026-10-15T15:32:50Z",
+    "pushedAt": "2026-10-15T12:59:56Z",
+    "lastCommitAt": "2026-10-15T12:58:59Z",
+    "metadataFetchedAt": "2026-10-15T16:48:00.428Z",
     "avatarUrl": "https://avatars.githubusercontent.com/u/214398454?v=4",
     "language": "Python",
     "topics": [],
     "archived": false,
-    "headSha": "381ca2de90af9efc2781a58055cc3028c7cabbb9",
+    "headSha": "c3142ef636617f32f772140125aa310d81ceece9",
     "sourceUrl": "https://github.com/thruwire/foreman/blob/209182dac7a3467033fd093ab4ca47d21279984a/src/foreman/foreman/jev.py",
     "sourcePath": "src/foreman/foreman/jev.py",
     "evidenceLines": [],
@@ -32445,7 +32446,7 @@
     },
     "sourceReviewedAt": "2026-09-19T16:30:00.000Z",
     "pinned": false,
-    "lastSyncedAt": "2026-10-13T22:30:48.704Z"
+    "lastSyncedAt": "2026-10-15T16:48:00.428Z"
   },
   {
     "id": "stas4000:jev-clerk",
@@ -32485,7 +32486,7 @@
     "updatedAt": "2026-10-12T08:45:50Z",
     "pushedAt": "2026-09-19T14:50:01Z",
     "lastCommitAt": "2026-09-19T14:49:54Z",
-    "metadataFetchedAt": "2026-10-13T22:30:51.738Z",
+    "metadataFetchedAt": "2026-10-15T16:48:03.306Z",
     "avatarUrl": "https://avatars.githubusercontent.com/u/16101773?v=4",
     "language": "Python",
     "topics": [],
@@ -32547,7 +32548,7 @@
     },
     "sourceReviewedAt": "2026-09-19T16:30:00.000Z",
     "pinned": false,
-    "lastSyncedAt": "2026-10-13T22:30:51.738Z"
+    "lastSyncedAt": "2026-10-15T16:48:03.306Z"
   },
   {
     "id": "florian-hoenicke:jev-gpt",
@@ -32585,7 +32586,7 @@
     "updatedAt": "2026-09-27T00:34:10Z",
     "pushedAt": "2026-09-19T15:17:09Z",
     "lastCommitAt": "2026-09-19T15:17:02Z",
-    "metadataFetchedAt": "2026-10-13T22:30:54.694Z",
+    "metadataFetchedAt": "2026-10-15T16:48:06.400Z",
     "avatarUrl": "https://avatars.githubusercontent.com/u/11627845?v=4",
     "language": "Python",
     "topics": [],
@@ -32637,7 +32638,7 @@
     },
     "sourceReviewedAt": "2026-09-19T16:30:00.000Z",
     "pinned": false,
-    "lastSyncedAt": "2026-10-13T22:30:54.694Z"
+    "lastSyncedAt": "2026-10-15T16:48:06.400Z"
   },
   {
     "id": "dotnetvibecoderz:vibe_sdk",
@@ -32677,7 +32678,7 @@
     "updatedAt": "2026-10-06T04:30:03Z",
     "pushedAt": "2026-10-06T04:30:00Z",
     "lastCommitAt": "2026-10-06T04:29:56Z",
-    "metadataFetchedAt": "2026-10-13T22:30:57.807Z",
+    "metadataFetchedAt": "2026-10-15T16:48:09.628Z",
     "avatarUrl": "https://avatars.githubusercontent.com/u/257091371?v=4",
     "language": "C#",
     "topics": [],
@@ -32739,7 +32740,7 @@
     },
     "sourceReviewedAt": "2026-09-19T16:30:00.000Z",
     "pinned": false,
-    "lastSyncedAt": "2026-10-13T22:30:57.807Z"
+    "lastSyncedAt": "2026-10-15T16:48:09.628Z"
   },
   {
     "id": "harshwasan:pi-jev-sentinel",
@@ -32781,8 +32782,8 @@
       }
     },
     "stars": 13,
-    "forks": 1,
-    "openIssues": 1,
+    "forks": 0,
+    "openIssues": 0,
     "license": {
       "status": "identified",
       "spdx": "MIT",
@@ -32792,7 +32793,7 @@
     "createdAt": "2026-09-19T16:40:22Z",
     "lastCommitAt": "2026-09-20T21:42:46Z",
     "headSha": "4ae67df78c95a6c9c5b9d872c76ba5123c2028b0",
-    "metadataFetchedAt": "2026-10-13T22:31:03.749Z",
+    "metadataFetchedAt": "2026-10-15T16:48:15.546Z",
     "metadataStatus": "ok",
     "avatarUrl": "https://avatars.githubusercontent.com/u/37144188?v=4",
     "verificationStatus": "integration-detected",
@@ -32832,7 +32833,7 @@
     },
     "updatedAt": "2026-10-12T15:46:42Z",
     "pushedAt": "2026-09-20T21:42:49Z",
-    "lastSyncedAt": "2026-10-13T22:31:03.749Z",
+    "lastSyncedAt": "2026-10-15T16:48:15.546Z",
     "archived": false,
     "licenseStatus": "declared"
   },
@@ -32874,9 +32875,9 @@
         "source": "issue"
       }
     },
-    "stars": 60,
+    "stars": 61,
     "forks": 14,
-    "openIssues": 6,
+    "openIssues": 7,
     "license": {
       "status": "identified",
       "spdx": "MIT",
@@ -32886,7 +32887,7 @@
     "createdAt": "2026-09-19T10:13:56Z",
     "lastCommitAt": "2026-09-22T10:37:01Z",
     "headSha": "541c86caabf1eeb0af929256649d460f2708cb42",
-    "metadataFetchedAt": "2026-10-13T22:31:06.692Z",
+    "metadataFetchedAt": "2026-10-15T16:48:18.330Z",
     "metadataStatus": "ok",
     "avatarUrl": "https://avatars.githubusercontent.com/u/61344989?v=4",
     "verificationStatus": "integration-detected",
@@ -32933,9 +32934,9 @@
       "issueBodySha256": "02cdb69e9ca3909d1c5ec92c6ca2a4cfa82fd50c1bf3953502a6928d8822ba37",
       "issueUrl": "https://github.com/logicrw/awesome-jev-projects/issues/25"
     },
-    "updatedAt": "2026-10-12T20:23:32Z",
+    "updatedAt": "2026-10-14T23:54:51Z",
     "pushedAt": "2026-09-22T10:37:02Z",
-    "lastSyncedAt": "2026-10-13T22:31:06.692Z",
+    "lastSyncedAt": "2026-10-15T16:48:18.330Z",
     "archived": false,
     "licenseStatus": "declared"
   },
@@ -32977,7 +32978,7 @@
       }
     },
     "stars": 5,
-    "forks": 1,
+    "forks": 2,
     "openIssues": 2,
     "license": {
       "status": "identified",
@@ -32986,9 +32987,9 @@
       "url": "https://api.github.com/licenses/apache-2.0"
     },
     "createdAt": "2026-09-19T11:47:09Z",
-    "lastCommitAt": "2026-10-10T10:50:07Z",
-    "headSha": "a6c0645631b651e5d16fbecbe8c352bbe65bdbf8",
-    "metadataFetchedAt": "2026-10-13T22:31:09.811Z",
+    "lastCommitAt": "2026-10-15T15:52:22Z",
+    "headSha": "3dafec4646ccc4ef5864332b146df0138f9bf94a",
+    "metadataFetchedAt": "2026-10-15T16:48:21.403Z",
     "metadataStatus": "ok",
     "avatarUrl": "https://avatars.githubusercontent.com/u/307085583?v=4",
     "verificationStatus": "integration-detected",
@@ -33035,9 +33036,9 @@
       "issueBodySha256": "ab0c928b54b1a35c4dce65e134797d6b714e24b079b6c6b7695bc09837f65a96",
       "issueUrl": "https://github.com/logicrw/awesome-jev-projects/issues/26"
     },
-    "updatedAt": "2026-10-10T10:50:11Z",
-    "pushedAt": "2026-10-10T10:50:08Z",
-    "lastSyncedAt": "2026-10-13T22:31:09.811Z",
+    "updatedAt": "2026-10-15T15:52:29Z",
+    "pushedAt": "2026-10-15T15:52:23Z",
+    "lastSyncedAt": "2026-10-15T16:48:21.403Z",
     "archived": false,
     "licenseStatus": "declared"
   },
@@ -33093,7 +33094,7 @@
     "createdAt": "2026-09-19T15:42:25Z",
     "lastCommitAt": "2026-09-19T21:15:09Z",
     "headSha": "f37c440b84aaa09e0c2de5f441f19a32f8711781",
-    "metadataFetchedAt": "2026-10-13T22:31:12.796Z",
+    "metadataFetchedAt": "2026-10-15T16:48:24.465Z",
     "metadataStatus": "ok",
     "avatarUrl": "https://avatars.githubusercontent.com/u/234730463?v=4",
     "verificationStatus": "integration-detected",
@@ -33142,7 +33143,7 @@
     },
     "updatedAt": "2026-09-19T21:15:14Z",
     "pushedAt": "2026-09-19T21:15:11Z",
-    "lastSyncedAt": "2026-10-13T22:31:12.796Z",
+    "lastSyncedAt": "2026-10-15T16:48:24.465Z",
     "archived": false,
     "licenseStatus": "declared"
   },
@@ -33176,9 +33177,9 @@
       "url": "https://api.github.com/licenses/mit"
     },
     "createdAt": "2026-09-19T20:10:31Z",
-    "lastCommitAt": "2026-09-22T23:42:23Z",
-    "headSha": "a7d85835ec999be24beaee2717b0095cc4481320",
-    "metadataFetchedAt": "2026-10-13T22:31:15.756Z",
+    "lastCommitAt": "2026-10-14T22:47:30Z",
+    "headSha": "e1d75da354032b1cd1019f26fef317b284cbe6f3",
+    "metadataFetchedAt": "2026-10-15T16:48:27.347Z",
     "metadataStatus": "ok",
     "avatarUrl": "https://avatars.githubusercontent.com/u/1295961?v=4",
     "verificationStatus": "integration-detected",
@@ -33225,9 +33226,9 @@
       "issueBodySha256": "cec465e520e254c851a03cf770283c8824cef4a73a244cf3417bdeb8490489d5",
       "issueUrl": "https://github.com/logicrw/awesome-jev-projects/issues/28"
     },
-    "updatedAt": "2026-09-25T02:54:21Z",
-    "pushedAt": "2026-09-22T23:42:28Z",
-    "lastSyncedAt": "2026-10-13T22:31:15.756Z",
+    "updatedAt": "2026-10-14T22:48:01Z",
+    "pushedAt": "2026-10-14T22:47:57Z",
+    "lastSyncedAt": "2026-10-15T16:48:27.347Z",
     "archived": false,
     "licenseStatus": "declared"
   },
@@ -33263,7 +33264,7 @@
     "createdAt": "2026-09-20T01:25:20Z",
     "lastCommitAt": "2026-10-13T02:38:25Z",
     "headSha": "6431714c5df685d81b51dc4582fcaa7987dfa411",
-    "metadataFetchedAt": "2026-10-13T22:31:18.764Z",
+    "metadataFetchedAt": "2026-10-15T16:48:30.353Z",
     "metadataStatus": "ok",
     "avatarUrl": "https://avatars.githubusercontent.com/u/18278604?v=4",
     "verificationStatus": "integration-detected",
@@ -33303,7 +33304,7 @@
     },
     "updatedAt": "2026-10-13T02:40:35Z",
     "pushedAt": "2026-10-13T02:40:32Z",
-    "lastSyncedAt": "2026-10-13T22:31:18.764Z",
+    "lastSyncedAt": "2026-10-15T16:48:30.353Z",
     "archived": false,
     "licenseStatus": "declared"
   },
@@ -33328,8 +33329,8 @@
     "claimStatus": "优先保留投稿者与仓库原文，缺失语言自动补充；自动检查仅确认 Jev 集成证据，未经本站运行或性能复测。",
     "claimStatusEn": "Author and repository text is preserved where clear; missing languages are enriched automatically. Checks establish source-level Jev integration, not runtime, safety, or performance validation.",
     "plainSummaryEn": "Jev-powered Instagram, TikTok, and LinkedIn research: typed routing, real browser evidence, streamed post cards, video capture, and cited socai reports.",
-    "stars": 168,
-    "forks": 37,
+    "stars": 171,
+    "forks": 36,
     "openIssues": 12,
     "license": {
       "status": "identified",
@@ -33340,7 +33341,7 @@
     "createdAt": "2026-09-18T18:48:15Z",
     "lastCommitAt": "2026-10-12T09:01:18Z",
     "headSha": "2f02e6f4c60943e679993634ad1017b0c97efff5",
-    "metadataFetchedAt": "2026-10-13T22:31:21.692Z",
+    "metadataFetchedAt": "2026-10-15T16:48:33.373Z",
     "metadataStatus": "ok",
     "avatarUrl": "https://avatars.githubusercontent.com/u/291013799?v=4",
     "verificationStatus": "integration-detected",
@@ -33441,9 +33442,9 @@
       "issueBodySha256": "e1782734d4194ba57680e854606099b84130ece8968af75b6f2178137c62b5b3",
       "issueUrl": "https://github.com/logicrw/awesome-jev-projects/issues/30"
     },
-    "updatedAt": "2026-10-13T07:45:55Z",
+    "updatedAt": "2026-10-15T10:31:45Z",
     "pushedAt": "2026-10-12T09:01:19Z",
-    "lastSyncedAt": "2026-10-13T22:31:21.692Z",
+    "lastSyncedAt": "2026-10-15T16:48:33.373Z",
     "archived": false,
     "licenseStatus": "declared"
   },
@@ -78544,7 +78545,7 @@
     "summarySource": "ai-material-review",
     "stars": 0,
     "forks": 0,
-    "openIssues": 1,
+    "openIssues": 2,
     "license": {
       "status": "identified",
       "spdx": "Apache-2.0",
@@ -78552,9 +78553,9 @@
       "url": "https://api.github.com/licenses/apache-2.0"
     },
     "createdAt": "2026-10-07T13:29:10Z",
-    "lastCommitAt": "2026-10-13T10:39:35Z",
-    "headSha": "c2b6e22d8681687946c0104a11ccad045f7f9abc",
-    "metadataFetchedAt": "2026-10-13T16:53:42.101Z",
+    "lastCommitAt": "2026-10-15T11:13:00Z",
+    "headSha": "a30a9ce068f6aaf15f8312f3e5b38d90f72072a1",
+    "metadataFetchedAt": "2026-10-15T16:47:42.397Z",
     "metadataStatus": "ok",
     "avatarUrl": "https://avatars.githubusercontent.com/u/339160993?v=4",
     "verificationStatus": "material-reviewed",
@@ -78696,7 +78697,11 @@
       "reviewRevision": "d97e7cf4b2cebf0d9171e4756f56fb74f2133eafbeba8258b772470259c75ac8",
       "issueUrl": "https://github.com/logicrw/awesome-jev-projects/issues/124"
     },
-    "licenseStatus": "declared"
+    "licenseStatus": "declared",
+    "updatedAt": "2026-10-15T11:13:08Z",
+    "pushedAt": "2026-10-15T11:13:03Z",
+    "lastSyncedAt": "2026-10-15T16:47:42.397Z",
+    "archived": false
   },
   {
     "name": "jev-chat-jarvis",
