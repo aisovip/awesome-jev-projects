@@ -13,27 +13,27 @@
     "repositories:\"typesafe.ai\" \"jev\" in:readme fork:false": 1,
     "repositories:\"from typesafe import jev\" in:readme fork:false": 1,
     "repositories:\"@typesafe/jev\" in:readme fork:false": 1,
-    "code:\"api.typesafe.ai\" in:file": 3,
-    "code:\"typesafe.ai\" in:file": 3,
+    "code:\"api.typesafe.ai\" in:file": 5,
+    "code:\"typesafe.ai\" in:file": 5,
     "code:\"from typesafe import\" in:file": 1,
     "code:\"@typesafe/jev\" in:file": 1,
-    "commits:\"typesafe.ai\"": 3,
-    "commits:\"Jev\" \"AI\"": 5,
-    "issues:\"typesafe.ai\" is:pr in:title,body": 3,
-    "issues:\"Jev\" \"TypeSafe\" is:pr in:title,body": 3,
-    "repositories:topic:jev fork:true": 3,
-    "repositories:typesafe jev fork:true": 3,
-    "repositories:typesafe-ai fork:true": 3,
-    "repositories:jev-mcp fork:true": 7,
-    "repositories:jev decision fork:true": 3,
-    "repositories:\"TypeSafe AI\" in:readme fork:true": 3,
-    "repositories:\"Jev API\" in:readme fork:true": 3,
-    "repositories:topic:typesafe-ai fork:true": 5,
-    "repositories:topic:typesafe ai fork:true": 3,
-    "repositories:\"api.typesafe.ai\" in:readme fork:true": 3,
-    "repositories:\"typesafe.ai\" \"jev\" in:readme fork:true": 3,
+    "commits:\"typesafe.ai\"": 5,
+    "commits:\"Jev\" \"AI\"": 7,
+    "issues:\"typesafe.ai\" is:pr in:title,body": 5,
+    "issues:\"Jev\" \"TypeSafe\" is:pr in:title,body": 5,
+    "repositories:topic:jev fork:true": 5,
+    "repositories:typesafe jev fork:true": 5,
+    "repositories:typesafe-ai fork:true": 5,
+    "repositories:jev-mcp fork:true": 9,
+    "repositories:jev decision fork:true": 5,
+    "repositories:\"TypeSafe AI\" in:readme fork:true": 5,
+    "repositories:\"Jev API\" in:readme fork:true": 5,
+    "repositories:topic:typesafe-ai fork:true": 7,
+    "repositories:topic:typesafe ai fork:true": 1,
+    "repositories:\"api.typesafe.ai\" in:readme fork:true": 5,
+    "repositories:\"typesafe.ai\" \"jev\" in:readme fork:true": 5,
     "repositories:\"from typesafe import jev\" in:readme fork:true": 1,
-    "repositories:\"@typesafe/jev\" in:readme fork:true": 3
+    "repositories:\"@typesafe/jev\" in:readme fork:true": 5
   },
   "tamaratran/fast-jev-compaction": {
     "checkedAt": "2026-09-18T06:52:26.940Z"
@@ -14116,6 +14116,444 @@
   },
   "fstandhartinger/awesome-jev-2": {
     "checkedAt": "2026-10-17T04:13:52.732Z",
+    "status": "deferred",
+    "reason": "daily-quota-exhausted",
+    "nextAttemptAt": "2026-10-18T00:00:00.000Z"
+  },
+  "alpkeskin/jev-guardrail": {
+    "fingerprint": "7f1685aca4afb48590f5d865986af0f38ef1d6e1919a96e3b02ab7fb9efb15db",
+    "checkedAt": "2026-10-17T10:49:24.879Z",
+    "status": "blocked",
+    "reason": "insufficient-evidence",
+    "attempts": 1,
+    "budgetLedger": {
+      "version": 1,
+      "caseId": "7edf4c6408a5f674565fda74bb3a4eb8b88841227ce77c0cf704e18da3ff5520",
+      "limitTokens": 6000,
+      "chargedTokens": 0,
+      "httpAttempts": 0,
+      "semanticRounds": 0
+    }
+  },
+  "royam0820/Jev-Meetup": {
+    "fingerprint": "9eadc8dce21e08d39f441659a588a18bcb538a4e1d0e0b020f80e0d65037474a",
+    "checkedAt": "2026-10-17T10:49:24.879Z",
+    "status": "blocked",
+    "reason": "insufficient-evidence",
+    "attempts": 1,
+    "budgetLedger": {
+      "version": 1,
+      "caseId": "140919ca8cae604433d857d92596a08544df2260d42e547b2dd052160a786efb",
+      "limitTokens": 6000,
+      "chargedTokens": 0,
+      "httpAttempts": 0,
+      "semanticRounds": 0
+    }
+  },
+  "interjc/gomoku-ai-jev": {
+    "fingerprint": "2cd42d0da7a6cdbb34799bc2294da7a254ae85b51693e9ccce57b18d054f2d2f",
+    "checkedAt": "2026-10-17T10:49:24.879Z",
+    "status": "blocked",
+    "reason": "insufficient-evidence",
+    "attempts": 1,
+    "budgetLedger": {
+      "version": 1,
+      "caseId": "a67cf31a6137ebdebd82011aecf1e1e61d68dc32742aedbf8ecc04e47d7f27b6",
+      "limitTokens": 6000,
+      "chargedTokens": 0,
+      "httpAttempts": 0,
+      "semanticRounds": 0
+    }
+  },
+  "ronitgupta138/Local-Jev": {
+    "fingerprint": "e23923432bcb67b84e0cc8184477374ca7b97db8adf0818dfcea38ebb5b50578",
+    "checkedAt": "2026-10-17T10:49:24.879Z",
+    "status": "blocked",
+    "reason": "insufficient-evidence",
+    "attempts": 1,
+    "budgetLedger": {
+      "version": 1,
+      "caseId": "440e8e0ffad201e36c4faca210a09332b0a82cc2abf58f9bbfef03a972244126",
+      "limitTokens": 6000,
+      "chargedTokens": 0,
+      "httpAttempts": 0,
+      "semanticRounds": 0
+    }
+  },
+  "xxynet/kira-ai-plugin-jev": {
+    "fingerprint": "baa614e867c6c901415908c96458484d3207d07cbd67e23fb0f7aca6b70b7b1f",
+    "checkedAt": "2026-10-17T10:49:24.879Z",
+    "status": "blocked",
+    "reason": "insufficient-evidence",
+    "attempts": 1,
+    "budgetLedger": {
+      "version": 1,
+      "caseId": "4f28c91827ef371747c2069074cf1b0db61ba95562600395747f2a4bd9116caf",
+      "limitTokens": 6000,
+      "chargedTokens": 0,
+      "httpAttempts": 0,
+      "semanticRounds": 0
+    }
+  },
+  "thomas-chong/agy-cli-jev-auto-mode": {
+    "fingerprint": "1c8cc956991a0d613b55d071f238829ab83f8d83c6d6687218091f399f990db7",
+    "checkedAt": "2026-10-17T10:49:24.879Z",
+    "status": "blocked",
+    "reason": "insufficient-evidence",
+    "attempts": 1,
+    "budgetLedger": {
+      "version": 1,
+      "caseId": "114023752e68f7b60dd7ad6f8b4cb669345661b874d1f26fcc2dabca93debf6e",
+      "limitTokens": 6000,
+      "chargedTokens": 0,
+      "httpAttempts": 0,
+      "semanticRounds": 0
+    }
+  },
+  "jaesius/learning-jev": {
+    "fingerprint": "ebcf54bc91cde28436dca42b97633ea34040aacbfcb4f5e51a46a44619ba7c5a",
+    "checkedAt": "2026-10-17T10:49:24.879Z",
+    "status": "blocked",
+    "reason": "insufficient-evidence",
+    "attempts": 1,
+    "budgetLedger": {
+      "version": 1,
+      "caseId": "10ffb4e08375236dd5e922a93826419ee36798746c288d66879235b1d620f1eb",
+      "limitTokens": 6000,
+      "chargedTokens": 0,
+      "httpAttempts": 0,
+      "semanticRounds": 0
+    }
+  },
+  "IoTone/jevracket": {
+    "fingerprint": "a9b9d80b5b24b9651877b48c17ceec1dc941593b319890eb2457135e218a5a01",
+    "checkedAt": "2026-10-17T10:49:24.879Z",
+    "status": "blocked",
+    "reason": "insufficient-evidence",
+    "attempts": 1,
+    "budgetLedger": {
+      "version": 1,
+      "caseId": "9ed904fb0ece5ca643fb7c11e8ee6bf212e74845797295bb3520122306c74431",
+      "limitTokens": 6000,
+      "chargedTokens": 0,
+      "httpAttempts": 0,
+      "semanticRounds": 0
+    }
+  },
+  "gbesse/jev-roast": {
+    "fingerprint": "229141040b340fdd0b7e66bb445162ace3239332cdf3c55176f62b1dc4adbc7a",
+    "checkedAt": "2026-10-17T10:49:24.879Z",
+    "status": "blocked",
+    "reason": "insufficient-evidence",
+    "attempts": 1,
+    "budgetLedger": {
+      "version": 1,
+      "caseId": "5eac4c29cf359cd258d37aae498147316d18f7a7bf842711d2adc9233a23c035",
+      "limitTokens": 6000,
+      "chargedTokens": 0,
+      "httpAttempts": 0,
+      "semanticRounds": 0
+    }
+  },
+  "oChavez8538/jev-browser": {
+    "fingerprint": "36d4740ded9515d872ce853aefe860579961dc30ee637e6f757fd387793dab92",
+    "checkedAt": "2026-10-17T10:49:24.879Z",
+    "status": "blocked",
+    "reason": "insufficient-evidence",
+    "attempts": 1,
+    "budgetLedger": {
+      "version": 1,
+      "caseId": "ca26e044d43c4af9f4699855186bb213b5a0557df4a4e5618ca831f2e0e3888b",
+      "limitTokens": 6000,
+      "chargedTokens": 0,
+      "httpAttempts": 0,
+      "semanticRounds": 0
+    }
+  },
+  "pjbeyer/jev-agent-kit": {
+    "checkedAt": "2026-10-17T10:49:24.879Z",
+    "status": "deferred",
+    "reason": "daily-quota-exhausted",
+    "nextAttemptAt": "2026-10-18T00:00:00.000Z"
+  },
+  "hoang982/jev-browser": {
+    "checkedAt": "2026-10-17T10:49:24.879Z",
+    "status": "deferred",
+    "reason": "daily-quota-exhausted",
+    "nextAttemptAt": "2026-10-18T00:00:00.000Z"
+  },
+  "WallerChen/awesome-jev-typesafe": {
+    "checkedAt": "2026-10-17T10:49:24.879Z",
+    "status": "deferred",
+    "reason": "daily-quota-exhausted",
+    "nextAttemptAt": "2026-10-18T00:00:00.000Z"
+  },
+  "HelgaFujita08074/jev-browser": {
+    "checkedAt": "2026-10-17T10:49:24.879Z",
+    "status": "deferred",
+    "reason": "daily-quota-exhausted",
+    "nextAttemptAt": "2026-10-18T00:00:00.000Z"
+  },
+  "JoyceLang/jev-browser": {
+    "checkedAt": "2026-10-17T10:49:24.879Z",
+    "status": "deferred",
+    "reason": "daily-quota-exhausted",
+    "nextAttemptAt": "2026-10-18T00:00:00.000Z"
+  },
+  "hrubymar10/ask-jev": {
+    "checkedAt": "2026-10-17T10:49:24.879Z",
+    "status": "deferred",
+    "reason": "daily-quota-exhausted",
+    "nextAttemptAt": "2026-10-18T00:00:00.000Z"
+  },
+  "timothybrush/jev-mcp": {
+    "checkedAt": "2026-10-17T10:49:24.879Z",
+    "status": "deferred",
+    "reason": "daily-quota-exhausted",
+    "nextAttemptAt": "2026-10-18T00:00:00.000Z"
+  },
+  "pachelbel23/claude-code-jev": {
+    "checkedAt": "2026-10-17T10:49:24.879Z",
+    "status": "deferred",
+    "reason": "daily-quota-exhausted",
+    "nextAttemptAt": "2026-10-18T00:00:00.000Z"
+  },
+  "alfinpogform/jev-mode": {
+    "checkedAt": "2026-10-17T10:49:24.879Z",
+    "status": "deferred",
+    "reason": "daily-quota-exhausted",
+    "nextAttemptAt": "2026-10-18T00:00:00.000Z"
+  },
+  "ricky94511/jev": {
+    "checkedAt": "2026-10-17T10:49:24.879Z",
+    "status": "deferred",
+    "reason": "daily-quota-exhausted",
+    "nextAttemptAt": "2026-10-18T00:00:00.000Z"
+  },
+  "claudecode070-cyber/jev-mcp": {
+    "checkedAt": "2026-10-17T10:49:24.879Z",
+    "status": "deferred",
+    "reason": "daily-quota-exhausted",
+    "nextAttemptAt": "2026-10-18T00:00:00.000Z"
+  },
+  "greenharborlabs/spring-jev-lab": {
+    "checkedAt": "2026-10-17T10:49:24.879Z",
+    "status": "deferred",
+    "reason": "daily-quota-exhausted",
+    "nextAttemptAt": "2026-10-18T00:00:00.000Z"
+  },
+  "humbertcostas/jev-axi": {
+    "checkedAt": "2026-10-17T10:49:24.879Z",
+    "status": "deferred",
+    "reason": "daily-quota-exhausted",
+    "nextAttemptAt": "2026-10-18T00:00:00.000Z"
+  },
+  "wpalczynski/jev-axi-oct-16-2026": {
+    "checkedAt": "2026-10-17T10:49:24.879Z",
+    "status": "deferred",
+    "reason": "daily-quota-exhausted",
+    "nextAttemptAt": "2026-10-18T00:00:00.000Z"
+  },
+  "SharonPham9893/awesome-jev": {
+    "checkedAt": "2026-10-17T10:49:24.879Z",
+    "status": "deferred",
+    "reason": "daily-quota-exhausted",
+    "nextAttemptAt": "2026-10-18T00:00:00.000Z"
+  },
+  "sunyasheng/awesome-jev-1": {
+    "checkedAt": "2026-10-17T10:49:24.879Z",
+    "status": "deferred",
+    "reason": "daily-quota-exhausted",
+    "nextAttemptAt": "2026-10-18T00:00:00.000Z"
+  },
+  "YuqiSharma81/awesome-jev": {
+    "checkedAt": "2026-10-17T10:49:24.879Z",
+    "status": "deferred",
+    "reason": "daily-quota-exhausted",
+    "nextAttemptAt": "2026-10-18T00:00:00.000Z"
+  },
+  "stran05/awesome-jev": {
+    "checkedAt": "2026-10-17T10:49:24.879Z",
+    "status": "deferred",
+    "reason": "daily-quota-exhausted",
+    "nextAttemptAt": "2026-10-18T00:00:00.000Z"
+  },
+  "AbigailAhmed58028/awesome-jev": {
+    "checkedAt": "2026-10-17T10:49:24.879Z",
+    "status": "deferred",
+    "reason": "daily-quota-exhausted",
+    "nextAttemptAt": "2026-10-18T00:00:00.000Z"
+  },
+  "sunyasheng/awesome-jev-2": {
+    "checkedAt": "2026-10-17T10:49:24.879Z",
+    "status": "deferred",
+    "reason": "daily-quota-exhausted",
+    "nextAttemptAt": "2026-10-18T00:00:00.000Z"
+  },
+  "rsingh888/jev-claim-processor": {
+    "checkedAt": "2026-10-17T10:49:24.879Z",
+    "status": "deferred",
+    "reason": "daily-quota-exhausted",
+    "nextAttemptAt": "2026-10-18T00:00:00.000Z"
+  },
+  "Donatasramanauskas007/open-jev": {
+    "checkedAt": "2026-10-17T10:49:24.879Z",
+    "status": "deferred",
+    "reason": "daily-quota-exhausted",
+    "nextAttemptAt": "2026-10-18T00:00:00.000Z"
+  },
+  "unofficial-equivocation2029/Open-Jev": {
+    "checkedAt": "2026-10-17T10:49:24.879Z",
+    "status": "deferred",
+    "reason": "daily-quota-exhausted",
+    "nextAttemptAt": "2026-10-18T00:00:00.000Z"
+  },
+  "xujiantop-crypto/jevwire": {
+    "checkedAt": "2026-10-17T10:49:24.879Z",
+    "status": "deferred",
+    "reason": "daily-quota-exhausted",
+    "nextAttemptAt": "2026-10-18T00:00:00.000Z"
+  },
+  "ThePFMind/jev-mcp": {
+    "checkedAt": "2026-10-17T10:49:24.879Z",
+    "status": "deferred",
+    "reason": "daily-quota-exhausted",
+    "nextAttemptAt": "2026-10-18T00:00:00.000Z"
+  },
+  "tr1v3r/dsh-jev": {
+    "checkedAt": "2026-10-17T10:49:24.879Z",
+    "status": "deferred",
+    "reason": "daily-quota-exhausted",
+    "nextAttemptAt": "2026-10-18T00:00:00.000Z"
+  },
+  "codeChap/mcp-server-jev": {
+    "checkedAt": "2026-10-17T10:49:24.879Z",
+    "status": "deferred",
+    "reason": "daily-quota-exhausted",
+    "nextAttemptAt": "2026-10-18T00:00:00.000Z"
+  },
+  "wr0x00/jev_mcp": {
+    "checkedAt": "2026-10-17T10:49:24.879Z",
+    "status": "deferred",
+    "reason": "daily-quota-exhausted",
+    "nextAttemptAt": "2026-10-18T00:00:00.000Z"
+  },
+  "Lucreitus/Jevbridge": {
+    "checkedAt": "2026-10-17T10:49:24.879Z",
+    "status": "deferred",
+    "reason": "daily-quota-exhausted",
+    "nextAttemptAt": "2026-10-18T00:00:00.000Z"
+  },
+  "muchsandeep/jev-mcp": {
+    "checkedAt": "2026-10-17T10:49:24.879Z",
+    "status": "deferred",
+    "reason": "daily-quota-exhausted",
+    "nextAttemptAt": "2026-10-18T00:00:00.000Z"
+  },
+  "xinyao27/awesome-jev-5": {
+    "checkedAt": "2026-10-17T10:49:24.879Z",
+    "status": "deferred",
+    "reason": "daily-quota-exhausted",
+    "nextAttemptAt": "2026-10-18T00:00:00.000Z"
+  },
+  "weidacn/jev-ai-mcp": {
+    "checkedAt": "2026-10-17T10:49:24.879Z",
+    "status": "deferred",
+    "reason": "daily-quota-exhausted",
+    "nextAttemptAt": "2026-10-18T00:00:00.000Z"
+  },
+  "femisapien/jev-flash-router": {
+    "checkedAt": "2026-10-17T10:49:24.879Z",
+    "status": "deferred",
+    "reason": "daily-quota-exhausted",
+    "nextAttemptAt": "2026-10-18T00:00:00.000Z"
+  },
+  "GFRC/jev-mcp": {
+    "checkedAt": "2026-10-17T10:49:24.879Z",
+    "status": "deferred",
+    "reason": "daily-quota-exhausted",
+    "nextAttemptAt": "2026-10-18T00:00:00.000Z"
+  },
+  "Ormus-Solutions/jev-mcp-setup": {
+    "checkedAt": "2026-10-17T10:49:24.879Z",
+    "status": "deferred",
+    "reason": "daily-quota-exhausted",
+    "nextAttemptAt": "2026-10-18T00:00:00.000Z"
+  },
+  "hopletstudio/omp-jev-mcp-ranker": {
+    "checkedAt": "2026-10-17T10:49:24.879Z",
+    "status": "deferred",
+    "reason": "daily-quota-exhausted",
+    "nextAttemptAt": "2026-10-18T00:00:00.000Z"
+  },
+  "jevbook/jevbook-mcp": {
+    "checkedAt": "2026-10-17T10:49:24.879Z",
+    "status": "deferred",
+    "reason": "daily-quota-exhausted",
+    "nextAttemptAt": "2026-10-18T00:00:00.000Z"
+  },
+  "nandansrikrishna/jev-go": {
+    "checkedAt": "2026-10-17T10:49:24.879Z",
+    "status": "deferred",
+    "reason": "daily-quota-exhausted",
+    "nextAttemptAt": "2026-10-18T00:00:00.000Z"
+  },
+  "w0h1v/jev-mcp": {
+    "checkedAt": "2026-10-17T10:49:24.879Z",
+    "status": "deferred",
+    "reason": "daily-quota-exhausted",
+    "nextAttemptAt": "2026-10-18T00:00:00.000Z"
+  },
+  "moto-taka/vercel-jev-mcp": {
+    "checkedAt": "2026-10-17T10:49:24.879Z",
+    "status": "deferred",
+    "reason": "daily-quota-exhausted",
+    "nextAttemptAt": "2026-10-18T00:00:00.000Z"
+  },
+  "homerokzam/jev-mcp": {
+    "checkedAt": "2026-10-17T10:49:24.879Z",
+    "status": "deferred",
+    "reason": "daily-quota-exhausted",
+    "nextAttemptAt": "2026-10-18T00:00:00.000Z"
+  },
+  "marcadrianp/jev-mcp": {
+    "checkedAt": "2026-10-17T10:49:24.879Z",
+    "status": "deferred",
+    "reason": "daily-quota-exhausted",
+    "nextAttemptAt": "2026-10-18T00:00:00.000Z"
+  },
+  "dharun-cohere/jev-sortwell": {
+    "checkedAt": "2026-10-17T10:49:24.879Z",
+    "status": "deferred",
+    "reason": "daily-quota-exhausted",
+    "nextAttemptAt": "2026-10-18T00:00:00.000Z"
+  },
+  "msilver777/jev-sortwell": {
+    "checkedAt": "2026-10-17T10:49:24.879Z",
+    "status": "deferred",
+    "reason": "daily-quota-exhausted",
+    "nextAttemptAt": "2026-10-18T00:00:00.000Z"
+  },
+  "bottotl/jev-mobile": {
+    "checkedAt": "2026-10-17T10:49:24.879Z",
+    "status": "deferred",
+    "reason": "daily-quota-exhausted",
+    "nextAttemptAt": "2026-10-18T00:00:00.000Z"
+  },
+  "gigantsc/jev-mcp": {
+    "checkedAt": "2026-10-17T10:49:24.879Z",
+    "status": "deferred",
+    "reason": "daily-quota-exhausted",
+    "nextAttemptAt": "2026-10-18T00:00:00.000Z"
+  },
+  "armenr/jev-mcp": {
+    "checkedAt": "2026-10-17T10:49:24.879Z",
+    "status": "deferred",
+    "reason": "daily-quota-exhausted",
+    "nextAttemptAt": "2026-10-18T00:00:00.000Z"
+  },
+  "Grace9393/jev-mcp": {
+    "checkedAt": "2026-10-17T10:49:24.879Z",
     "status": "deferred",
     "reason": "daily-quota-exhausted",
     "nextAttemptAt": "2026-10-18T00:00:00.000Z"
